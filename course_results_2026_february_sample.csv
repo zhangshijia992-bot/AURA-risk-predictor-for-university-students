@@ -1,0 +1,704 @@
+student_id,student_name,course_code,course_name,academic_year,semester_term,upload_type,course_mark
+367364,Student 400,CRS003,Object Oriented Programming,2026,February,Final,29.6
+367364,Student 400,CRS005,Principles of Software Engineering,2026,February,Final,65.6
+367364,Student 400,CRS011,Machine Learning and Intelligent System,2026,February,Final,77.9
+398902,Student 399,CRS006,Systems Analysis and Design,2026,February,Final,42.4
+398902,Student 399,CRS018,Industrial Project II,2026,February,Final,62.0
+398902,Student 399,CRS014,Capstone Project II,2026,February,Final,43.5
+398902,Student 399,CRS003,Object Oriented Programming,2026,February,Final,58.7
+314263,Student 398,CRS013,Capstone Project I,2026,February,Final,33.0
+314263,Student 398,CRS010,Computer Networks,2026,February,Final,49.3
+314263,Student 398,CRS014,Capstone Project II,2026,February,Final,78.6
+314263,Student 398,CRS016,Professional Practices and Information Security,2026,February,Final,65.4
+314263,Student 398,CRS003,Object Oriented Programming,2026,February,Final,80.0
+334278,Student 397,CRS012,Ideating Start-up,2026,February,Final,69.4
+334278,Student 397,CRS005,Principles of Software Engineering,2026,February,Final,43.0
+334278,Student 397,CRS009,Advanced Programming,2026,February,Final,65.9
+334278,Student 397,CRS017,Industrial Project I,2026,February,Final,60.8
+334278,Student 397,CRS007,Data Structures and Algorithms,2026,February,Final,35.9
+342320,Student 396,CRS003,Object Oriented Programming,2026,February,Final,38.3
+342320,Student 396,CRS008,Operating Systems,2026,February,Final,55.6
+342320,Student 396,CRS011,Machine Learning and Intelligent System,2026,February,Final,68.2
+361119,Student 395,CRS003,Object Oriented Programming,2026,February,Final,61.2
+361119,Student 395,CRS008,Operating Systems,2026,February,Final,47.5
+361119,Student 395,CRS014,Capstone Project II,2026,February,Final,54.1
+334977,Student 394,CRS016,Professional Practices and Information Security,2026,February,Final,79.8
+334977,Student 394,CRS012,Ideating Start-up,2026,February,Final,73.9
+334977,Student 394,CRS017,Industrial Project I,2026,February,Final,35.4
+334977,Student 394,CRS005,Principles of Software Engineering,2026,February,Final,57.7
+393533,Student 393,CRS014,Capstone Project II,2026,February,Final,76.9
+393533,Student 393,CRS012,Ideating Start-up,2026,February,Final,44.1
+393533,Student 393,CRS013,Capstone Project I,2026,February,Final,75.6
+393533,Student 393,CRS005,Principles of Software Engineering,2026,February,Final,65.6
+379155,Student 392,CRS005,Principles of Software Engineering,2026,February,Final,40.9
+379155,Student 392,CRS016,Professional Practices and Information Security,2026,February,Final,65.1
+379155,Student 392,CRS017,Industrial Project I,2026,February,Final,11.7
+379155,Student 392,CRS002,Computer Architecture and Organisation,2026,February,Final,44.2
+374571,Student 391,CRS012,Ideating Start-up,2026,February,Final,53.8
+374571,Student 391,CRS004,Discrete Structures,2026,February,Final,63.7
+374571,Student 391,CRS009,Advanced Programming,2026,February,Final,62.7
+313276,Student 390,CRS002,Computer Architecture and Organisation,2026,February,Final,26.8
+313276,Student 390,CRS014,Capstone Project II,2026,February,Final,74.8
+313276,Student 390,CRS015,Human Computer Interaction,2026,February,Final,54.5
+313276,Student 390,CRS004,Discrete Structures,2026,February,Final,21.7
+362192,Student 389,CRS013,Capstone Project I,2026,February,Final,69.9
+362192,Student 389,CRS007,Data Structures and Algorithms,2026,February,Final,51.1
+362192,Student 389,CRS018,Industrial Project II,2026,February,Final,56.6
+362192,Student 389,CRS008,Operating Systems,2026,February,Final,48.8
+394872,Student 388,CRS004,Discrete Structures,2026,February,Final,55.8
+394872,Student 388,CRS001,Database Systems,2026,February,Final,37.3
+394872,Student 388,CRS005,Principles of Software Engineering,2026,February,Final,58.0
+362200,Student 387,CRS006,Systems Analysis and Design,2026,February,Final,58.6
+362200,Student 387,CRS011,Machine Learning and Intelligent System,2026,February,Final,72.2
+362200,Student 387,CRS015,Human Computer Interaction,2026,February,Final,65.8
+362200,Student 387,CRS018,Industrial Project II,2026,February,Final,36.4
+362200,Student 387,CRS012,Ideating Start-up,2026,February,Final,53.1
+390390,Student 386,CRS016,Professional Practices and Information Security,2026,February,Final,60.4
+390390,Student 386,CRS010,Computer Networks,2026,February,Final,47.1
+390390,Student 386,CRS003,Object Oriented Programming,2026,February,Final,41.3
+390390,Student 386,CRS015,Human Computer Interaction,2026,February,Final,57.0
+345865,Student 385,CRS010,Computer Networks,2026,February,Final,48.1
+345865,Student 385,CRS016,Professional Practices and Information Security,2026,February,Final,100.0
+345865,Student 385,CRS002,Computer Architecture and Organisation,2026,February,Final,59.8
+345865,Student 385,CRS007,Data Structures and Algorithms,2026,February,Final,43.9
+359591,Student 384,CRS008,Operating Systems,2026,February,Final,63.6
+359591,Student 384,CRS011,Machine Learning and Intelligent System,2026,February,Final,63.9
+359591,Student 384,CRS014,Capstone Project II,2026,February,Final,78.3
+359591,Student 384,CRS002,Computer Architecture and Organisation,2026,February,Final,69.6
+381139,Student 383,CRS006,Systems Analysis and Design,2026,February,Final,74.8
+381139,Student 383,CRS013,Capstone Project I,2026,February,Final,58.9
+381139,Student 383,CRS009,Advanced Programming,2026,February,Final,68.8
+344520,Student 382,CRS012,Ideating Start-up,2026,February,Final,51.2
+344520,Student 382,CRS014,Capstone Project II,2026,February,Final,59.7
+344520,Student 382,CRS011,Machine Learning and Intelligent System,2026,February,Final,57.7
+344520,Student 382,CRS006,Systems Analysis and Design,2026,February,Final,82.5
+322412,Student 381,CRS012,Ideating Start-up,2026,February,Final,67.4
+322412,Student 381,CRS005,Principles of Software Engineering,2026,February,Final,79.1
+322412,Student 381,CRS014,Capstone Project II,2026,February,Final,54.4
+322412,Student 381,CRS017,Industrial Project I,2026,February,Final,27.9
+322412,Student 381,CRS015,Human Computer Interaction,2026,February,Final,27.6
+315657,Student 380,CRS012,Ideating Start-up,2026,February,Final,50.4
+315657,Student 380,CRS016,Professional Practices and Information Security,2026,February,Final,30.6
+315657,Student 380,CRS009,Advanced Programming,2026,February,Final,53.4
+315657,Student 380,CRS013,Capstone Project I,2026,February,Final,58.7
+390007,Student 379,CRS015,Human Computer Interaction,2026,February,Final,47.5
+390007,Student 379,CRS001,Database Systems,2026,February,Final,55.6
+390007,Student 379,CRS007,Data Structures and Algorithms,2026,February,Final,23.4
+359427,Student 378,CRS009,Advanced Programming,2026,February,Final,45.0
+359427,Student 378,CRS011,Machine Learning and Intelligent System,2026,February,Final,47.6
+359427,Student 378,CRS013,Capstone Project I,2026,February,Final,48.5
+324517,Student 377,CRS018,Industrial Project II,2026,February,Final,64.9
+324517,Student 377,CRS001,Database Systems,2026,February,Final,63.1
+324517,Student 377,CRS008,Operating Systems,2026,February,Final,70.9
+324517,Student 377,CRS004,Discrete Structures,2026,February,Final,58.2
+324517,Student 377,CRS002,Computer Architecture and Organisation,2026,February,Final,56.4
+353379,Student 376,CRS013,Capstone Project I,2026,February,Final,79.4
+353379,Student 376,CRS011,Machine Learning and Intelligent System,2026,February,Final,61.3
+353379,Student 376,CRS002,Computer Architecture and Organisation,2026,February,Final,64.1
+353379,Student 376,CRS018,Industrial Project II,2026,February,Final,68.3
+353379,Student 376,CRS008,Operating Systems,2026,February,Final,41.1
+362635,Student 375,CRS006,Systems Analysis and Design,2026,February,Final,53.6
+362635,Student 375,CRS015,Human Computer Interaction,2026,February,Final,23.9
+362635,Student 375,CRS003,Object Oriented Programming,2026,February,Final,42.0
+362635,Student 375,CRS008,Operating Systems,2026,February,Final,47.9
+352915,Student 374,CRS007,Data Structures and Algorithms,2026,February,Final,41.1
+352915,Student 374,CRS011,Machine Learning and Intelligent System,2026,February,Final,52.6
+352915,Student 374,CRS017,Industrial Project I,2026,February,Final,43.0
+352915,Student 374,CRS018,Industrial Project II,2026,February,Final,43.4
+352915,Student 374,CRS002,Computer Architecture and Organisation,2026,February,Final,54.2
+314252,Student 373,CRS009,Advanced Programming,2026,February,Final,96.9
+314252,Student 373,CRS014,Capstone Project II,2026,February,Final,71.5
+314252,Student 373,CRS010,Computer Networks,2026,February,Final,57.8
+314252,Student 373,CRS018,Industrial Project II,2026,February,Final,83.7
+314252,Student 373,CRS006,Systems Analysis and Design,2026,February,Final,45.2
+331638,Student 372,CRS007,Data Structures and Algorithms,2026,February,Final,30.1
+331638,Student 372,CRS004,Discrete Structures,2026,February,Final,51.5
+331638,Student 372,CRS006,Systems Analysis and Design,2026,February,Final,34.8
+331638,Student 372,CRS003,Object Oriented Programming,2026,February,Final,68.2
+331638,Student 372,CRS016,Professional Practices and Information Security,2026,February,Final,48.5
+342049,Student 371,CRS001,Database Systems,2026,February,Final,35.0
+342049,Student 371,CRS014,Capstone Project II,2026,February,Final,39.8
+342049,Student 371,CRS007,Data Structures and Algorithms,2026,February,Final,40.6
+342049,Student 371,CRS002,Computer Architecture and Organisation,2026,February,Final,72.1
+342049,Student 371,CRS010,Computer Networks,2026,February,Final,53.4
+315210,Student 370,CRS010,Computer Networks,2026,February,Final,63.2
+315210,Student 370,CRS004,Discrete Structures,2026,February,Final,43.9
+315210,Student 370,CRS014,Capstone Project II,2026,February,Final,80.6
+315210,Student 370,CRS009,Advanced Programming,2026,February,Final,92.3
+359325,Student 369,CRS004,Discrete Structures,2026,February,Final,51.6
+359325,Student 369,CRS003,Object Oriented Programming,2026,February,Final,70.5
+359325,Student 369,CRS014,Capstone Project II,2026,February,Final,60.4
+313996,Student 368,CRS001,Database Systems,2026,February,Final,46.7
+313996,Student 368,CRS012,Ideating Start-up,2026,February,Final,84.8
+313996,Student 368,CRS009,Advanced Programming,2026,February,Final,84.2
+313996,Student 368,CRS002,Computer Architecture and Organisation,2026,February,Final,60.6
+358866,Student 367,CRS002,Computer Architecture and Organisation,2026,February,Final,62.0
+358866,Student 367,CRS010,Computer Networks,2026,February,Final,42.5
+358866,Student 367,CRS013,Capstone Project I,2026,February,Final,78.9
+358866,Student 367,CRS012,Ideating Start-up,2026,February,Final,80.1
+358866,Student 367,CRS007,Data Structures and Algorithms,2026,February,Final,32.8
+376434,Student 366,CRS004,Discrete Structures,2026,February,Final,37.2
+376434,Student 366,CRS017,Industrial Project I,2026,February,Final,48.6
+376434,Student 366,CRS003,Object Oriented Programming,2026,February,Final,67.8
+381438,Student 365,CRS006,Systems Analysis and Design,2026,February,Final,41.1
+381438,Student 365,CRS009,Advanced Programming,2026,February,Final,54.3
+381438,Student 365,CRS004,Discrete Structures,2026,February,Final,52.4
+334625,Student 364,CRS006,Systems Analysis and Design,2026,February,Final,46.2
+334625,Student 364,CRS015,Human Computer Interaction,2026,February,Final,53.3
+334625,Student 364,CRS001,Database Systems,2026,February,Final,35.7
+334625,Student 364,CRS013,Capstone Project I,2026,February,Final,58.7
+334625,Student 364,CRS004,Discrete Structures,2026,February,Final,55.7
+312307,Student 363,CRS004,Discrete Structures,2026,February,Final,58.0
+312307,Student 363,CRS002,Computer Architecture and Organisation,2026,February,Final,34.6
+312307,Student 363,CRS005,Principles of Software Engineering,2026,February,Final,69.1
+387311,Student 362,CRS005,Principles of Software Engineering,2026,February,Final,51.2
+387311,Student 362,CRS008,Operating Systems,2026,February,Final,52.4
+387311,Student 362,CRS007,Data Structures and Algorithms,2026,February,Final,60.8
+363731,Student 361,CRS004,Discrete Structures,2026,February,Final,16.8
+363731,Student 361,CRS016,Professional Practices and Information Security,2026,February,Final,51.5
+363731,Student 361,CRS007,Data Structures and Algorithms,2026,February,Final,56.0
+363731,Student 361,CRS017,Industrial Project I,2026,February,Final,53.6
+363731,Student 361,CRS018,Industrial Project II,2026,February,Final,80.5
+325165,Student 360,CRS014,Capstone Project II,2026,February,Final,67.7
+325165,Student 360,CRS017,Industrial Project I,2026,February,Final,91.3
+325165,Student 360,CRS004,Discrete Structures,2026,February,Final,83.0
+313987,Student 359,CRS010,Computer Networks,2026,February,Final,68.2
+313987,Student 359,CRS015,Human Computer Interaction,2026,February,Final,89.3
+313987,Student 359,CRS004,Discrete Structures,2026,February,Final,26.7
+313987,Student 359,CRS001,Database Systems,2026,February,Final,54.3
+395420,Student 358,CRS010,Computer Networks,2026,February,Final,76.6
+395420,Student 358,CRS012,Ideating Start-up,2026,February,Final,67.6
+395420,Student 358,CRS002,Computer Architecture and Organisation,2026,February,Final,31.6
+358469,Student 357,CRS004,Discrete Structures,2026,February,Final,49.3
+358469,Student 357,CRS002,Computer Architecture and Organisation,2026,February,Final,37.6
+358469,Student 357,CRS003,Object Oriented Programming,2026,February,Final,56.6
+381249,Student 356,CRS012,Ideating Start-up,2026,February,Final,43.3
+381249,Student 356,CRS008,Operating Systems,2026,February,Final,70.4
+381249,Student 356,CRS010,Computer Networks,2026,February,Final,45.8
+353636,Student 355,CRS012,Ideating Start-up,2026,February,Final,66.7
+353636,Student 355,CRS001,Database Systems,2026,February,Final,45.2
+353636,Student 355,CRS003,Object Oriented Programming,2026,February,Final,55.6
+353636,Student 355,CRS016,Professional Practices and Information Security,2026,February,Final,56.3
+373486,Student 354,CRS002,Computer Architecture and Organisation,2026,February,Final,50.6
+373486,Student 354,CRS015,Human Computer Interaction,2026,February,Final,82.4
+373486,Student 354,CRS006,Systems Analysis and Design,2026,February,Final,80.9
+373486,Student 354,CRS009,Advanced Programming,2026,February,Final,32.0
+354176,Student 353,CRS006,Systems Analysis and Design,2026,February,Final,78.4
+354176,Student 353,CRS015,Human Computer Interaction,2026,February,Final,63.9
+354176,Student 353,CRS010,Computer Networks,2026,February,Final,54.1
+354176,Student 353,CRS002,Computer Architecture and Organisation,2026,February,Final,89.9
+354176,Student 353,CRS012,Ideating Start-up,2026,February,Final,83.8
+320818,Student 352,CRS018,Industrial Project II,2026,February,Final,86.0
+320818,Student 352,CRS011,Machine Learning and Intelligent System,2026,February,Final,67.0
+320818,Student 352,CRS013,Capstone Project I,2026,February,Final,73.8
+320818,Student 352,CRS002,Computer Architecture and Organisation,2026,February,Final,57.2
+320818,Student 352,CRS004,Discrete Structures,2026,February,Final,64.0
+370438,Student 351,CRS009,Advanced Programming,2026,February,Final,80.5
+370438,Student 351,CRS018,Industrial Project II,2026,February,Final,100.0
+370438,Student 351,CRS008,Operating Systems,2026,February,Final,62.6
+370438,Student 351,CRS017,Industrial Project I,2026,February,Final,58.0
+329041,Student 350,CRS014,Capstone Project II,2026,February,Final,99.6
+329041,Student 350,CRS006,Systems Analysis and Design,2026,February,Final,87.5
+329041,Student 350,CRS010,Computer Networks,2026,February,Final,38.6
+329041,Student 350,CRS009,Advanced Programming,2026,February,Final,97.0
+329041,Student 350,CRS018,Industrial Project II,2026,February,Final,51.3
+384016,Student 349,CRS015,Human Computer Interaction,2026,February,Final,41.9
+384016,Student 349,CRS007,Data Structures and Algorithms,2026,February,Final,54.3
+384016,Student 349,CRS003,Object Oriented Programming,2026,February,Final,91.3
+384016,Student 349,CRS006,Systems Analysis and Design,2026,February,Final,87.9
+382885,Student 348,CRS004,Discrete Structures,2026,February,Final,50.6
+382885,Student 348,CRS005,Principles of Software Engineering,2026,February,Final,31.3
+382885,Student 348,CRS003,Object Oriented Programming,2026,February,Final,65.2
+382885,Student 348,CRS012,Ideating Start-up,2026,February,Final,36.0
+325817,Student 347,CRS012,Ideating Start-up,2026,February,Final,49.3
+325817,Student 347,CRS014,Capstone Project II,2026,February,Final,78.7
+325817,Student 347,CRS016,Professional Practices and Information Security,2026,February,Final,65.0
+329510,Student 346,CRS013,Capstone Project I,2026,February,Final,51.0
+329510,Student 346,CRS002,Computer Architecture and Organisation,2026,February,Final,60.1
+329510,Student 346,CRS018,Industrial Project II,2026,February,Final,48.3
+329510,Student 346,CRS016,Professional Practices and Information Security,2026,February,Final,51.4
+329510,Student 346,CRS006,Systems Analysis and Design,2026,February,Final,63.4
+390915,Student 345,CRS018,Industrial Project II,2026,February,Final,61.0
+390915,Student 345,CRS015,Human Computer Interaction,2026,February,Final,83.2
+390915,Student 345,CRS010,Computer Networks,2026,February,Final,45.0
+390915,Student 345,CRS011,Machine Learning and Intelligent System,2026,February,Final,84.9
+321790,Student 344,CRS002,Computer Architecture and Organisation,2026,February,Final,57.0
+321790,Student 344,CRS010,Computer Networks,2026,February,Final,74.0
+321790,Student 344,CRS005,Principles of Software Engineering,2026,February,Final,71.9
+321790,Student 344,CRS009,Advanced Programming,2026,February,Final,55.9
+320914,Student 343,CRS007,Data Structures and Algorithms,2026,February,Final,37.0
+320914,Student 343,CRS003,Object Oriented Programming,2026,February,Final,47.6
+320914,Student 343,CRS002,Computer Architecture and Organisation,2026,February,Final,57.5
+332928,Student 342,CRS001,Database Systems,2026,February,Final,31.6
+332928,Student 342,CRS015,Human Computer Interaction,2026,February,Final,54.7
+332928,Student 342,CRS014,Capstone Project II,2026,February,Final,80.2
+332928,Student 342,CRS005,Principles of Software Engineering,2026,February,Final,60.0
+329923,Student 341,CRS010,Computer Networks,2026,February,Final,45.5
+329923,Student 341,CRS013,Capstone Project I,2026,February,Final,70.8
+329923,Student 341,CRS011,Machine Learning and Intelligent System,2026,February,Final,76.3
+329923,Student 341,CRS018,Industrial Project II,2026,February,Final,86.4
+349316,Student 340,CRS016,Professional Practices and Information Security,2026,February,Final,72.0
+349316,Student 340,CRS006,Systems Analysis and Design,2026,February,Final,44.4
+349316,Student 340,CRS007,Data Structures and Algorithms,2026,February,Final,34.4
+349316,Student 340,CRS005,Principles of Software Engineering,2026,February,Final,46.1
+349316,Student 340,CRS018,Industrial Project II,2026,February,Final,63.5
+393850,Student 339,CRS017,Industrial Project I,2026,February,Final,71.2
+393850,Student 339,CRS003,Object Oriented Programming,2026,February,Final,51.8
+393850,Student 339,CRS005,Principles of Software Engineering,2026,February,Final,54.9
+393850,Student 339,CRS012,Ideating Start-up,2026,February,Final,51.2
+393850,Student 339,CRS009,Advanced Programming,2026,February,Final,82.2
+346823,Student 338,CRS003,Object Oriented Programming,2026,February,Final,50.8
+346823,Student 338,CRS010,Computer Networks,2026,February,Final,80.0
+346823,Student 338,CRS009,Advanced Programming,2026,February,Final,78.3
+332477,Student 337,CRS007,Data Structures and Algorithms,2026,February,Final,32.6
+332477,Student 337,CRS006,Systems Analysis and Design,2026,February,Final,48.1
+332477,Student 337,CRS013,Capstone Project I,2026,February,Final,70.3
+332477,Student 337,CRS009,Advanced Programming,2026,February,Final,55.0
+332477,Student 337,CRS014,Capstone Project II,2026,February,Final,77.4
+361198,Student 336,CRS018,Industrial Project II,2026,February,Final,75.4
+361198,Student 336,CRS004,Discrete Structures,2026,February,Final,64.4
+361198,Student 336,CRS008,Operating Systems,2026,February,Final,63.0
+361198,Student 336,CRS010,Computer Networks,2026,February,Final,55.6
+361198,Student 336,CRS015,Human Computer Interaction,2026,February,Final,74.2
+342719,Student 335,CRS009,Advanced Programming,2026,February,Final,36.7
+342719,Student 335,CRS004,Discrete Structures,2026,February,Final,14.9
+342719,Student 335,CRS010,Computer Networks,2026,February,Final,15.9
+342719,Student 335,CRS006,Systems Analysis and Design,2026,February,Final,28.9
+342719,Student 335,CRS016,Professional Practices and Information Security,2026,February,Final,75.0
+376436,Student 334,CRS009,Advanced Programming,2026,February,Final,50.5
+376436,Student 334,CRS003,Object Oriented Programming,2026,February,Final,76.9
+376436,Student 334,CRS004,Discrete Structures,2026,February,Final,78.7
+329417,Student 333,CRS006,Systems Analysis and Design,2026,February,Final,41.4
+329417,Student 333,CRS001,Database Systems,2026,February,Final,55.9
+329417,Student 333,CRS002,Computer Architecture and Organisation,2026,February,Final,34.6
+329417,Student 333,CRS017,Industrial Project I,2026,February,Final,57.4
+343189,Student 332,CRS001,Database Systems,2026,February,Final,49.4
+343189,Student 332,CRS015,Human Computer Interaction,2026,February,Final,86.0
+343189,Student 332,CRS014,Capstone Project II,2026,February,Final,56.0
+343189,Student 332,CRS013,Capstone Project I,2026,February,Final,76.9
+337651,Student 331,CRS007,Data Structures and Algorithms,2026,February,Final,36.9
+337651,Student 331,CRS012,Ideating Start-up,2026,February,Final,54.9
+337651,Student 331,CRS001,Database Systems,2026,February,Final,69.1
+398555,Student 330,CRS013,Capstone Project I,2026,February,Final,86.5
+398555,Student 330,CRS009,Advanced Programming,2026,February,Final,71.6
+398555,Student 330,CRS007,Data Structures and Algorithms,2026,February,Final,46.7
+392059,Student 329,CRS003,Object Oriented Programming,2026,February,Final,41.0
+392059,Student 329,CRS009,Advanced Programming,2026,February,Final,68.5
+392059,Student 329,CRS001,Database Systems,2026,February,Final,35.9
+377362,Student 328,CRS015,Human Computer Interaction,2026,February,Final,54.4
+377362,Student 328,CRS001,Database Systems,2026,February,Final,83.9
+377362,Student 328,CRS011,Machine Learning and Intelligent System,2026,February,Final,58.6
+334319,Student 327,CRS017,Industrial Project I,2026,February,Final,45.6
+334319,Student 327,CRS005,Principles of Software Engineering,2026,February,Final,36.6
+334319,Student 327,CRS006,Systems Analysis and Design,2026,February,Final,76.2
+334319,Student 327,CRS007,Data Structures and Algorithms,2026,February,Final,45.9
+376499,Student 326,CRS004,Discrete Structures,2026,February,Final,61.7
+376499,Student 326,CRS001,Database Systems,2026,February,Final,82.3
+376499,Student 326,CRS003,Object Oriented Programming,2026,February,Final,71.0
+341913,Student 325,CRS008,Operating Systems,2026,February,Final,47.5
+341913,Student 325,CRS003,Object Oriented Programming,2026,February,Final,45.2
+341913,Student 325,CRS011,Machine Learning and Intelligent System,2026,February,Final,85.1
+341913,Student 325,CRS012,Ideating Start-up,2026,February,Final,65.5
+341913,Student 325,CRS016,Professional Practices and Information Security,2026,February,Final,65.0
+389507,Student 324,CRS011,Machine Learning and Intelligent System,2026,February,Final,40.1
+389507,Student 324,CRS018,Industrial Project II,2026,February,Final,98.1
+389507,Student 324,CRS008,Operating Systems,2026,February,Final,75.8
+389507,Student 324,CRS003,Object Oriented Programming,2026,February,Final,49.8
+352375,Student 323,CRS008,Operating Systems,2026,February,Final,59.3
+352375,Student 323,CRS002,Computer Architecture and Organisation,2026,February,Final,63.9
+352375,Student 323,CRS014,Capstone Project II,2026,February,Final,56.5
+339469,Student 322,CRS001,Database Systems,2026,February,Final,36.6
+339469,Student 322,CRS018,Industrial Project II,2026,February,Final,73.2
+339469,Student 322,CRS015,Human Computer Interaction,2026,February,Final,76.9
+339469,Student 322,CRS012,Ideating Start-up,2026,February,Final,67.6
+377256,Student 321,CRS016,Professional Practices and Information Security,2026,February,Final,34.0
+377256,Student 321,CRS006,Systems Analysis and Design,2026,February,Final,48.3
+377256,Student 321,CRS015,Human Computer Interaction,2026,February,Final,55.6
+377256,Student 321,CRS009,Advanced Programming,2026,February,Final,66.9
+360195,Student 320,CRS015,Human Computer Interaction,2026,February,Final,46.1
+360195,Student 320,CRS014,Capstone Project II,2026,February,Final,86.2
+360195,Student 320,CRS008,Operating Systems,2026,February,Final,11.1
+360195,Student 320,CRS018,Industrial Project II,2026,February,Final,62.2
+360195,Student 320,CRS004,Discrete Structures,2026,February,Final,30.3
+353854,Student 319,CRS018,Industrial Project II,2026,February,Final,58.3
+353854,Student 319,CRS016,Professional Practices and Information Security,2026,February,Final,51.1
+353854,Student 319,CRS005,Principles of Software Engineering,2026,February,Final,34.8
+353854,Student 319,CRS002,Computer Architecture and Organisation,2026,February,Final,59.5
+354861,Student 318,CRS015,Human Computer Interaction,2026,February,Final,57.0
+354861,Student 318,CRS008,Operating Systems,2026,February,Final,60.8
+354861,Student 318,CRS007,Data Structures and Algorithms,2026,February,Final,44.8
+354861,Student 318,CRS006,Systems Analysis and Design,2026,February,Final,46.5
+317197,Student 317,CRS010,Computer Networks,2026,February,Final,25.9
+317197,Student 317,CRS015,Human Computer Interaction,2026,February,Final,33.9
+317197,Student 317,CRS008,Operating Systems,2026,February,Final,36.9
+391671,Student 316,CRS014,Capstone Project II,2026,February,Final,55.0
+391671,Student 316,CRS002,Computer Architecture and Organisation,2026,February,Final,59.0
+391671,Student 316,CRS010,Computer Networks,2026,February,Final,71.9
+391671,Student 316,CRS018,Industrial Project II,2026,February,Final,44.7
+315694,Student 315,CRS002,Computer Architecture and Organisation,2026,February,Final,27.2
+315694,Student 315,CRS008,Operating Systems,2026,February,Final,68.9
+315694,Student 315,CRS018,Industrial Project II,2026,February,Final,38.0
+311810,Student 314,CRS002,Computer Architecture and Organisation,2026,February,Final,79.5
+311810,Student 314,CRS017,Industrial Project I,2026,February,Final,75.8
+311810,Student 314,CRS005,Principles of Software Engineering,2026,February,Final,51.9
+311810,Student 314,CRS001,Database Systems,2026,February,Final,61.7
+311810,Student 314,CRS006,Systems Analysis and Design,2026,February,Final,56.7
+375095,Student 313,CRS001,Database Systems,2026,February,Final,59.0
+375095,Student 313,CRS014,Capstone Project II,2026,February,Final,38.7
+375095,Student 313,CRS005,Principles of Software Engineering,2026,February,Final,60.0
+375095,Student 313,CRS004,Discrete Structures,2026,February,Final,29.3
+375095,Student 313,CRS011,Machine Learning and Intelligent System,2026,February,Final,69.8
+369358,Student 312,CRS009,Advanced Programming,2026,February,Final,45.0
+369358,Student 312,CRS017,Industrial Project I,2026,February,Final,41.1
+369358,Student 312,CRS012,Ideating Start-up,2026,February,Final,69.0
+369358,Student 312,CRS003,Object Oriented Programming,2026,February,Final,43.7
+369358,Student 312,CRS006,Systems Analysis and Design,2026,February,Final,59.4
+317436,Student 311,CRS017,Industrial Project I,2026,February,Final,74.7
+317436,Student 311,CRS001,Database Systems,2026,February,Final,33.3
+317436,Student 311,CRS007,Data Structures and Algorithms,2026,February,Final,47.3
+317436,Student 311,CRS014,Capstone Project II,2026,February,Final,51.3
+317436,Student 311,CRS004,Discrete Structures,2026,February,Final,51.4
+362318,Student 310,CRS018,Industrial Project II,2026,February,Final,92.7
+362318,Student 310,CRS003,Object Oriented Programming,2026,February,Final,63.6
+362318,Student 310,CRS016,Professional Practices and Information Security,2026,February,Final,67.6
+371790,Student 309,CRS013,Capstone Project I,2026,February,Final,49.8
+371790,Student 309,CRS016,Professional Practices and Information Security,2026,February,Final,49.4
+371790,Student 309,CRS009,Advanced Programming,2026,February,Final,54.7
+378701,Student 308,CRS011,Machine Learning and Intelligent System,2026,February,Final,40.6
+378701,Student 308,CRS007,Data Structures and Algorithms,2026,February,Final,67.3
+378701,Student 308,CRS018,Industrial Project II,2026,February,Final,57.4
+398890,Student 307,CRS007,Data Structures and Algorithms,2026,February,Final,50.2
+398890,Student 307,CRS013,Capstone Project I,2026,February,Final,31.4
+398890,Student 307,CRS001,Database Systems,2026,February,Final,66.4
+398890,Student 307,CRS014,Capstone Project II,2026,February,Final,64.0
+346115,Student 306,CRS007,Data Structures and Algorithms,2026,February,Final,44.5
+346115,Student 306,CRS015,Human Computer Interaction,2026,February,Final,31.5
+346115,Student 306,CRS003,Object Oriented Programming,2026,February,Final,67.6
+323811,Student 305,CRS006,Systems Analysis and Design,2026,February,Final,59.4
+323811,Student 305,CRS013,Capstone Project I,2026,February,Final,49.8
+323811,Student 305,CRS002,Computer Architecture and Organisation,2026,February,Final,38.2
+323811,Student 305,CRS003,Object Oriented Programming,2026,February,Final,73.5
+331550,Student 304,CRS010,Computer Networks,2026,February,Final,58.0
+331550,Student 304,CRS003,Object Oriented Programming,2026,February,Final,58.3
+331550,Student 304,CRS002,Computer Architecture and Organisation,2026,February,Final,55.4
+387079,Student 303,CRS007,Data Structures and Algorithms,2026,February,Final,21.6
+387079,Student 303,CRS016,Professional Practices and Information Security,2026,February,Final,66.2
+387079,Student 303,CRS013,Capstone Project I,2026,February,Final,85.8
+327159,Student 302,CRS015,Human Computer Interaction,2026,February,Final,54.0
+327159,Student 302,CRS016,Professional Practices and Information Security,2026,February,Final,54.9
+327159,Student 302,CRS006,Systems Analysis and Design,2026,February,Final,81.9
+327159,Student 302,CRS014,Capstone Project II,2026,February,Final,74.9
+327159,Student 302,CRS007,Data Structures and Algorithms,2026,February,Final,58.9
+393834,Student 301,CRS018,Industrial Project II,2026,February,Final,52.4
+393834,Student 301,CRS003,Object Oriented Programming,2026,February,Final,50.6
+393834,Student 301,CRS010,Computer Networks,2026,February,Final,60.7
+393834,Student 301,CRS004,Discrete Structures,2026,February,Final,54.5
+393834,Student 301,CRS006,Systems Analysis and Design,2026,February,Final,74.2
+324769,Student 300,CRS011,Machine Learning and Intelligent System,2026,February,Final,62.8
+324769,Student 300,CRS006,Systems Analysis and Design,2026,February,Final,54.3
+324769,Student 300,CRS018,Industrial Project II,2026,February,Final,69.9
+324769,Student 300,CRS014,Capstone Project II,2026,February,Final,67.1
+331372,Student 299,CRS001,Database Systems,2026,February,Final,60.9
+331372,Student 299,CRS018,Industrial Project II,2026,February,Final,54.8
+331372,Student 299,CRS017,Industrial Project I,2026,February,Final,65.8
+331372,Student 299,CRS016,Professional Practices and Information Security,2026,February,Final,61.0
+372675,Student 298,CRS017,Industrial Project I,2026,February,Final,53.3
+372675,Student 298,CRS011,Machine Learning and Intelligent System,2026,February,Final,60.1
+372675,Student 298,CRS003,Object Oriented Programming,2026,February,Final,79.7
+372675,Student 298,CRS001,Database Systems,2026,February,Final,26.2
+372675,Student 298,CRS010,Computer Networks,2026,February,Final,49.3
+311287,Student 297,CRS016,Professional Practices and Information Security,2026,February,Final,63.5
+311287,Student 297,CRS006,Systems Analysis and Design,2026,February,Final,55.5
+311287,Student 297,CRS012,Ideating Start-up,2026,February,Final,36.4
+388483,Student 296,CRS017,Industrial Project I,2026,February,Final,59.2
+388483,Student 296,CRS009,Advanced Programming,2026,February,Final,83.9
+388483,Student 296,CRS004,Discrete Structures,2026,February,Final,49.9
+388483,Student 296,CRS006,Systems Analysis and Design,2026,February,Final,45.7
+388665,Student 295,CRS017,Industrial Project I,2026,February,Final,55.7
+388665,Student 295,CRS015,Human Computer Interaction,2026,February,Final,88.9
+388665,Student 295,CRS011,Machine Learning and Intelligent System,2026,February,Final,63.2
+391769,Student 294,CRS017,Industrial Project I,2026,February,Final,40.5
+391769,Student 294,CRS011,Machine Learning and Intelligent System,2026,February,Final,32.8
+391769,Student 294,CRS003,Object Oriented Programming,2026,February,Final,49.9
+391769,Student 294,CRS013,Capstone Project I,2026,February,Final,76.7
+391286,Student 293,CRS009,Advanced Programming,2026,February,Final,57.9
+391286,Student 293,CRS008,Operating Systems,2026,February,Final,47.9
+391286,Student 293,CRS006,Systems Analysis and Design,2026,February,Final,64.3
+391286,Student 293,CRS018,Industrial Project II,2026,February,Final,73.1
+391286,Student 293,CRS007,Data Structures and Algorithms,2026,February,Final,19.3
+315348,Student 292,CRS010,Computer Networks,2026,February,Final,55.3
+315348,Student 292,CRS014,Capstone Project II,2026,February,Final,72.7
+315348,Student 292,CRS004,Discrete Structures,2026,February,Final,55.7
+376544,Student 291,CRS002,Computer Architecture and Organisation,2026,February,Final,32.0
+376544,Student 291,CRS014,Capstone Project II,2026,February,Final,91.0
+376544,Student 291,CRS006,Systems Analysis and Design,2026,February,Final,67.6
+392989,Student 290,CRS001,Database Systems,2026,February,Final,70.1
+392989,Student 290,CRS004,Discrete Structures,2026,February,Final,70.6
+392989,Student 290,CRS014,Capstone Project II,2026,February,Final,75.9
+392989,Student 290,CRS017,Industrial Project I,2026,February,Final,56.9
+323493,Student 289,CRS006,Systems Analysis and Design,2026,February,Final,56.0
+323493,Student 289,CRS003,Object Oriented Programming,2026,February,Final,74.4
+323493,Student 289,CRS010,Computer Networks,2026,February,Final,47.2
+323493,Student 289,CRS016,Professional Practices and Information Security,2026,February,Final,53.0
+399126,Student 288,CRS015,Human Computer Interaction,2026,February,Final,56.4
+399126,Student 288,CRS003,Object Oriented Programming,2026,February,Final,78.7
+399126,Student 288,CRS010,Computer Networks,2026,February,Final,47.8
+339845,Student 287,CRS012,Ideating Start-up,2026,February,Final,70.9
+339845,Student 287,CRS016,Professional Practices and Information Security,2026,February,Final,71.0
+339845,Student 287,CRS009,Advanced Programming,2026,February,Final,97.8
+339845,Student 287,CRS004,Discrete Structures,2026,February,Final,75.0
+366094,Student 286,CRS008,Operating Systems,2026,February,Final,41.7
+366094,Student 286,CRS012,Ideating Start-up,2026,February,Final,71.2
+366094,Student 286,CRS005,Principles of Software Engineering,2026,February,Final,95.3
+369751,Student 285,CRS016,Professional Practices and Information Security,2026,February,Final,71.6
+369751,Student 285,CRS012,Ideating Start-up,2026,February,Final,66.2
+369751,Student 285,CRS006,Systems Analysis and Design,2026,February,Final,59.5
+335565,Student 284,CRS012,Ideating Start-up,2026,February,Final,71.7
+335565,Student 284,CRS010,Computer Networks,2026,February,Final,66.8
+335565,Student 284,CRS006,Systems Analysis and Design,2026,February,Final,54.0
+343911,Student 283,CRS002,Computer Architecture and Organisation,2026,February,Final,41.5
+343911,Student 283,CRS017,Industrial Project I,2026,February,Final,48.4
+343911,Student 283,CRS001,Database Systems,2026,February,Final,55.9
+371104,Student 282,CRS011,Machine Learning and Intelligent System,2026,February,Final,65.8
+371104,Student 282,CRS018,Industrial Project II,2026,February,Final,68.5
+371104,Student 282,CRS007,Data Structures and Algorithms,2026,February,Final,53.4
+371104,Student 282,CRS002,Computer Architecture and Organisation,2026,February,Final,55.7
+371104,Student 282,CRS013,Capstone Project I,2026,February,Final,73.9
+314853,Student 281,CRS014,Capstone Project II,2026,February,Final,67.4
+314853,Student 281,CRS007,Data Structures and Algorithms,2026,February,Final,49.0
+314853,Student 281,CRS002,Computer Architecture and Organisation,2026,February,Final,39.6
+338760,Student 280,CRS008,Operating Systems,2026,February,Final,66.6
+338760,Student 280,CRS015,Human Computer Interaction,2026,February,Final,42.7
+338760,Student 280,CRS009,Advanced Programming,2026,February,Final,81.8
+338760,Student 280,CRS005,Principles of Software Engineering,2026,February,Final,88.2
+314405,Student 279,CRS009,Advanced Programming,2026,February,Final,80.0
+314405,Student 279,CRS001,Database Systems,2026,February,Final,59.6
+314405,Student 279,CRS010,Computer Networks,2026,February,Final,62.5
+314228,Student 278,CRS002,Computer Architecture and Organisation,2026,February,Final,53.0
+314228,Student 278,CRS008,Operating Systems,2026,February,Final,81.0
+314228,Student 278,CRS001,Database Systems,2026,February,Final,43.3
+314228,Student 278,CRS005,Principles of Software Engineering,2026,February,Final,78.1
+314228,Student 278,CRS013,Capstone Project I,2026,February,Final,46.8
+325431,Student 277,CRS013,Capstone Project I,2026,February,Final,38.7
+325431,Student 277,CRS009,Advanced Programming,2026,February,Final,70.3
+325431,Student 277,CRS015,Human Computer Interaction,2026,February,Final,71.4
+325431,Student 277,CRS014,Capstone Project II,2026,February,Final,59.0
+325431,Student 277,CRS003,Object Oriented Programming,2026,February,Final,43.5
+376571,Student 276,CRS013,Capstone Project I,2026,February,Final,60.8
+376571,Student 276,CRS007,Data Structures and Algorithms,2026,February,Final,52.7
+376571,Student 276,CRS001,Database Systems,2026,February,Final,72.5
+376571,Student 276,CRS003,Object Oriented Programming,2026,February,Final,44.2
+376571,Student 276,CRS015,Human Computer Interaction,2026,February,Final,82.8
+333618,Student 275,CRS011,Machine Learning and Intelligent System,2026,February,Final,65.8
+333618,Student 275,CRS006,Systems Analysis and Design,2026,February,Final,56.9
+333618,Student 275,CRS014,Capstone Project II,2026,February,Final,38.4
+333618,Student 275,CRS018,Industrial Project II,2026,February,Final,71.3
+333618,Student 275,CRS008,Operating Systems,2026,February,Final,80.4
+317062,Student 274,CRS010,Computer Networks,2026,February,Final,83.3
+317062,Student 274,CRS009,Advanced Programming,2026,February,Final,67.6
+317062,Student 274,CRS013,Capstone Project I,2026,February,Final,65.3
+336440,Student 273,CRS008,Operating Systems,2026,February,Final,44.6
+336440,Student 273,CRS007,Data Structures and Algorithms,2026,February,Final,42.8
+336440,Student 273,CRS010,Computer Networks,2026,February,Final,65.1
+382179,Student 272,CRS010,Computer Networks,2026,February,Final,65.4
+382179,Student 272,CRS005,Principles of Software Engineering,2026,February,Final,77.3
+382179,Student 272,CRS009,Advanced Programming,2026,February,Final,27.4
+378690,Student 271,CRS006,Systems Analysis and Design,2026,February,Final,48.6
+378690,Student 271,CRS010,Computer Networks,2026,February,Final,77.0
+378690,Student 271,CRS001,Database Systems,2026,February,Final,51.2
+378690,Student 271,CRS008,Operating Systems,2026,February,Final,23.0
+391929,Student 270,CRS005,Principles of Software Engineering,2026,February,Final,48.4
+391929,Student 270,CRS002,Computer Architecture and Organisation,2026,February,Final,62.2
+391929,Student 270,CRS003,Object Oriented Programming,2026,February,Final,66.3
+391929,Student 270,CRS006,Systems Analysis and Design,2026,February,Final,28.8
+315787,Student 269,CRS017,Industrial Project I,2026,February,Final,71.5
+315787,Student 269,CRS008,Operating Systems,2026,February,Final,51.4
+315787,Student 269,CRS010,Computer Networks,2026,February,Final,25.6
+310685,Student 268,CRS010,Computer Networks,2026,February,Final,62.3
+310685,Student 268,CRS004,Discrete Structures,2026,February,Final,74.8
+310685,Student 268,CRS005,Principles of Software Engineering,2026,February,Final,34.3
+381545,Student 267,CRS005,Principles of Software Engineering,2026,February,Final,58.5
+381545,Student 267,CRS015,Human Computer Interaction,2026,February,Final,63.0
+381545,Student 267,CRS008,Operating Systems,2026,February,Final,61.8
+317599,Student 266,CRS016,Professional Practices and Information Security,2026,February,Final,55.3
+317599,Student 266,CRS012,Ideating Start-up,2026,February,Final,40.6
+317599,Student 266,CRS006,Systems Analysis and Design,2026,February,Final,67.9
+317599,Student 266,CRS002,Computer Architecture and Organisation,2026,February,Final,28.7
+314763,Student 265,CRS003,Object Oriented Programming,2026,February,Final,58.0
+314763,Student 265,CRS010,Computer Networks,2026,February,Final,89.0
+314763,Student 265,CRS012,Ideating Start-up,2026,February,Final,76.0
+384145,Student 264,CRS009,Advanced Programming,2026,February,Final,71.3
+384145,Student 264,CRS005,Principles of Software Engineering,2026,February,Final,10.1
+384145,Student 264,CRS018,Industrial Project II,2026,February,Final,50.1
+384145,Student 264,CRS004,Discrete Structures,2026,February,Final,43.3
+384145,Student 264,CRS008,Operating Systems,2026,February,Final,51.4
+321284,Student 263,CRS005,Principles of Software Engineering,2026,February,Final,57.2
+321284,Student 263,CRS009,Advanced Programming,2026,February,Final,72.5
+321284,Student 263,CRS011,Machine Learning and Intelligent System,2026,February,Final,55.1
+321284,Student 263,CRS018,Industrial Project II,2026,February,Final,50.0
+321284,Student 263,CRS007,Data Structures and Algorithms,2026,February,Final,43.0
+323746,Student 262,CRS011,Machine Learning and Intelligent System,2026,February,Final,74.5
+323746,Student 262,CRS014,Capstone Project II,2026,February,Final,77.1
+323746,Student 262,CRS006,Systems Analysis and Design,2026,February,Final,42.8
+361182,Student 261,CRS012,Ideating Start-up,2026,February,Final,57.3
+361182,Student 261,CRS001,Database Systems,2026,February,Final,71.1
+361182,Student 261,CRS014,Capstone Project II,2026,February,Final,58.7
+361182,Student 261,CRS011,Machine Learning and Intelligent System,2026,February,Final,60.0
+361182,Student 261,CRS015,Human Computer Interaction,2026,February,Final,55.0
+322944,Student 260,CRS003,Object Oriented Programming,2026,February,Final,56.2
+322944,Student 260,CRS001,Database Systems,2026,February,Final,63.2
+322944,Student 260,CRS013,Capstone Project I,2026,February,Final,94.5
+322944,Student 260,CRS018,Industrial Project II,2026,February,Final,54.3
+322944,Student 260,CRS002,Computer Architecture and Organisation,2026,February,Final,41.0
+399778,Student 259,CRS009,Advanced Programming,2026,February,Final,75.3
+399778,Student 259,CRS013,Capstone Project I,2026,February,Final,47.6
+399778,Student 259,CRS018,Industrial Project II,2026,February,Final,65.9
+386226,Student 258,CRS007,Data Structures and Algorithms,2026,February,Final,69.7
+386226,Student 258,CRS004,Discrete Structures,2026,February,Final,93.3
+386226,Student 258,CRS015,Human Computer Interaction,2026,February,Final,60.0
+317900,Student 257,CRS001,Database Systems,2026,February,Final,44.7
+317900,Student 257,CRS012,Ideating Start-up,2026,February,Final,73.9
+317900,Student 257,CRS013,Capstone Project I,2026,February,Final,76.5
+317900,Student 257,CRS014,Capstone Project II,2026,February,Final,56.0
+379830,Student 256,CRS016,Professional Practices and Information Security,2026,February,Final,47.0
+379830,Student 256,CRS005,Principles of Software Engineering,2026,February,Final,39.3
+379830,Student 256,CRS009,Advanced Programming,2026,February,Final,58.0
+345439,Student 255,CRS009,Advanced Programming,2026,February,Final,74.6
+345439,Student 255,CRS007,Data Structures and Algorithms,2026,February,Final,42.0
+345439,Student 255,CRS006,Systems Analysis and Design,2026,February,Final,36.5
+349488,Student 254,CRS006,Systems Analysis and Design,2026,February,Final,47.4
+349488,Student 254,CRS015,Human Computer Interaction,2026,February,Final,55.6
+349488,Student 254,CRS008,Operating Systems,2026,February,Final,64.4
+349488,Student 254,CRS010,Computer Networks,2026,February,Final,81.8
+349488,Student 254,CRS002,Computer Architecture and Organisation,2026,February,Final,52.0
+358764,Student 253,CRS009,Advanced Programming,2026,February,Final,69.9
+358764,Student 253,CRS008,Operating Systems,2026,February,Final,44.5
+358764,Student 253,CRS013,Capstone Project I,2026,February,Final,92.0
+358764,Student 253,CRS014,Capstone Project II,2026,February,Final,56.0
+358764,Student 253,CRS003,Object Oriented Programming,2026,February,Final,59.6
+376776,Student 252,CRS007,Data Structures and Algorithms,2026,February,Final,59.3
+376776,Student 252,CRS014,Capstone Project II,2026,February,Final,76.4
+376776,Student 252,CRS018,Industrial Project II,2026,February,Final,30.7
+376776,Student 252,CRS011,Machine Learning and Intelligent System,2026,February,Final,52.1
+355547,Student 251,CRS013,Capstone Project I,2026,February,Final,78.4
+355547,Student 251,CRS004,Discrete Structures,2026,February,Final,42.7
+355547,Student 251,CRS007,Data Structures and Algorithms,2026,February,Final,49.1
+355547,Student 251,CRS002,Computer Architecture and Organisation,2026,February,Final,53.1
+355547,Student 251,CRS015,Human Computer Interaction,2026,February,Final,67.1
+352016,Student 250,CRS016,Professional Practices and Information Security,2026,February,Final,58.8
+352016,Student 250,CRS004,Discrete Structures,2026,February,Final,39.9
+352016,Student 250,CRS017,Industrial Project I,2026,February,Final,56.0
+340051,Student 249,CRS014,Capstone Project II,2026,February,Final,61.4
+340051,Student 249,CRS017,Industrial Project I,2026,February,Final,26.6
+340051,Student 249,CRS008,Operating Systems,2026,February,Final,60.0
+340051,Student 249,CRS013,Capstone Project I,2026,February,Final,65.5
+346073,Student 248,CRS005,Principles of Software Engineering,2026,February,Final,56.6
+346073,Student 248,CRS017,Industrial Project I,2026,February,Final,62.5
+346073,Student 248,CRS002,Computer Architecture and Organisation,2026,February,Final,45.9
+346073,Student 248,CRS014,Capstone Project II,2026,February,Final,75.7
+378057,Student 247,CRS002,Computer Architecture and Organisation,2026,February,Final,74.1
+378057,Student 247,CRS004,Discrete Structures,2026,February,Final,57.5
+378057,Student 247,CRS018,Industrial Project II,2026,February,Final,69.3
+378057,Student 247,CRS008,Operating Systems,2026,February,Final,70.6
+358380,Student 246,CRS005,Principles of Software Engineering,2026,February,Final,78.6
+358380,Student 246,CRS002,Computer Architecture and Organisation,2026,February,Final,82.5
+358380,Student 246,CRS014,Capstone Project II,2026,February,Final,61.1
+358380,Student 246,CRS009,Advanced Programming,2026,February,Final,61.9
+358380,Student 246,CRS017,Industrial Project I,2026,February,Final,97.1
+324490,Student 245,CRS002,Computer Architecture and Organisation,2026,February,Final,77.4
+324490,Student 245,CRS008,Operating Systems,2026,February,Final,92.8
+324490,Student 245,CRS015,Human Computer Interaction,2026,February,Final,46.1
+324490,Student 245,CRS007,Data Structures and Algorithms,2026,February,Final,48.1
+324490,Student 245,CRS016,Professional Practices and Information Security,2026,February,Final,64.6
+381973,Student 244,CRS002,Computer Architecture and Organisation,2026,February,Final,63.4
+381973,Student 244,CRS014,Capstone Project II,2026,February,Final,67.3
+381973,Student 244,CRS007,Data Structures and Algorithms,2026,February,Final,59.4
+381973,Student 244,CRS008,Operating Systems,2026,February,Final,59.3
+381973,Student 244,CRS001,Database Systems,2026,February,Final,20.8
+322982,Student 243,CRS012,Ideating Start-up,2026,February,Final,70.9
+322982,Student 243,CRS009,Advanced Programming,2026,February,Final,73.0
+322982,Student 243,CRS005,Principles of Software Engineering,2026,February,Final,61.6
+323668,Student 242,CRS007,Data Structures and Algorithms,2026,February,Final,36.0
+323668,Student 242,CRS016,Professional Practices and Information Security,2026,February,Final,54.1
+323668,Student 242,CRS004,Discrete Structures,2026,February,Final,53.3
+323668,Student 242,CRS003,Object Oriented Programming,2026,February,Final,45.5
+323668,Student 242,CRS005,Principles of Software Engineering,2026,February,Final,37.0
+381349,Student 241,CRS003,Object Oriented Programming,2026,February,Final,43.1
+381349,Student 241,CRS015,Human Computer Interaction,2026,February,Final,63.8
+381349,Student 241,CRS012,Ideating Start-up,2026,February,Final,65.1
+375390,Student 240,CRS006,Systems Analysis and Design,2026,February,Final,54.5
+375390,Student 240,CRS015,Human Computer Interaction,2026,February,Final,57.3
+375390,Student 240,CRS002,Computer Architecture and Organisation,2026,February,Final,64.1
+375390,Student 240,CRS017,Industrial Project I,2026,February,Final,94.8
+375390,Student 240,CRS018,Industrial Project II,2026,February,Final,58.2
+370447,Student 239,CRS011,Machine Learning and Intelligent System,2026,February,Final,50.9
+370447,Student 239,CRS018,Industrial Project II,2026,February,Final,81.9
+370447,Student 239,CRS010,Computer Networks,2026,February,Final,36.0
+370447,Student 239,CRS005,Principles of Software Engineering,2026,February,Final,72.0
+370447,Student 239,CRS014,Capstone Project II,2026,February,Final,49.8
+322057,Student 238,CRS015,Human Computer Interaction,2026,February,Final,23.0
+322057,Student 238,CRS005,Principles of Software Engineering,2026,February,Final,62.9
+322057,Student 238,CRS003,Object Oriented Programming,2026,February,Final,52.3
+356891,Student 237,CRS004,Discrete Structures,2026,February,Final,33.2
+356891,Student 237,CRS012,Ideating Start-up,2026,February,Final,100.0
+356891,Student 237,CRS008,Operating Systems,2026,February,Final,63.8
+356891,Student 237,CRS015,Human Computer Interaction,2026,February,Final,29.2
+398246,Student 236,CRS008,Operating Systems,2026,February,Final,72.6
+398246,Student 236,CRS002,Computer Architecture and Organisation,2026,February,Final,73.3
+398246,Student 236,CRS014,Capstone Project II,2026,February,Final,66.8
+398246,Student 236,CRS013,Capstone Project I,2026,February,Final,55.2
+351756,Student 235,CRS008,Operating Systems,2026,February,Final,27.1
+351756,Student 235,CRS010,Computer Networks,2026,February,Final,27.6
+351756,Student 235,CRS011,Machine Learning and Intelligent System,2026,February,Final,37.8
+351756,Student 235,CRS016,Professional Practices and Information Security,2026,February,Final,34.4
+351756,Student 235,CRS012,Ideating Start-up,2026,February,Final,42.3
+317331,Student 234,CRS013,Capstone Project I,2026,February,Final,75.8
+317331,Student 234,CRS007,Data Structures and Algorithms,2026,February,Final,34.8
+317331,Student 234,CRS006,Systems Analysis and Design,2026,February,Final,72.2
+371665,Student 233,CRS007,Data Structures and Algorithms,2026,February,Final,35.3
+371665,Student 233,CRS017,Industrial Project I,2026,February,Final,74.3
+371665,Student 233,CRS005,Principles of Software Engineering,2026,February,Final,53.1
+392921,Student 232,CRS012,Ideating Start-up,2026,February,Final,23.0
+392921,Student 232,CRS002,Computer Architecture and Organisation,2026,February,Final,64.9
+392921,Student 232,CRS009,Advanced Programming,2026,February,Final,65.7
+376012,Student 231,CRS008,Operating Systems,2026,February,Final,47.8
+376012,Student 231,CRS010,Computer Networks,2026,February,Final,51.0
+376012,Student 231,CRS011,Machine Learning and Intelligent System,2026,February,Final,34.3
+376585,Student 230,CRS003,Object Oriented Programming,2026,February,Final,74.9
+376585,Student 230,CRS015,Human Computer Interaction,2026,February,Final,74.3
+376585,Student 230,CRS014,Capstone Project II,2026,February,Final,31.9
+363992,Student 229,CRS012,Ideating Start-up,2026,February,Final,40.1
+363992,Student 229,CRS018,Industrial Project II,2026,February,Final,64.2
+363992,Student 229,CRS011,Machine Learning and Intelligent System,2026,February,Final,59.0
+367421,Student 228,CRS007,Data Structures and Algorithms,2026,February,Final,55.5
+367421,Student 228,CRS001,Database Systems,2026,February,Final,41.3
+367421,Student 228,CRS016,Professional Practices and Information Security,2026,February,Final,76.7
+367421,Student 228,CRS014,Capstone Project II,2026,February,Final,59.7
+367421,Student 228,CRS018,Industrial Project II,2026,February,Final,61.7
+317260,Student 227,CRS001,Database Systems,2026,February,Final,62.1
+317260,Student 227,CRS011,Machine Learning and Intelligent System,2026,February,Final,59.5
+317260,Student 227,CRS007,Data Structures and Algorithms,2026,February,Final,49.6
+317260,Student 227,CRS004,Discrete Structures,2026,February,Final,71.6
+366484,Student 226,CRS004,Discrete Structures,2026,February,Final,65.5
+366484,Student 226,CRS006,Systems Analysis and Design,2026,February,Final,31.2
+366484,Student 226,CRS017,Industrial Project I,2026,February,Final,78.4
+394882,Student 225,CRS018,Industrial Project II,2026,February,Final,58.7
+394882,Student 225,CRS002,Computer Architecture and Organisation,2026,February,Final,61.4
+394882,Student 225,CRS017,Industrial Project I,2026,February,Final,79.8
+394882,Student 225,CRS005,Principles of Software Engineering,2026,February,Final,42.1
+384978,Student 224,CRS005,Principles of Software Engineering,2026,February,Final,71.4
+384978,Student 224,CRS004,Discrete Structures,2026,February,Final,63.7
+384978,Student 224,CRS010,Computer Networks,2026,February,Final,71.8
+321913,Student 223,CRS017,Industrial Project I,2026,February,Final,79.7
+321913,Student 223,CRS009,Advanced Programming,2026,February,Final,56.1
+321913,Student 223,CRS002,Computer Architecture and Organisation,2026,February,Final,47.3
+321913,Student 223,CRS007,Data Structures and Algorithms,2026,February,Final,69.9
+321913,Student 223,CRS010,Computer Networks,2026,February,Final,81.3
+380655,Student 222,CRS007,Data Structures and Algorithms,2026,February,Final,77.2
+380655,Student 222,CRS004,Discrete Structures,2026,February,Final,40.1
+380655,Student 222,CRS013,Capstone Project I,2026,February,Final,61.4
+378904,Student 221,CRS010,Computer Networks,2026,February,Final,39.0
+378904,Student 221,CRS001,Database Systems,2026,February,Final,58.4
+378904,Student 221,CRS013,Capstone Project I,2026,February,Final,39.1
+378904,Student 221,CRS016,Professional Practices and Information Security,2026,February,Final,61.7
+378904,Student 221,CRS007,Data Structures and Algorithms,2026,February,Final,76.0

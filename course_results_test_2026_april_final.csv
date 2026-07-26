@@ -1,0 +1,229 @@
+﻿student_id,student_name,course_code,course_name,academic_year,semester_term,upload_type,course_mark
+0370959,Zhang Shijia,CRS010,Computer Networks,2026,April,Final,37.7
+0370959,Zhang Shijia,CRS016,Mobile Application Development,2026,April,Final,71.2
+0370959,Zhang Shijia,CRS007,Data Structures and Algorithms,2026,April,Final,78.7
+0370959,Zhang Shijia,CRS015,Cloud Computing,2026,April,Final,65.7
+0370995,Zhang Shijia,CRS016,Mobile Application Development,2026,April,Final,67.6
+0370995,Zhang Shijia,CRS013,Web Application Development,2026,April,Final,84.7
+0370995,Zhang Shijia,CRS003,Object Oriented Programming,2026,April,Final,77.3
+0370995,Zhang Shijia,CRS008,Machine Learning and Intelligent System,2026,April,Final,18.0
+0349366,Daniel,CRS015,Cloud Computing,2026,April,Final,46.9
+0349366,Daniel,CRS016,Mobile Application Development,2026,April,Final,84.4
+0349366,Daniel,CRS010,Computer Networks,2026,April,Final,71.7
+0349366,Daniel,CRS011,Data Mining,2026,April,Final,49.7
+STU6001,Student 6001,CRS010,Computer Networks,2026,April,Final,48.9
+STU6001,Student 6001,CRS016,Mobile Application Development,2026,April,Final,73.2
+STU6001,Student 6001,CRS011,Data Mining,2026,April,Final,73.5
+STU6001,Student 6001,CRS013,Web Application Development,2026,April,Final,64.4
+STU6001,Student 6001,CRS014,Cybersecurity Fundamentals,2026,April,Final,54.0
+STU6002,Student 6002,CRS007,Data Structures and Algorithms,2026,April,Final,59.2
+STU6002,Student 6002,CRS016,Mobile Application Development,2026,April,Final,75.4
+STU6002,Student 6002,CRS010,Computer Networks,2026,April,Final,84.1
+STU6003,Student 6003,CRS016,Mobile Application Development,2026,April,Final,73.9
+STU6003,Student 6003,CRS007,Data Structures and Algorithms,2026,April,Final,65.6
+STU6003,Student 6003,CRS006,Systems Analysis and Design,2026,April,Final,53.9
+STU6003,Student 6003,CRS011,Data Mining,2026,April,Final,71.5
+STU6003,Student 6003,CRS003,Object Oriented Programming,2026,April,Final,51.1
+STU6004,Student 6004,CRS014,Cybersecurity Fundamentals,2026,April,Final,82.6
+STU6004,Student 6004,CRS006,Systems Analysis and Design,2026,April,Final,56.2
+STU6004,Student 6004,CRS012,Human Computer Interaction,2026,April,Final,72.0
+STU6005,Student 6005,CRS004,Operating Systems,2026,April,Final,73.3
+STU6005,Student 6005,CRS007,Data Structures and Algorithms,2026,April,Final,58.8
+STU6005,Student 6005,CRS011,Data Mining,2026,April,Final,84.7
+STU6005,Student 6005,CRS010,Computer Networks,2026,April,Final,34.0
+STU6006,Student 6006,CRS008,Machine Learning and Intelligent System,2026,April,Final,48.9
+STU6006,Student 6006,CRS004,Operating Systems,2026,April,Final,43.7
+STU6006,Student 6006,CRS012,Human Computer Interaction,2026,April,Final,46.8
+STU6007,Student 6007,CRS011,Data Mining,2026,April,Final,30.9
+STU6007,Student 6007,CRS003,Object Oriented Programming,2026,April,Final,80.3
+STU6007,Student 6007,CRS007,Data Structures and Algorithms,2026,April,Final,58.0
+STU6008,Student 6008,CRS013,Web Application Development,2026,April,Final,58.5
+STU6008,Student 6008,CRS004,Operating Systems,2026,April,Final,42.9
+STU6008,Student 6008,CRS012,Human Computer Interaction,2026,April,Final,53.9
+STU6008,Student 6008,CRS003,Object Oriented Programming,2026,April,Final,74.8
+STU6008,Student 6008,CRS015,Cloud Computing,2026,April,Final,57.9
+STU6009,Student 6009,CRS004,Operating Systems,2026,April,Final,61.3
+STU6009,Student 6009,CRS015,Cloud Computing,2026,April,Final,50.0
+STU6009,Student 6009,CRS014,Cybersecurity Fundamentals,2026,April,Final,80.3
+STU6009,Student 6009,CRS010,Computer Networks,2026,April,Final,44.0
+STU6009,Student 6009,CRS011,Data Mining,2026,April,Final,36.8
+STU6010,Student 6010,CRS015,Cloud Computing,2026,April,Final,48.2
+STU6010,Student 6010,CRS006,Systems Analysis and Design,2026,April,Final,67.4
+STU6010,Student 6010,CRS016,Mobile Application Development,2026,April,Final,92.5
+STU6010,Student 6010,CRS010,Computer Networks,2026,April,Final,61.9
+STU6011,Student 6011,CRS011,Data Mining,2026,April,Final,65.6
+STU6011,Student 6011,CRS012,Human Computer Interaction,2026,April,Final,86.4
+STU6011,Student 6011,CRS014,Cybersecurity Fundamentals,2026,April,Final,49.6
+STU6012,Student 6012,CRS007,Data Structures and Algorithms,2026,April,Final,39.9
+STU6012,Student 6012,CRS010,Computer Networks,2026,April,Final,73.2
+STU6012,Student 6012,CRS008,Machine Learning and Intelligent System,2026,April,Final,18.0
+STU6013,Student 6013,CRS010,Computer Networks,2026,April,Final,95.5
+STU6013,Student 6013,CRS004,Operating Systems,2026,April,Final,51.6
+STU6013,Student 6013,CRS007,Data Structures and Algorithms,2026,April,Final,93.1
+STU6014,Student 6014,CRS016,Mobile Application Development,2026,April,Final,60.2
+STU6014,Student 6014,CRS007,Data Structures and Algorithms,2026,April,Final,32.5
+STU6014,Student 6014,CRS013,Web Application Development,2026,April,Final,71.0
+STU6014,Student 6014,CRS006,Systems Analysis and Design,2026,April,Final,86.8
+STU6015,Student 6015,CRS015,Cloud Computing,2026,April,Final,53.9
+STU6015,Student 6015,CRS016,Mobile Application Development,2026,April,Final,76.7
+STU6015,Student 6015,CRS013,Web Application Development,2026,April,Final,88.8
+STU6016,Student 6016,CRS004,Operating Systems,2026,April,Final,63.0
+STU6016,Student 6016,CRS015,Cloud Computing,2026,April,Final,44.1
+STU6016,Student 6016,CRS008,Machine Learning and Intelligent System,2026,April,Final,44.2
+STU6016,Student 6016,CRS010,Computer Networks,2026,April,Final,70.8
+STU6017,Student 6017,CRS007,Data Structures and Algorithms,2026,April,Final,50.3
+STU6017,Student 6017,CRS015,Cloud Computing,2026,April,Final,82.2
+STU6017,Student 6017,CRS014,Cybersecurity Fundamentals,2026,April,Final,39.8
+STU6018,Student 6018,CRS014,Cybersecurity Fundamentals,2026,April,Final,46.4
+STU6018,Student 6018,CRS011,Data Mining,2026,April,Final,34.1
+STU6018,Student 6018,CRS004,Operating Systems,2026,April,Final,41.5
+STU6019,Student 6019,CRS008,Machine Learning and Intelligent System,2026,April,Final,70.7
+STU6019,Student 6019,CRS012,Human Computer Interaction,2026,April,Final,82.1
+STU6019,Student 6019,CRS013,Web Application Development,2026,April,Final,53.2
+STU6019,Student 6019,CRS003,Object Oriented Programming,2026,April,Final,64.4
+STU6020,Student 6020,CRS011,Data Mining,2026,April,Final,57.0
+STU6020,Student 6020,CRS007,Data Structures and Algorithms,2026,April,Final,72.9
+STU6020,Student 6020,CRS008,Machine Learning and Intelligent System,2026,April,Final,25.0
+STU6020,Student 6020,CRS004,Operating Systems,2026,April,Final,96.0
+STU6021,Student 6021,CRS008,Machine Learning and Intelligent System,2026,April,Final,58.5
+STU6021,Student 6021,CRS010,Computer Networks,2026,April,Final,54.4
+STU6021,Student 6021,CRS006,Systems Analysis and Design,2026,April,Final,56.3
+STU6021,Student 6021,CRS011,Data Mining,2026,April,Final,44.2
+STU6022,Student 6022,CRS004,Operating Systems,2026,April,Final,77.0
+STU6022,Student 6022,CRS010,Computer Networks,2026,April,Final,67.8
+STU6022,Student 6022,CRS007,Data Structures and Algorithms,2026,April,Final,24.1
+STU6022,Student 6022,CRS011,Data Mining,2026,April,Final,49.8
+STU6023,Student 6023,CRS014,Cybersecurity Fundamentals,2026,April,Final,18.6
+STU6023,Student 6023,CRS012,Human Computer Interaction,2026,April,Final,91.8
+STU6023,Student 6023,CRS010,Computer Networks,2026,April,Final,54.6
+STU6023,Student 6023,CRS008,Machine Learning and Intelligent System,2026,April,Final,41.9
+STU6023,Student 6023,CRS003,Object Oriented Programming,2026,April,Final,40.2
+STU6024,Student 6024,CRS008,Machine Learning and Intelligent System,2026,April,Final,31.4
+STU6024,Student 6024,CRS015,Cloud Computing,2026,April,Final,39.7
+STU6024,Student 6024,CRS003,Object Oriented Programming,2026,April,Final,58.8
+STU6024,Student 6024,CRS014,Cybersecurity Fundamentals,2026,April,Final,78.1
+STU6025,Student 6025,CRS006,Systems Analysis and Design,2026,April,Final,63.8
+STU6025,Student 6025,CRS015,Cloud Computing,2026,April,Final,47.8
+STU6025,Student 6025,CRS007,Data Structures and Algorithms,2026,April,Final,65.9
+STU6025,Student 6025,CRS010,Computer Networks,2026,April,Final,66.7
+STU6025,Student 6025,CRS012,Human Computer Interaction,2026,April,Final,66.4
+STU6026,Student 6026,CRS011,Data Mining,2026,April,Final,51.6
+STU6026,Student 6026,CRS006,Systems Analysis and Design,2026,April,Final,60.6
+STU6026,Student 6026,CRS014,Cybersecurity Fundamentals,2026,April,Final,31.0
+STU6027,Student 6027,CRS006,Systems Analysis and Design,2026,April,Final,58.7
+STU6027,Student 6027,CRS008,Machine Learning and Intelligent System,2026,April,Final,68.7
+STU6027,Student 6027,CRS015,Cloud Computing,2026,April,Final,54.5
+STU6028,Student 6028,CRS006,Systems Analysis and Design,2026,April,Final,37.9
+STU6028,Student 6028,CRS015,Cloud Computing,2026,April,Final,49.8
+STU6028,Student 6028,CRS008,Machine Learning and Intelligent System,2026,April,Final,30.8
+STU6028,Student 6028,CRS013,Web Application Development,2026,April,Final,57.7
+STU6028,Student 6028,CRS003,Object Oriented Programming,2026,April,Final,82.9
+STU6029,Student 6029,CRS015,Cloud Computing,2026,April,Final,37.1
+STU6029,Student 6029,CRS003,Object Oriented Programming,2026,April,Final,49.1
+STU6029,Student 6029,CRS006,Systems Analysis and Design,2026,April,Final,64.4
+STU6029,Student 6029,CRS004,Operating Systems,2026,April,Final,57.7
+STU6030,Student 6030,CRS012,Human Computer Interaction,2026,April,Final,59.2
+STU6030,Student 6030,CRS010,Computer Networks,2026,April,Final,75.5
+STU6030,Student 6030,CRS008,Machine Learning and Intelligent System,2026,April,Final,44.2
+STU6030,Student 6030,CRS007,Data Structures and Algorithms,2026,April,Final,60.0
+STU6030,Student 6030,CRS004,Operating Systems,2026,April,Final,85.5
+STU6031,Student 6031,CRS014,Cybersecurity Fundamentals,2026,April,Final,30.0
+STU6031,Student 6031,CRS015,Cloud Computing,2026,April,Final,59.4
+STU6031,Student 6031,CRS013,Web Application Development,2026,April,Final,65.8
+STU6032,Student 6032,CRS008,Machine Learning and Intelligent System,2026,April,Final,18.0
+STU6032,Student 6032,CRS015,Cloud Computing,2026,April,Final,31.5
+STU6032,Student 6032,CRS004,Operating Systems,2026,April,Final,65.8
+STU6032,Student 6032,CRS003,Object Oriented Programming,2026,April,Final,83.4
+STU6033,Student 6033,CRS016,Mobile Application Development,2026,April,Final,74.1
+STU6033,Student 6033,CRS013,Web Application Development,2026,April,Final,95.9
+STU6033,Student 6033,CRS010,Computer Networks,2026,April,Final,64.0
+STU6034,Student 6034,CRS008,Machine Learning and Intelligent System,2026,April,Final,57.1
+STU6034,Student 6034,CRS016,Mobile Application Development,2026,April,Final,60.6
+STU6034,Student 6034,CRS010,Computer Networks,2026,April,Final,53.2
+STU6034,Student 6034,CRS015,Cloud Computing,2026,April,Final,50.9
+STU6035,Student 6035,CRS003,Object Oriented Programming,2026,April,Final,49.3
+STU6035,Student 6035,CRS014,Cybersecurity Fundamentals,2026,April,Final,24.4
+STU6035,Student 6035,CRS008,Machine Learning and Intelligent System,2026,April,Final,40.4
+STU6035,Student 6035,CRS012,Human Computer Interaction,2026,April,Final,70.0
+STU6036,Student 6036,CRS013,Web Application Development,2026,April,Final,44.1
+STU6036,Student 6036,CRS012,Human Computer Interaction,2026,April,Final,69.6
+STU6036,Student 6036,CRS014,Cybersecurity Fundamentals,2026,April,Final,75.4
+STU6037,Student 6037,CRS003,Object Oriented Programming,2026,April,Final,66.4
+STU6037,Student 6037,CRS007,Data Structures and Algorithms,2026,April,Final,65.8
+STU6037,Student 6037,CRS004,Operating Systems,2026,April,Final,81.3
+STU6038,Student 6038,CRS016,Mobile Application Development,2026,April,Final,70.7
+STU6038,Student 6038,CRS011,Data Mining,2026,April,Final,47.7
+STU6038,Student 6038,CRS012,Human Computer Interaction,2026,April,Final,96.0
+STU6038,Student 6038,CRS008,Machine Learning and Intelligent System,2026,April,Final,56.9
+STU6038,Student 6038,CRS003,Object Oriented Programming,2026,April,Final,75.4
+STU6039,Student 6039,CRS013,Web Application Development,2026,April,Final,72.9
+STU6039,Student 6039,CRS008,Machine Learning and Intelligent System,2026,April,Final,43.0
+STU6039,Student 6039,CRS006,Systems Analysis and Design,2026,April,Final,65.0
+STU6039,Student 6039,CRS015,Cloud Computing,2026,April,Final,44.1
+STU6040,Student 6040,CRS003,Object Oriented Programming,2026,April,Final,79.8
+STU6040,Student 6040,CRS013,Web Application Development,2026,April,Final,96.0
+STU6040,Student 6040,CRS012,Human Computer Interaction,2026,April,Final,70.9
+STU6040,Student 6040,CRS014,Cybersecurity Fundamentals,2026,April,Final,53.9
+STU6041,Student 6041,CRS016,Mobile Application Development,2026,April,Final,83.2
+STU6041,Student 6041,CRS008,Machine Learning and Intelligent System,2026,April,Final,56.8
+STU6041,Student 6041,CRS012,Human Computer Interaction,2026,April,Final,43.2
+STU6042,Student 6042,CRS008,Machine Learning and Intelligent System,2026,April,Final,28.5
+STU6042,Student 6042,CRS006,Systems Analysis and Design,2026,April,Final,75.4
+STU6042,Student 6042,CRS003,Object Oriented Programming,2026,April,Final,51.7
+STU6042,Student 6042,CRS007,Data Structures and Algorithms,2026,April,Final,50.7
+STU6042,Student 6042,CRS012,Human Computer Interaction,2026,April,Final,73.5
+STU6043,Student 6043,CRS006,Systems Analysis and Design,2026,April,Final,32.2
+STU6043,Student 6043,CRS014,Cybersecurity Fundamentals,2026,April,Final,36.0
+STU6043,Student 6043,CRS013,Web Application Development,2026,April,Final,63.4
+STU6043,Student 6043,CRS008,Machine Learning and Intelligent System,2026,April,Final,37.4
+STU6044,Student 6044,CRS011,Data Mining,2026,April,Final,32.8
+STU6044,Student 6044,CRS010,Computer Networks,2026,April,Final,76.1
+STU6044,Student 6044,CRS012,Human Computer Interaction,2026,April,Final,70.0
+STU6045,Student 6045,CRS010,Computer Networks,2026,April,Final,43.5
+STU6045,Student 6045,CRS015,Cloud Computing,2026,April,Final,41.0
+STU6045,Student 6045,CRS007,Data Structures and Algorithms,2026,April,Final,44.1
+STU6045,Student 6045,CRS008,Machine Learning and Intelligent System,2026,April,Final,20.7
+STU6046,Student 6046,CRS008,Machine Learning and Intelligent System,2026,April,Final,70.6
+STU6046,Student 6046,CRS012,Human Computer Interaction,2026,April,Final,61.5
+STU6046,Student 6046,CRS015,Cloud Computing,2026,April,Final,26.9
+STU6046,Student 6046,CRS010,Computer Networks,2026,April,Final,46.1
+STU6046,Student 6046,CRS004,Operating Systems,2026,April,Final,66.0
+STU6047,Student 6047,CRS003,Object Oriented Programming,2026,April,Final,96.0
+STU6047,Student 6047,CRS014,Cybersecurity Fundamentals,2026,April,Final,63.3
+STU6047,Student 6047,CRS012,Human Computer Interaction,2026,April,Final,95.8
+STU6047,Student 6047,CRS016,Mobile Application Development,2026,April,Final,88.3
+STU6048,Student 6048,CRS003,Object Oriented Programming,2026,April,Final,80.6
+STU6048,Student 6048,CRS010,Computer Networks,2026,April,Final,32.8
+STU6048,Student 6048,CRS007,Data Structures and Algorithms,2026,April,Final,81.9
+STU6048,Student 6048,CRS015,Cloud Computing,2026,April,Final,61.5
+STU6048,Student 6048,CRS014,Cybersecurity Fundamentals,2026,April,Final,26.3
+STU6049,Student 6049,CRS008,Machine Learning and Intelligent System,2026,April,Final,66.1
+STU6049,Student 6049,CRS015,Cloud Computing,2026,April,Final,63.8
+STU6049,Student 6049,CRS016,Mobile Application Development,2026,April,Final,90.5
+STU6050,Student 6050,CRS015,Cloud Computing,2026,April,Final,53.3
+STU6050,Student 6050,CRS007,Data Structures and Algorithms,2026,April,Final,72.5
+STU6050,Student 6050,CRS016,Mobile Application Development,2026,April,Final,69.6
+STU6051,Student 6051,CRS014,Cybersecurity Fundamentals,2026,April,Final,64.1
+STU6051,Student 6051,CRS016,Mobile Application Development,2026,April,Final,57.8
+STU6051,Student 6051,CRS010,Computer Networks,2026,April,Final,60.2
+STU6051,Student 6051,CRS011,Data Mining,2026,April,Final,66.6
+STU6052,Student 6052,CRS004,Operating Systems,2026,April,Final,31.0
+STU6052,Student 6052,CRS007,Data Structures and Algorithms,2026,April,Final,77.3
+STU6052,Student 6052,CRS016,Mobile Application Development,2026,April,Final,62.3
+STU6053,Student 6053,CRS007,Data Structures and Algorithms,2026,April,Final,47.1
+STU6053,Student 6053,CRS008,Machine Learning and Intelligent System,2026,April,Final,41.1
+STU6053,Student 6053,CRS004,Operating Systems,2026,April,Final,70.3
+STU6054,Student 6054,CRS006,Systems Analysis and Design,2026,April,Final,68.7
+STU6054,Student 6054,CRS011,Data Mining,2026,April,Final,41.3
+STU6054,Student 6054,CRS014,Cybersecurity Fundamentals,2026,April,Final,32.1
+STU6054,Student 6054,CRS003,Object Oriented Programming,2026,April,Final,64.3
+STU6055,Student 6055,CRS015,Cloud Computing,2026,April,Final,52.4
+STU6055,Student 6055,CRS004,Operating Systems,2026,April,Final,69.2
+STU6055,Student 6055,CRS012,Human Computer Interaction,2026,April,Final,64.5
+STU6056,Student 6056,CRS015,Cloud Computing,2026,April,Final,41.5
+STU6056,Student 6056,CRS014,Cybersecurity Fundamentals,2026,April,Final,52.0
+STU6056,Student 6056,CRS012,Human Computer Interaction,2026,April,Final,35.0
+STU6057,Student 6057,CRS013,Web Application Development,2026,April,Final,56.0
+STU6057,Student 6057,CRS007,Data Structures and Algorithms,2026,April,Final,57.6
+STU6057,Student 6057,CRS010,Computer Networks,2026,April,Final,50.1
+STU6057,Student 6057,CRS012,Human Computer Interaction,2026,April,Final,65.0

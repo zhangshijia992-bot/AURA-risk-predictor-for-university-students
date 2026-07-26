@@ -1,0 +1,201 @@
+student_name,student_id,age,study_hours,attendance,assignment_delay,stress,gpa,internet,part_time_job,family_problems,scholarship,department,semester
+Student 201,0386709,19,1.4,50,11,10,2.18,No,Yes,No,No,Business,Semester 5
+Student 202,0342038,21,3.8,87,5,2,3.41,No,No,No,No,Data Science,Semester 3
+Student 203,0355579,20,5.5,90,8,1,2.88,No,Yes,No,No,Software Engineering,Semester 2
+Student 204,0310071,22,4.3,91,1,1,3.73,No,No,Yes,Yes,Business,Semester 3
+Student 205,0397076,21,7.5,88,0,1,3.95,Yes,No,No,Yes,Business,Semester 4
+Student 206,0375724,18,0.8,40,13,9,2.15,Yes,Yes,No,Yes,Software Engineering,Semester 1
+Student 207,0340263,19,4.0,45,1,6,3.21,No,No,No,No,Software Engineering,Semester 3
+Student 208,0340730,20,7.1,76,2,9,2.67,No,No,No,No,Computer Science,Semester 2
+Student 209,0391694,24,1.4,54,7,8,1.98,Yes,Yes,No,Yes,Computer Science,Semester 3
+Student 210,0377431,23,1.6,45,2,9,3.62,Yes,No,Yes,No,Computer Science,Semester 4
+Student 211,0374813,25,6.7,87,2,2,3.8,Yes,Yes,Yes,No,Computer Science,Semester 6
+Student 212,0334013,22,5.9,65,0,9,2.18,No,No,No,No,Engineering,Semester 3
+Student 213,0358651,22,6.9,52,8,3,2.77,No,Yes,Yes,No,Computer Science,Semester 2
+Student 214,0382519,22,4.1,80,8,10,2.69,No,Yes,No,Yes,Computer Science,Semester 4
+Student 215,0345297,25,4.9,86,3,5,3.73,No,No,Yes,No,Computer Science,Semester 5
+Student 216,0388300,19,4.2,64,3,8,3.29,Yes,Yes,Yes,No,Data Science,Semester 4
+Student 217,0330827,26,7.6,100,1,3,3.6,No,No,Yes,Yes,Business,Semester 2
+Student 218,0337356,20,6.6,90,1,4,3.42,Yes,No,No,Yes,Engineering,Semester 2
+Student 219,0316656,18,3.4,59,2,2,2.25,No,No,No,No,Computer Science,Semester 5
+Student 220,0355452,26,3.6,80,5,7,3.25,Yes,No,Yes,Yes,Software Engineering,Semester 4
+Student 221,0378904,20,6.6,87,0,3,3.99,Yes,No,No,Yes,Computer Science,Semester 2
+Student 222,0380655,20,5.7,98,0,1,3.36,Yes,Yes,No,No,Business,Semester 5
+Student 223,0321913,24,5.8,95,2,4,3.53,No,Yes,No,Yes,Software Engineering,Semester 2
+Student 224,0384978,23,5.1,92,1,1,3.74,Yes,Yes,No,Yes,Data Science,Semester 2
+Student 225,0394882,21,7.8,89,1,6,2.94,Yes,No,No,No,Software Engineering,Semester 3
+Student 226,0366484,21,6.8,77,9,10,2.19,No,Yes,No,No,Engineering,Semester 4
+Student 227,0317260,21,4.9,50,0,9,2.5,Yes,No,Yes,No,Computer Science,Semester 3
+Student 228,0367421,25,5.5,83,6,4,3.17,No,No,Yes,No,Data Science,Semester 2
+Student 229,0363992,19,2.5,85,9,3,3.36,No,No,Yes,Yes,Business,Semester 2
+Student 230,0376585,18,6.5,90,4,6,3.31,Yes,No,No,No,Business,Semester 5
+Student 231,0376012,19,4.7,94,0,8,2.65,No,Yes,Yes,Yes,Data Science,Semester 3
+Student 232,0392921,24,3.9,55,7,3,3.16,No,No,No,No,Engineering,Semester 3
+Student 233,0371665,26,1.7,100,6,9,2.87,Yes,No,Yes,No,Engineering,Semester 6
+Student 234,0317331,23,2.3,89,5,4,2.25,No,No,Yes,Yes,Business,Semester 4
+Student 235,0351756,24,1.2,44,9,9,1.21,No,No,Yes,Yes,Business,Semester 2
+Student 236,0398246,19,7.6,86,0,1,3.57,Yes,No,No,Yes,Engineering,Semester 3
+Student 237,0356891,21,0.6,44,14,7,2.19,No,No,Yes,No,Data Science,Semester 2
+Student 238,0322057,20,1.0,83,2,5,3.3,No,No,Yes,No,Engineering,Semester 3
+Student 239,0370447,18,1.9,79,0,6,3.33,Yes,No,No,Yes,Engineering,Semester 6
+Student 240,0375390,24,7.9,84,10,4,2.88,Yes,Yes,No,Yes,Data Science,Semester 5
+Student 241,0381349,21,5.5,97,8,4,3.45,Yes,No,Yes,Yes,Business,Semester 3
+Student 242,0323668,23,3.3,64,10,4,3.06,Yes,No,Yes,Yes,Software Engineering,Semester 5
+Student 243,0322982,18,4.3,97,6,7,2.92,No,Yes,Yes,Yes,Computer Science,Semester 2
+Student 244,0381973,25,5.2,95,0,2,3.61,Yes,Yes,Yes,Yes,Business,Semester 1
+Student 245,0324490,26,3.5,45,9,10,3.2,No,No,Yes,Yes,Software Engineering,Semester 2
+Student 246,0358380,18,2.9,83,4,6,2.36,No,No,No,No,Engineering,Semester 2
+Student 247,0378057,24,6.9,99,0,2,3.61,Yes,No,Yes,No,Engineering,Semester 3
+Student 248,0346073,25,1.3,59,4,4,2.62,Yes,Yes,No,Yes,Data Science,Semester 4
+Student 249,0340051,24,2.0,49,8,8,1.93,Yes,Yes,Yes,Yes,Software Engineering,Semester 1
+Student 250,0352016,19,5.4,52,4,6,3.35,No,No,Yes,No,Engineering,Semester 2
+Student 251,0355547,26,5.9,92,0,3,3.93,Yes,Yes,No,Yes,Engineering,Semester 4
+Student 252,0376776,18,4.0,60,0,6,2.82,Yes,Yes,No,No,Engineering,Semester 2
+Student 253,0358764,22,6.0,77,9,5,2.21,No,No,Yes,No,Engineering,Semester 3
+Student 254,0349488,20,2.1,56,11,8,1.85,No,No,Yes,Yes,Business,Semester 1
+Student 255,0345439,19,2.2,87,10,1,4.0,Yes,No,No,No,Data Science,Semester 5
+Student 256,0379830,23,5.6,86,2,4,3.54,No,Yes,No,No,Engineering,Semester 3
+Student 257,0317900,22,6.7,87,0,4,3.24,No,Yes,Yes,No,Business,Semester 2
+Student 258,0386226,21,7.0,86,2,4,3.92,Yes,Yes,Yes,Yes,Computer Science,Semester 3
+Student 259,0399778,23,0.8,65,14,7,1.49,Yes,No,Yes,Yes,Engineering,Semester 3
+Student 260,0322944,25,6.9,72,1,9,2.84,No,Yes,Yes,No,Engineering,Semester 2
+Student 261,0361182,23,3.0,57,6,6,2.01,No,Yes,No,Yes,Data Science,Semester 4
+Student 262,0323746,19,5.9,66,7,3,2.77,Yes,No,No,No,Computer Science,Semester 5
+Student 263,0321284,26,5.1,86,1,2,3.99,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 264,0384145,19,6.2,77,3,7,3.25,No,No,Yes,Yes,Software Engineering,Semester 4
+Student 265,0314763,23,2.7,94,9,5,3.63,No,Yes,No,Yes,Engineering,Semester 2
+Student 266,0317599,20,0.9,52,11,9,1.72,No,Yes,No,No,Business,Semester 5
+Student 267,0381545,23,1.1,42,10,7,1.53,No,No,Yes,No,Computer Science,Semester 2
+Student 268,0310685,24,7.6,98,7,6,2.5,Yes,Yes,No,No,Engineering,Semester 4
+Student 269,0315787,19,7.5,92,2,2,3.36,No,No,No,No,Computer Science,Semester 3
+Student 270,0391929,21,2.0,79,6,10,3.53,No,No,No,No,Business,Semester 6
+Student 271,0378690,26,1.8,52,12,7,1.53,Yes,No,No,Yes,Engineering,Semester 3
+Student 272,0382179,19,1.7,64,8,9,1.82,No,No,No,Yes,Business,Semester 1
+Student 273,0336440,20,5.7,73,8,3,2.88,No,No,No,No,Computer Science,Semester 4
+Student 274,0317062,26,4.1,93,0,4,3.48,No,No,No,Yes,Engineering,Semester 4
+Student 275,0333618,20,1.4,51,9,2,3.36,No,No,Yes,No,Engineering,Semester 5
+Student 276,0376571,20,2.2,56,5,9,2.09,No,No,Yes,Yes,Business,Semester 6
+Student 277,0325431,20,5.5,80,1,5,1.08,No,No,Yes,Yes,Engineering,Semester 3
+Student 278,0314228,21,1.4,81,7,9,2.83,No,Yes,Yes,Yes,Engineering,Semester 1
+Student 279,0314405,26,0.6,57,14,7,1.4,No,Yes,No,No,Software Engineering,Semester 4
+Student 280,0338760,23,4.8,71,2,4,3.2,Yes,Yes,No,No,Data Science,Semester 6
+Student 281,0314853,21,3.8,96,8,9,2.87,Yes,No,No,Yes,Business,Semester 4
+Student 282,0371104,19,1.7,58,5,10,2.59,No,Yes,Yes,No,Computer Science,Semester 1
+Student 283,0343911,18,1.8,100,4,4,2.67,No,Yes,No,No,Engineering,Semester 6
+Student 284,0335565,18,2.0,59,13,10,1.98,No,Yes,Yes,Yes,Software Engineering,Semester 1
+Student 285,0369751,23,6.8,65,1,1,3.88,No,Yes,No,Yes,Business,Semester 3
+Student 286,0366094,18,4.6,59,2,4,2.65,No,Yes,No,No,Business,Semester 3
+Student 287,0339845,26,4.7,77,9,10,2.63,No,No,Yes,Yes,Engineering,Semester 5
+Student 288,0399126,26,5.1,65,0,3,3.66,No,No,Yes,No,Computer Science,Semester 4
+Student 289,0323493,26,1.3,72,7,9,2.95,No,Yes,No,Yes,Computer Science,Semester 2
+Student 290,0392989,25,5.6,87,0,2,3.62,No,No,Yes,No,Software Engineering,Semester 3
+Student 291,0376544,18,2.0,73,2,6,2.54,Yes,No,Yes,Yes,Business,Semester 5
+Student 292,0315348,19,2.8,99,10,1,3.3,Yes,No,Yes,No,Business,Semester 6
+Student 293,0391286,18,2.9,63,8,9,2.79,No,No,Yes,Yes,Computer Science,Semester 2
+Student 294,0391769,18,7.5,99,0,1,3.51,Yes,Yes,No,Yes,Business,Semester 6
+Student 295,0388665,25,5.9,85,0,2,3.36,Yes,No,Yes,Yes,Business,Semester 1
+Student 296,0388483,22,6.7,100,5,6,3.25,No,Yes,Yes,Yes,Data Science,Semester 6
+Student 297,0311287,25,5.9,67,2,1,2.81,No,Yes,No,Yes,Data Science,Semester 4
+Student 298,0372675,22,1.1,61,10,10,3.75,No,Yes,No,Yes,Data Science,Semester 5
+Student 299,0331372,24,7.5,97,7,8,2.59,No,Yes,Yes,No,Computer Science,Semester 1
+Student 300,0324769,20,1.1,87,5,9,2.36,Yes,Yes,No,Yes,Engineering,Semester 1
+Student 301,0393834,23,3.7,87,1,1,2.76,No,No,No,Yes,Software Engineering,Semester 4
+Student 302,0327159,25,7.9,98,0,3,3.88,Yes,Yes,No,Yes,Engineering,Semester 4
+Student 303,0387079,23,0.8,42,6,7,1.49,No,No,No,Yes,Engineering,Semester 6
+Student 304,0331550,18,3.8,86,4,1,3.08,No,No,No,Yes,Data Science,Semester 3
+Student 305,0323811,20,7.3,97,0,4,3.58,Yes,No,No,No,Business,Semester 6
+Student 306,0346115,25,6.2,94,0,1,3.6,Yes,Yes,Yes,No,Computer Science,Semester 3
+Student 307,0398890,24,5.4,51,3,1,2.74,Yes,No,No,No,Computer Science,Semester 4
+Student 308,0378701,24,1.7,55,10,9,1.33,No,No,Yes,Yes,Business,Semester 5
+Student 309,0371790,24,7.9,100,2,1,3.91,No,Yes,Yes,No,Engineering,Semester 3
+Student 310,0362318,22,7.3,45,0,5,2.49,No,Yes,No,No,Data Science,Semester 5
+Student 311,0317436,23,4.2,69,3,6,3.23,Yes,No,Yes,No,Software Engineering,Semester 5
+Student 312,0369358,18,7.5,97,1,3,3.98,No,No,No,No,Engineering,Semester 1
+Student 313,0375095,19,4.0,54,2,6,2.01,No,Yes,Yes,No,Engineering,Semester 5
+Student 314,0311810,24,6.4,59,2,1,3.01,No,Yes,No,Yes,Software Engineering,Semester 4
+Student 315,0315694,20,1.6,79,9,6,2.94,No,Yes,No,Yes,Data Science,Semester 5
+Student 316,0391671,25,1.1,52,13,8,2.27,Yes,Yes,Yes,No,Business,Semester 4
+Student 317,0317197,18,1.9,42,7,9,2.15,No,No,Yes,No,Business,Semester 4
+Student 318,0354861,25,1.2,80,2,10,2.84,No,No,No,No,Computer Science,Semester 4
+Student 319,0353854,20,1.8,53,12,10,1.41,No,Yes,No,Yes,Data Science,Semester 6
+Student 320,0360195,21,1.7,59,5,10,1.76,No,Yes,Yes,Yes,Data Science,Semester 4
+Student 321,0377256,23,5.5,88,1,4,3.43,Yes,Yes,No,Yes,Business,Semester 2
+Student 322,0339469,21,2.6,99,4,4,2.77,Yes,Yes,Yes,No,Software Engineering,Semester 4
+Student 323,0352375,22,5.4,53,5,5,2.69,Yes,No,Yes,Yes,Data Science,Semester 6
+Student 324,0389507,22,5.8,94,2,3,3.63,Yes,No,No,Yes,Business,Semester 6
+Student 325,0341913,18,2.8,49,6,9,2.9,Yes,No,No,Yes,Data Science,Semester 6
+Student 326,0376499,18,7.7,62,3,6,2.57,No,No,Yes,Yes,Data Science,Semester 3
+Student 327,0334319,23,2.6,78,3,1,3.1,No,Yes,No,Yes,Business,Semester 1
+Student 328,0377362,25,5.5,63,5,6,2.63,Yes,Yes,Yes,Yes,Software Engineering,Semester 1
+Student 329,0392059,19,7.9,59,6,4,2.58,Yes,No,No,No,Software Engineering,Semester 6
+Student 330,0398555,23,1.7,56,12,7,2.12,Yes,Yes,Yes,No,Business,Semester 3
+Student 331,0337651,24,2.6,90,0,9,3.15,Yes,No,Yes,Yes,Computer Science,Semester 6
+Student 332,0343189,23,5.2,96,1,7,3.1,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 333,0329417,20,0.5,58,8,8,2.24,No,Yes,No,Yes,Engineering,Semester 5
+Student 334,0376436,25,7.6,89,5,7,3.01,Yes,No,Yes,No,Computer Science,Semester 5
+Student 335,0342719,20,2.4,48,5,9,1.3,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 336,0361198,25,3.5,85,9,3,3.22,No,Yes,No,No,Computer Science,Semester 3
+Student 337,0332477,23,8.0,98,2,4,3.46,Yes,No,No,Yes,Data Science,Semester 1
+Student 338,0346823,23,7.4,78,1,7,3.42,Yes,No,Yes,Yes,Computer Science,Semester 3
+Student 339,0393850,20,3.5,91,7,7,1.65,No,Yes,No,Yes,Engineering,Semester 6
+Student 340,0349316,21,7.2,88,2,3,3.86,Yes,Yes,No,No,Data Science,Semester 5
+Student 341,0329923,24,2.4,86,0,8,2.86,Yes,Yes,No,No,Business,Semester 3
+Student 342,0332928,22,2.1,89,10,8,2.76,No,Yes,No,No,Data Science,Semester 6
+Student 343,0320914,20,2.1,95,7,2,2.45,Yes,No,No,Yes,Computer Science,Semester 3
+Student 344,0321790,25,5.7,90,2,4,3.58,Yes,Yes,Yes,Yes,Data Science,Semester 2
+Student 345,0390915,22,4.9,47,9,5,2.9,No,Yes,No,No,Software Engineering,Semester 3
+Student 346,0329510,21,1.5,47,13,8,1.79,Yes,Yes,No,No,Data Science,Semester 5
+Student 347,0325817,21,1.6,96,10,1,2.05,Yes,Yes,No,Yes,Data Science,Semester 1
+Student 348,0382885,25,4.1,62,6,5,2.26,No,No,No,Yes,Business,Semester 5
+Student 349,0384016,23,7.5,89,1,3,2.65,No,No,No,No,Engineering,Semester 4
+Student 350,0329041,24,1.9,90,8,4,3.19,No,No,Yes,No,Computer Science,Semester 6
+Student 351,0370438,19,6.4,74,5,4,2.88,No,No,No,Yes,Software Engineering,Semester 1
+Student 352,0320818,22,2.4,72,7,6,3.29,Yes,Yes,No,No,Business,Semester 4
+Student 353,0354176,20,1.1,98,0,7,2.5,No,No,No,No,Engineering,Semester 6
+Student 354,0373486,25,3.7,89,6,4,3.17,No,Yes,Yes,No,Computer Science,Semester 3
+Student 355,0353636,18,5.5,98,2,1,3.61,No,Yes,Yes,Yes,Business,Semester 1
+Student 356,0381249,18,7.0,64,6,7,2.33,Yes,Yes,No,Yes,Business,Semester 4
+Student 357,0358469,20,0.7,59,10,9,2.11,Yes,Yes,Yes,Yes,Business,Semester 6
+Student 358,0395420,25,6.2,87,10,3,2.89,No,No,No,No,Engineering,Semester 1
+Student 359,0313987,22,1.0,64,11,8,1.81,Yes,No,Yes,Yes,Data Science,Semester 4
+Student 360,0325165,24,5.0,80,8,2,2.79,No,Yes,No,No,Computer Science,Semester 2
+Student 361,0363731,25,5.6,95,1,4,3.78,Yes,Yes,Yes,No,Business,Semester 2
+Student 362,0387311,26,1.4,60,8,4,3.3,No,Yes,No,No,Computer Science,Semester 5
+Student 363,0312307,26,3.9,80,3,8,2.77,No,No,No,No,Engineering,Semester 2
+Student 364,0334625,23,2.9,72,10,6,3.85,Yes,Yes,Yes,No,Software Engineering,Semester 3
+Student 365,0381438,24,4.2,85,5,4,2.53,Yes,Yes,No,Yes,Data Science,Semester 6
+Student 366,0376434,22,0.9,65,12,8,1.78,Yes,Yes,Yes,No,Computer Science,Semester 1
+Student 367,0358866,23,7.7,99,2,3,3.3,Yes,No,Yes,No,Engineering,Semester 2
+Student 368,0313996,24,5.1,94,2,4,3.79,Yes,Yes,No,No,Computer Science,Semester 5
+Student 369,0359325,21,1.8,59,2,3,2.55,Yes,No,Yes,Yes,Engineering,Semester 3
+Student 370,0315210,20,3.7,75,9,5,2.37,No,No,Yes,No,Computer Science,Semester 5
+Student 371,0342049,26,3.0,61,9,2,2.5,No,No,No,Yes,Business,Semester 5
+Student 372,0331638,18,5.8,54,6,6,2.98,Yes,Yes,Yes,No,Computer Science,Semester 6
+Student 373,0314252,22,6.6,67,5,7,2.33,Yes,Yes,No,Yes,Business,Semester 6
+Student 374,0352915,18,4.9,51,7,9,2.72,Yes,No,Yes,No,Engineering,Semester 4
+Student 375,0362635,23,5.6,90,2,1,3.93,No,No,No,No,Data Science,Semester 3
+Student 376,0353379,20,7.3,86,2,10,3.49,Yes,No,Yes,Yes,Data Science,Semester 1
+Student 377,0324517,23,5.3,93,1,1,3.24,No,No,Yes,No,Software Engineering,Semester 4
+Student 378,0359427,20,2.5,52,6,8,1.24,No,No,Yes,Yes,Engineering,Semester 3
+Student 379,0390007,19,2.8,61,6,2,2.25,No,No,Yes,Yes,Data Science,Semester 1
+Student 380,0315657,21,1.3,52,8,10,1.69,Yes,No,No,No,Software Engineering,Semester 5
+Student 381,0322412,23,2.0,51,12,9,2.19,Yes,Yes,Yes,No,Software Engineering,Semester 1
+Student 382,0344520,18,1.2,44,12,8,1.76,Yes,Yes,No,Yes,Business,Semester 1
+Student 383,0381139,19,6.5,90,1,4,3.41,No,Yes,No,Yes,Data Science,Semester 5
+Student 384,0359591,18,5.3,99,1,2,3.68,No,No,Yes,Yes,Business,Semester 2
+Student 385,0345865,19,1.3,47,8,8,2.06,No,No,No,No,Computer Science,Semester 3
+Student 386,0390390,25,6.1,86,6,6,2.94,No,Yes,Yes,No,Business,Semester 5
+Student 387,0362200,25,4.0,97,2,5,2.32,No,No,Yes,No,Software Engineering,Semester 1
+Student 388,0394872,18,4.5,65,6,3,3.27,Yes,Yes,No,No,Computer Science,Semester 1
+Student 389,0362192,19,2.3,91,6,10,3.28,No,Yes,Yes,No,Engineering,Semester 6
+Student 390,0313276,21,7.0,89,1,3,3.31,Yes,Yes,Yes,Yes,Software Engineering,Semester 6
+Student 391,0374571,19,7.4,52,4,9,3.08,Yes,Yes,Yes,No,Engineering,Semester 2
+Student 392,0379155,18,6.1,96,0,3,3.57,Yes,No,No,Yes,Engineering,Semester 3
+Student 393,0393533,23,5.7,97,0,1,3.34,Yes,Yes,No,No,Engineering,Semester 6
+Student 394,0334977,23,3.1,63,10,7,2.69,Yes,Yes,Yes,Yes,Business,Semester 3
+Student 395,0361119,24,3.7,67,7,4,3.9,Yes,Yes,Yes,Yes,Computer Science,Semester 6
+Student 396,0342320,20,4.9,100,1,1,3.75,No,Yes,No,No,Computer Science,Semester 6
+Student 397,0334278,19,1.9,55,10,1,2.36,No,No,No,No,Software Engineering,Semester 4
+Student 398,0314263,22,0.6,59,13,7,1.5,No,No,Yes,No,Engineering,Semester 4
+Student 399,0398902,26,5.7,96,1,3,3.59,No,No,No,Yes,Engineering,Semester 5
+Student 400,0367364,25,2.0,47,13,9,1.8,Yes,No,Yes,No,Business,Semester 2

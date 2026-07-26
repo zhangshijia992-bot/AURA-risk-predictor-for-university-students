@@ -1,0 +1,232 @@
+student_id,student_name,course_code,course_name,academic_year,semester_term,upload_type,course_mark
+0370959,Zhang Shijia,CRS001,Database Systems,2026,February,Final,25.8
+0370959,Zhang Shijia,CRS002,Computer Architecture and Organisation,2026,February,Final,66.2
+0370959,Zhang Shijia,CRS005,Principles of Software Engineering,2026,February,Final,74.2
+0370995,Zhang Shijia,CRS010,Computer Networks,2026,February,Final,34.7
+0370995,Zhang Shijia,CRS003,Object Oriented Programming,2026,February,Final,75.8
+0370995,Zhang Shijia,CRS009,Software Project Management,2026,February,Final,56.5
+0370995,Zhang Shijia,CRS007,Data Structures and Algorithms,2026,February,Final,85.2
+0370995,Zhang Shijia,CRS005,Principles of Software Engineering,2026,February,Final,69.0
+0349366,Daniel,CRS010,Computer Networks,2026,February,Final,55.8
+0349366,Daniel,CRS002,Computer Architecture and Organisation,2026,February,Final,44.3
+0349366,Daniel,CRS009,Software Project Management,2026,February,Final,71.3
+STU6001,Student 6001,CRS002,Computer Architecture and Organisation,2026,February,Final,61.2
+STU6001,Student 6001,CRS006,Systems Analysis and Design,2026,February,Final,77.0
+STU6001,Student 6001,CRS008,Operating Systems,2026,February,Final,81.1
+STU6001,Student 6001,CRS003,Object Oriented Programming,2026,February,Final,75.8
+STU6001,Student 6001,CRS009,Software Project Management,2026,February,Final,55.1
+STU6002,Student 6002,CRS001,Database Systems,2026,February,Final,66.7
+STU6002,Student 6002,CRS005,Principles of Software Engineering,2026,February,Final,51.7
+STU6002,Student 6002,CRS007,Data Structures and Algorithms,2026,February,Final,51.0
+STU6003,Student 6003,CRS007,Data Structures and Algorithms,2026,February,Final,32.3
+STU6003,Student 6003,CRS006,Systems Analysis and Design,2026,February,Final,72.3
+STU6003,Student 6003,CRS009,Software Project Management,2026,February,Final,49.0
+STU6004,Student 6004,CRS004,Discrete Structures,2026,February,Final,42.5
+STU6004,Student 6004,CRS009,Software Project Management,2026,February,Final,84.5
+STU6004,Student 6004,CRS010,Computer Networks,2026,February,Final,36.4
+STU6005,Student 6005,CRS010,Computer Networks,2026,February,Final,36.3
+STU6005,Student 6005,CRS004,Discrete Structures,2026,February,Final,65.7
+STU6005,Student 6005,CRS006,Systems Analysis and Design,2026,February,Final,55.4
+STU6006,Student 6006,CRS004,Discrete Structures,2026,February,Final,58.3
+STU6006,Student 6006,CRS008,Operating Systems,2026,February,Final,72.6
+STU6006,Student 6006,CRS005,Principles of Software Engineering,2026,February,Final,69.0
+STU6006,Student 6006,CRS010,Computer Networks,2026,February,Final,34.6
+STU6006,Student 6006,CRS002,Computer Architecture and Organisation,2026,February,Final,57.6
+STU6007,Student 6007,CRS002,Computer Architecture and Organisation,2026,February,Final,82.5
+STU6007,Student 6007,CRS008,Operating Systems,2026,February,Final,26.6
+STU6007,Student 6007,CRS006,Systems Analysis and Design,2026,February,Final,48.9
+STU6008,Student 6008,CRS001,Database Systems,2026,February,Final,55.6
+STU6008,Student 6008,CRS010,Computer Networks,2026,February,Final,60.8
+STU6008,Student 6008,CRS007,Data Structures and Algorithms,2026,February,Final,81.0
+STU6008,Student 6008,CRS002,Computer Architecture and Organisation,2026,February,Final,57.3
+STU6008,Student 6008,CRS009,Software Project Management,2026,February,Final,67.4
+STU6009,Student 6009,CRS003,Object Oriented Programming,2026,February,Final,58.0
+STU6009,Student 6009,CRS010,Computer Networks,2026,February,Final,51.0
+STU6009,Student 6009,CRS009,Software Project Management,2026,February,Final,76.6
+STU6010,Student 6010,CRS001,Database Systems,2026,February,Final,70.4
+STU6010,Student 6010,CRS009,Software Project Management,2026,February,Final,76.9
+STU6010,Student 6010,CRS002,Computer Architecture and Organisation,2026,February,Final,75.4
+STU6011,Student 6011,CRS006,Systems Analysis and Design,2026,February,Final,35.2
+STU6011,Student 6011,CRS002,Computer Architecture and Organisation,2026,February,Final,52.8
+STU6011,Student 6011,CRS007,Data Structures and Algorithms,2026,February,Final,63.0
+STU6012,Student 6012,CRS009,Software Project Management,2026,February,Final,48.6
+STU6012,Student 6012,CRS007,Data Structures and Algorithms,2026,February,Final,45.2
+STU6012,Student 6012,CRS002,Computer Architecture and Organisation,2026,February,Final,52.1
+STU6012,Student 6012,CRS010,Computer Networks,2026,February,Final,68.7
+STU6012,Student 6012,CRS001,Database Systems,2026,February,Final,66.2
+STU6013,Student 6013,CRS001,Database Systems,2026,February,Final,73.8
+STU6013,Student 6013,CRS008,Operating Systems,2026,February,Final,53.3
+STU6013,Student 6013,CRS009,Software Project Management,2026,February,Final,58.0
+STU6013,Student 6013,CRS004,Discrete Structures,2026,February,Final,71.6
+STU6013,Student 6013,CRS005,Principles of Software Engineering,2026,February,Final,55.2
+STU6014,Student 6014,CRS002,Computer Architecture and Organisation,2026,February,Final,77.3
+STU6014,Student 6014,CRS003,Object Oriented Programming,2026,February,Final,76.8
+STU6014,Student 6014,CRS001,Database Systems,2026,February,Final,61.4
+STU6014,Student 6014,CRS004,Discrete Structures,2026,February,Final,27.5
+STU6015,Student 6015,CRS003,Object Oriented Programming,2026,February,Final,78.3
+STU6015,Student 6015,CRS008,Operating Systems,2026,February,Final,58.9
+STU6015,Student 6015,CRS009,Software Project Management,2026,February,Final,75.9
+STU6016,Student 6016,CRS006,Systems Analysis and Design,2026,February,Final,56.7
+STU6016,Student 6016,CRS002,Computer Architecture and Organisation,2026,February,Final,45.7
+STU6016,Student 6016,CRS007,Data Structures and Algorithms,2026,February,Final,22.2
+STU6016,Student 6016,CRS001,Database Systems,2026,February,Final,68.5
+STU6017,Student 6017,CRS003,Object Oriented Programming,2026,February,Final,72.0
+STU6017,Student 6017,CRS010,Computer Networks,2026,February,Final,60.6
+STU6017,Student 6017,CRS002,Computer Architecture and Organisation,2026,February,Final,68.1
+STU6017,Student 6017,CRS008,Operating Systems,2026,February,Final,59.2
+STU6018,Student 6018,CRS006,Systems Analysis and Design,2026,February,Final,63.0
+STU6018,Student 6018,CRS007,Data Structures and Algorithms,2026,February,Final,43.1
+STU6018,Student 6018,CRS001,Database Systems,2026,February,Final,47.0
+STU6018,Student 6018,CRS005,Principles of Software Engineering,2026,February,Final,72.0
+STU6018,Student 6018,CRS002,Computer Architecture and Organisation,2026,February,Final,53.3
+STU6019,Student 6019,CRS006,Systems Analysis and Design,2026,February,Final,69.3
+STU6019,Student 6019,CRS002,Computer Architecture and Organisation,2026,February,Final,66.6
+STU6019,Student 6019,CRS001,Database Systems,2026,February,Final,51.1
+STU6019,Student 6019,CRS004,Discrete Structures,2026,February,Final,41.0
+STU6020,Student 6020,CRS003,Object Oriented Programming,2026,February,Final,49.1
+STU6020,Student 6020,CRS002,Computer Architecture and Organisation,2026,February,Final,50.1
+STU6020,Student 6020,CRS008,Operating Systems,2026,February,Final,69.2
+STU6020,Student 6020,CRS004,Discrete Structures,2026,February,Final,59.7
+STU6021,Student 6021,CRS001,Database Systems,2026,February,Final,71.7
+STU6021,Student 6021,CRS008,Operating Systems,2026,February,Final,63.6
+STU6021,Student 6021,CRS003,Object Oriented Programming,2026,February,Final,41.5
+STU6021,Student 6021,CRS010,Computer Networks,2026,February,Final,36.0
+STU6021,Student 6021,CRS007,Data Structures and Algorithms,2026,February,Final,48.0
+STU6022,Student 6022,CRS002,Computer Architecture and Organisation,2026,February,Final,46.1
+STU6022,Student 6022,CRS008,Operating Systems,2026,February,Final,55.5
+STU6022,Student 6022,CRS007,Data Structures and Algorithms,2026,February,Final,61.1
+STU6022,Student 6022,CRS001,Database Systems,2026,February,Final,68.4
+STU6022,Student 6022,CRS009,Software Project Management,2026,February,Final,68.0
+STU6023,Student 6023,CRS006,Systems Analysis and Design,2026,February,Final,62.7
+STU6023,Student 6023,CRS002,Computer Architecture and Organisation,2026,February,Final,77.4
+STU6023,Student 6023,CRS003,Object Oriented Programming,2026,February,Final,80.7
+STU6024,Student 6024,CRS004,Discrete Structures,2026,February,Final,41.7
+STU6024,Student 6024,CRS001,Database Systems,2026,February,Final,43.9
+STU6024,Student 6024,CRS010,Computer Networks,2026,February,Final,64.0
+STU6024,Student 6024,CRS005,Principles of Software Engineering,2026,February,Final,59.8
+STU6025,Student 6025,CRS008,Operating Systems,2026,February,Final,70.0
+STU6025,Student 6025,CRS001,Database Systems,2026,February,Final,79.3
+STU6025,Student 6025,CRS007,Data Structures and Algorithms,2026,February,Final,71.7
+STU6026,Student 6026,CRS009,Software Project Management,2026,February,Final,88.2
+STU6026,Student 6026,CRS008,Operating Systems,2026,February,Final,77.9
+STU6026,Student 6026,CRS002,Computer Architecture and Organisation,2026,February,Final,63.9
+STU6027,Student 6027,CRS010,Computer Networks,2026,February,Final,44.4
+STU6027,Student 6027,CRS003,Object Oriented Programming,2026,February,Final,66.9
+STU6027,Student 6027,CRS004,Discrete Structures,2026,February,Final,47.5
+STU6028,Student 6028,CRS002,Computer Architecture and Organisation,2026,February,Final,56.1
+STU6028,Student 6028,CRS010,Computer Networks,2026,February,Final,43.9
+STU6028,Student 6028,CRS005,Principles of Software Engineering,2026,February,Final,57.0
+STU6028,Student 6028,CRS009,Software Project Management,2026,February,Final,43.0
+STU6029,Student 6029,CRS003,Object Oriented Programming,2026,February,Final,62.5
+STU6029,Student 6029,CRS007,Data Structures and Algorithms,2026,February,Final,93.2
+STU6029,Student 6029,CRS004,Discrete Structures,2026,February,Final,39.1
+STU6030,Student 6030,CRS003,Object Oriented Programming,2026,February,Final,76.4
+STU6030,Student 6030,CRS007,Data Structures and Algorithms,2026,February,Final,55.5
+STU6030,Student 6030,CRS008,Operating Systems,2026,February,Final,74.9
+STU6030,Student 6030,CRS001,Database Systems,2026,February,Final,62.5
+STU6031,Student 6031,CRS005,Principles of Software Engineering,2026,February,Final,71.3
+STU6031,Student 6031,CRS001,Database Systems,2026,February,Final,55.8
+STU6031,Student 6031,CRS007,Data Structures and Algorithms,2026,February,Final,59.4
+STU6032,Student 6032,CRS010,Computer Networks,2026,February,Final,84.2
+STU6032,Student 6032,CRS006,Systems Analysis and Design,2026,February,Final,67.3
+STU6032,Student 6032,CRS005,Principles of Software Engineering,2026,February,Final,66.6
+STU6033,Student 6033,CRS009,Software Project Management,2026,February,Final,52.6
+STU6033,Student 6033,CRS001,Database Systems,2026,February,Final,37.6
+STU6033,Student 6033,CRS004,Discrete Structures,2026,February,Final,53.2
+STU6034,Student 6034,CRS009,Software Project Management,2026,February,Final,65.4
+STU6034,Student 6034,CRS007,Data Structures and Algorithms,2026,February,Final,46.5
+STU6034,Student 6034,CRS008,Operating Systems,2026,February,Final,59.7
+STU6034,Student 6034,CRS004,Discrete Structures,2026,February,Final,34.9
+STU6034,Student 6034,CRS002,Computer Architecture and Organisation,2026,February,Final,67.8
+STU6035,Student 6035,CRS007,Data Structures and Algorithms,2026,February,Final,52.3
+STU6035,Student 6035,CRS005,Principles of Software Engineering,2026,February,Final,80.9
+STU6035,Student 6035,CRS010,Computer Networks,2026,February,Final,56.5
+STU6035,Student 6035,CRS001,Database Systems,2026,February,Final,58.1
+STU6036,Student 6036,CRS005,Principles of Software Engineering,2026,February,Final,87.6
+STU6036,Student 6036,CRS002,Computer Architecture and Organisation,2026,February,Final,39.2
+STU6036,Student 6036,CRS010,Computer Networks,2026,February,Final,69.9
+STU6036,Student 6036,CRS006,Systems Analysis and Design,2026,February,Final,61.3
+STU6036,Student 6036,CRS003,Object Oriented Programming,2026,February,Final,88.0
+STU6037,Student 6037,CRS010,Computer Networks,2026,February,Final,52.5
+STU6037,Student 6037,CRS007,Data Structures and Algorithms,2026,February,Final,23.6
+STU6037,Student 6037,CRS003,Object Oriented Programming,2026,February,Final,74.9
+STU6037,Student 6037,CRS008,Operating Systems,2026,February,Final,76.8
+STU6038,Student 6038,CRS002,Computer Architecture and Organisation,2026,February,Final,70.2
+STU6038,Student 6038,CRS001,Database Systems,2026,February,Final,66.1
+STU6038,Student 6038,CRS007,Data Structures and Algorithms,2026,February,Final,51.6
+STU6039,Student 6039,CRS005,Principles of Software Engineering,2026,February,Final,43.7
+STU6039,Student 6039,CRS008,Operating Systems,2026,February,Final,80.1
+STU6039,Student 6039,CRS002,Computer Architecture and Organisation,2026,February,Final,74.2
+STU6040,Student 6040,CRS010,Computer Networks,2026,February,Final,71.1
+STU6040,Student 6040,CRS004,Discrete Structures,2026,February,Final,60.3
+STU6040,Student 6040,CRS002,Computer Architecture and Organisation,2026,February,Final,63.0
+STU6041,Student 6041,CRS005,Principles of Software Engineering,2026,February,Final,77.2
+STU6041,Student 6041,CRS008,Operating Systems,2026,February,Final,89.5
+STU6041,Student 6041,CRS007,Data Structures and Algorithms,2026,February,Final,53.1
+STU6041,Student 6041,CRS004,Discrete Structures,2026,February,Final,50.9
+STU6042,Student 6042,CRS005,Principles of Software Engineering,2026,February,Final,37.4
+STU6042,Student 6042,CRS006,Systems Analysis and Design,2026,February,Final,59.0
+STU6042,Student 6042,CRS010,Computer Networks,2026,February,Final,45.6
+STU6043,Student 6043,CRS009,Software Project Management,2026,February,Final,76.6
+STU6043,Student 6043,CRS010,Computer Networks,2026,February,Final,73.1
+STU6043,Student 6043,CRS007,Data Structures and Algorithms,2026,February,Final,43.1
+STU6043,Student 6043,CRS008,Operating Systems,2026,February,Final,64.1
+STU6043,Student 6043,CRS003,Object Oriented Programming,2026,February,Final,59.8
+STU6044,Student 6044,CRS006,Systems Analysis and Design,2026,February,Final,46.4
+STU6044,Student 6044,CRS008,Operating Systems,2026,February,Final,82.9
+STU6044,Student 6044,CRS007,Data Structures and Algorithms,2026,February,Final,61.3
+STU6044,Student 6044,CRS002,Computer Architecture and Organisation,2026,February,Final,61.5
+STU6045,Student 6045,CRS008,Operating Systems,2026,February,Final,59.2
+STU6045,Student 6045,CRS006,Systems Analysis and Design,2026,February,Final,80.5
+STU6045,Student 6045,CRS001,Database Systems,2026,February,Final,57.6
+STU6045,Student 6045,CRS007,Data Structures and Algorithms,2026,February,Final,50.1
+STU6045,Student 6045,CRS010,Computer Networks,2026,February,Final,59.9
+STU6046,Student 6046,CRS010,Computer Networks,2026,February,Final,37.4
+STU6046,Student 6046,CRS006,Systems Analysis and Design,2026,February,Final,62.5
+STU6046,Student 6046,CRS005,Principles of Software Engineering,2026,February,Final,79.9
+STU6046,Student 6046,CRS009,Software Project Management,2026,February,Final,63.8
+STU6046,Student 6046,CRS008,Operating Systems,2026,February,Final,68.9
+STU6047,Student 6047,CRS009,Software Project Management,2026,February,Final,69.0
+STU6047,Student 6047,CRS004,Discrete Structures,2026,February,Final,65.0
+STU6047,Student 6047,CRS006,Systems Analysis and Design,2026,February,Final,57.8
+STU6047,Student 6047,CRS002,Computer Architecture and Organisation,2026,February,Final,35.7
+STU6047,Student 6047,CRS007,Data Structures and Algorithms,2026,February,Final,44.4
+STU6048,Student 6048,CRS003,Object Oriented Programming,2026,February,Final,48.1
+STU6048,Student 6048,CRS005,Principles of Software Engineering,2026,February,Final,21.3
+STU6048,Student 6048,CRS006,Systems Analysis and Design,2026,February,Final,51.5
+STU6049,Student 6049,CRS003,Object Oriented Programming,2026,February,Final,65.3
+STU6049,Student 6049,CRS006,Systems Analysis and Design,2026,February,Final,63.7
+STU6049,Student 6049,CRS004,Discrete Structures,2026,February,Final,72.3
+STU6049,Student 6049,CRS002,Computer Architecture and Organisation,2026,February,Final,50.6
+STU6050,Student 6050,CRS007,Data Structures and Algorithms,2026,February,Final,22.0
+STU6050,Student 6050,CRS010,Computer Networks,2026,February,Final,44.2
+STU6050,Student 6050,CRS006,Systems Analysis and Design,2026,February,Final,56.0
+STU6050,Student 6050,CRS001,Database Systems,2026,February,Final,70.3
+STU6050,Student 6050,CRS004,Discrete Structures,2026,February,Final,50.6
+STU6051,Student 6051,CRS002,Computer Architecture and Organisation,2026,February,Final,57.1
+STU6051,Student 6051,CRS007,Data Structures and Algorithms,2026,February,Final,29.7
+STU6051,Student 6051,CRS005,Principles of Software Engineering,2026,February,Final,66.2
+STU6052,Student 6052,CRS009,Software Project Management,2026,February,Final,56.3
+STU6052,Student 6052,CRS005,Principles of Software Engineering,2026,February,Final,52.6
+STU6052,Student 6052,CRS007,Data Structures and Algorithms,2026,February,Final,86.6
+STU6052,Student 6052,CRS001,Database Systems,2026,February,Final,68.4
+STU6053,Student 6053,CRS003,Object Oriented Programming,2026,February,Final,55.5
+STU6053,Student 6053,CRS008,Operating Systems,2026,February,Final,50.1
+STU6053,Student 6053,CRS009,Software Project Management,2026,February,Final,69.6
+STU6053,Student 6053,CRS007,Data Structures and Algorithms,2026,February,Final,42.3
+STU6053,Student 6053,CRS005,Principles of Software Engineering,2026,February,Final,69.1
+STU6054,Student 6054,CRS006,Systems Analysis and Design,2026,February,Final,96
+STU6054,Student 6054,CRS010,Computer Networks,2026,February,Final,21.7
+STU6054,Student 6054,CRS003,Object Oriented Programming,2026,February,Final,54.2
+STU6054,Student 6054,CRS007,Data Structures and Algorithms,2026,February,Final,51.0
+STU6055,Student 6055,CRS001,Database Systems,2026,February,Final,65.3
+STU6055,Student 6055,CRS003,Object Oriented Programming,2026,February,Final,86.6
+STU6055,Student 6055,CRS004,Discrete Structures,2026,February,Final,32.8
+STU6056,Student 6056,CRS005,Principles of Software Engineering,2026,February,Final,82.4
+STU6056,Student 6056,CRS008,Operating Systems,2026,February,Final,52.1
+STU6056,Student 6056,CRS006,Systems Analysis and Design,2026,February,Final,53.0
+STU6057,Student 6057,CRS001,Database Systems,2026,February,Final,68.0
+STU6057,Student 6057,CRS010,Computer Networks,2026,February,Final,64.2
+STU6057,Student 6057,CRS004,Discrete Structures,2026,February,Final,46.4
+STU6057,Student 6057,CRS005,Principles of Software Engineering,2026,February,Final,28.1
+STU6057,Student 6057,CRS008,Operating Systems,2026,February,Final,52.7

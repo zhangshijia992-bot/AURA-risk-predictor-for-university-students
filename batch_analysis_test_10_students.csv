@@ -1,0 +1,11 @@
+student_name,student_id,age,study_hours,attendance,assignment_delay,stress,gpa,internet,part_time_job,family_problems,family_reason,scholarship,department,semester
+Batch Test Student 1,BT1001,20,1.5,48,9,9,1.85,Yes,Yes,Yes,Financial pressure at home,No,CS,Semester 3
+Batch Test Student 2,BT1002,21,2.0,62,6,8,2.1,Yes,No,No,,No,Engineering,Semester 4
+Batch Test Student 3,BT1003,19,5.5,92,0,3,3.55,Yes,No,No,,Yes,Business,Semester 2
+Batch Test Student 4,BT1004,22,3.0,75,3,6,2.7,No,Yes,No,,No,Science,Semester 5
+Batch Test Student 5,BT1005,20,0.5,40,12,10,1.4,No,Yes,Yes,Family health issue,No,Engineering,Semester 6
+Batch Test Student 6,BT1006,18,4.0,84,1,4,3.2,Yes,No,No,,Yes,CS,Semester 1
+Batch Test Student 7,BT1007,24,2.2,58,7,7,2.05,Yes,Yes,Yes,Caregiving responsibility,No,Business,Semester 7
+Batch Test Student 8,BT1008,21,6.0,96,0,2,3.8,Yes,No,No,,Yes,Science,Semester 4
+Batch Test Student 9,BT1009,23,3.2,70,4,6,2.55,Yes,No,No,,No,Engineering,Semester 5
+Batch Test Student 10,BT1010,20,1.0,52,10,9,1.75,Yes,Yes,No,,No,CS,Semester 3

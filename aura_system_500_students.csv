@@ -1,0 +1,501 @@
+student_name,student_id,age,study_hours,attendance,assignment_delay,stress,gpa,internet,part_time_job,family_problems,scholarship,department,semester
+Student 6253,STU6253,26,4,61,7,46,2.67,Yes,Yes,No,No,Business,Semester 4
+Student 4685,STU4685,18,4,86,0,89,3.95,Yes,No,Yes,No,Engineering,Semester 3
+Student 1732,STU1732,20,4,86,5,79,3.29,Yes,Yes,No,No,Computer Science,Semester 2
+Student 4743,STU4743,21,4,76,3,89,2.7,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 4522,STU4522,23,4,79,1,34,3.81,Yes,No,No,No,Software Engineering,Semester 4
+Student 6341,STU6341,19,4,60,6,75,2.9,Yes,Yes,No,Yes,Data Science,Semester 4
+Student 577,STU0577,21,4,81,1,81,2.9,Yes,No,No,Yes,Engineering,Semester 2
+Student 5203,STU5203,21,4,72,5,32,3.29,Yes,No,No,Yes,Computer Science,Semester 2
+Student 6364,STU6364,22,4,66,0,26,2.97,Yes,No,No,Yes,Engineering,Semester 4
+Student 440,STU0440,20,4,82,4,40,3.04,Yes,Yes,Yes,Yes,Data Science,Semester 2
+Student 2751,STU2751,24,4,73,3,33,3.3,Yes,Yes,No,Yes,Computer Science,Semester 4
+Student 7488,STU7488,22,4,97,7,22,2.49,No,No,No,No,Computer Science,Semester 1
+Student 5273,STU5273,18,4,71,4,82,2.95,Yes,No,No,Yes,Data Science,Semester 1
+Student 5654,STU5654,23,4,89,2,62,2.58,Yes,Yes,No,No,Business,Semester 1
+Student 4000,STU4000,21,4,69,5,31,3.16,Yes,No,No,No,Computer Science,Semester 3
+Student 6034,STU6034,19,4,59,6,74,2.37,Yes,No,Yes,No,Software Engineering,Semester 3
+Student 583,STU0583,22,4,90,6,78,3.71,Yes,No,No,No,Computer Science,Semester 2
+Student 9931,STU9931,19,4,87,7,39,2.73,Yes,Yes,No,Yes,Engineering,Semester 4
+Student 7052,STU7052,21,4,75,0,88,2.85,Yes,Yes,Yes,No,Computer Science,Semester 3
+Student 8159,STU8159,22,4,89,5,64,2.95,Yes,Yes,Yes,Yes,Business,Semester 1
+Student 9897,STU9897,20,4,96,6,74,2.57,Yes,Yes,Yes,No,Computer Science,Semester 3
+Student 2250,STU2250,23,4,81,2,78,3.1,Yes,No,Yes,Yes,Software Engineering,Semester 1
+Student 4641,STU4641,22,4,99,6,94,3.5,No,No,Yes,No,Business,Semester 4
+Student 9486,STU9486,23,4,84,6,79,2.85,Yes,Yes,Yes,No,Computer Science,Semester 3
+Student 4948,STU4948,18,4,93,4,80,2.81,Yes,No,No,No,Engineering,Semester 1
+Student 9921,STU9921,18,4,84,6,61,3.29,Yes,Yes,No,No,Computer Science,Semester 2
+Student 1964,STU1964,22,4,99,3,63,3.26,Yes,Yes,No,No,Data Science,Semester 3
+Student 8244,STU8244,23,4,75,4,25,3.06,Yes,Yes,No,Yes,Software Engineering,Semester 2
+Student 6591,STU6591,20,4,80,1,88,3.55,Yes,No,No,No,Engineering,Semester 3
+Student 8848,STU8848,21,4,78,6,41,3.19,Yes,No,No,Yes,Engineering,Semester 1
+Student 322,STU0322,22,4,76,4,84,3.8,Yes,Yes,No,No,Business,Semester 3
+Student 2679,STU2679,21,4,91,4,39,2.86,Yes,No,No,No,Data Science,Semester 4
+Student 4626,STU4626,23,4,97,6,66,2.49,Yes,No,Yes,Yes,Engineering,Semester 4
+Student 4950,STU4950,22,4,80,4,67,3.63,Yes,Yes,No,No,Data Science,Semester 3
+Student 8329,STU8329,21,4,76,6,43,2.21,No,Yes,No,Yes,Data Science,Semester 3
+Student 3338,STU3338,20,4,87,7,91,2.62,Yes,Yes,No,No,Computer Science,Semester 2
+Student 5590,STU5590,24,4,78,7,58,2.56,Yes,Yes,No,Yes,Software Engineering,Semester 1
+Student 252,STU0252,23,4,59,4,74,3.03,Yes,Yes,No,Yes,Business,Semester 4
+Student 3974,STU3974,21,4,78,3,74,2.97,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 6631,STU6631,17,4,89,0,89,3.55,Yes,Yes,Yes,Yes,Computer Science,Semester 4
+Student 5548,STU5548,22,4,76,3,82,3.03,Yes,Yes,No,No,Software Engineering,Semester 4
+Student 36,STU0036,18,4,87,5,38,2.74,Yes,Yes,No,Yes,Software Engineering,Semester 2
+Student 8363,STU8363,18,4,71,2,77,2.87,Yes,No,No,No,Software Engineering,Semester 4
+Student 1514,STU1514,17,4,66,1,45,2.58,Yes,No,No,No,Computer Science,Semester 4
+Student 9318,STU9318,18,4,84,0,66,3.3,Yes,No,No,No,Software Engineering,Semester 1
+Student 40,STU0040,21,4,80,6,33,3.67,Yes,Yes,Yes,Yes,Data Science,Semester 4
+Student 4820,STU4820,20,4,67,5,22,3.09,Yes,No,No,Yes,Business,Semester 1
+Student 3466,STU3466,18,4,60,6,88,2.99,Yes,No,Yes,Yes,Engineering,Semester 3
+Student 1761,STU1761,24,4,57,7,33,3.21,Yes,No,No,No,Engineering,Semester 4
+Student 2305,STU2305,25,4,65,6,27,2.8,No,No,No,No,Computer Science,Semester 4
+Student 3724,STU3724,17,4,97,5,34,2.94,Yes,Yes,No,No,Data Science,Semester 3
+Student 8285,STU8285,18,4,64,1,64,2.93,Yes,No,Yes,No,Computer Science,Semester 4
+Student 4994,STU4994,22,4,65,1,64,3.32,Yes,No,Yes,Yes,Computer Science,Semester 2
+Student 8128,STU8128,18,4,70,0,22,2.83,No,No,No,Yes,Data Science,Semester 3
+Student 3033,STU3033,22,4,74,5,30,2.05,Yes,No,Yes,No,Computer Science,Semester 1
+Student 7939,STU7939,24,4,96,5,28,2.49,Yes,No,No,Yes,Data Science,Semester 4
+Student 3040,STU3040,20,4,98,0,23,4.0,Yes,No,No,Yes,Data Science,Semester 2
+Student 9656,STU9656,23,4,73,7,69,2.93,Yes,No,Yes,Yes,Computer Science,Semester 1
+Student 2546,STU2546,22,4,63,5,25,3.23,Yes,Yes,No,Yes,Engineering,Semester 3
+Student 2593,STU2593,20,4,90,2,63,2.96,Yes,No,No,No,Data Science,Semester 4
+Student 1189,STU1189,22,4,69,7,24,2.97,Yes,Yes,No,No,Engineering,Semester 4
+Student 7967,STU7967,23,4,77,3,76,2.5,Yes,No,No,No,Data Science,Semester 2
+Student 6078,STU6078,19,4,75,6,68,3.77,Yes,Yes,Yes,Yes,Software Engineering,Semester 4
+Student 108,STU0108,21,4,93,6,88,2.66,Yes,No,No,Yes,Engineering,Semester 3
+Student 1316,STU1316,18,4,59,0,47,2.65,Yes,No,No,No,Engineering,Semester 3
+Student 8188,STU8188,22,4,76,5,58,3.17,No,No,No,No,Business,Semester 4
+Student 2754,STU2754,20,4,85,2,53,3.52,Yes,Yes,No,No,Data Science,Semester 1
+Student 9754,STU9754,21,4,69,4,81,2.88,Yes,No,No,No,Business,Semester 4
+Student 6232,STU6232,20,4,82,0,31,2.16,No,Yes,No,No,Computer Science,Semester 3
+Student 2877,STU2877,18,4,92,3,88,2.17,Yes,No,Yes,No,Computer Science,Semester 2
+Student 5324,STU5324,21,4,69,4,73,3.7,No,No,No,No,Data Science,Semester 3
+Student 800,STU0800,21,4,73,4,92,3.03,No,Yes,No,No,Software Engineering,Semester 3
+Student 3571,STU3571,20,4,89,4,56,3.6,Yes,Yes,Yes,No,Business,Semester 4
+Student 2895,STU2895,22,4,72,7,52,3.11,Yes,No,No,Yes,Data Science,Semester 1
+Student 2928,STU2928,21,4,64,6,68,2.62,No,No,No,Yes,Software Engineering,Semester 2
+Student 8179,STU8179,22,4,69,4,20,3.18,Yes,No,Yes,No,Data Science,Semester 3
+Student 972,STU0972,19,4,78,1,66,3.12,No,No,No,Yes,Software Engineering,Semester 2
+Student 6688,STU6688,19,4,74,3,56,3.22,Yes,No,No,No,Business,Semester 4
+Student 8576,STU8576,21,4,91,2,28,3.04,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 2021,STU2021,21,4,65,0,37,2.78,No,No,No,Yes,Business,Semester 3
+Student 9055,STU9055,17,4,63,7,63,3.52,Yes,No,No,Yes,Data Science,Semester 3
+Student 953,STU0953,18,4,59,2,89,2.97,Yes,Yes,No,No,Software Engineering,Semester 4
+Student 5360,STU5360,20,4,65,6,82,3.11,Yes,Yes,Yes,Yes,Software Engineering,Semester 1
+Student 3858,STU3858,22,4,93,1,22,2.56,Yes,No,No,Yes,Data Science,Semester 3
+Student 5862,STU5862,23,4,81,4,37,2.51,Yes,No,Yes,Yes,Business,Semester 4
+Student 3146,STU3146,22,4,56,5,56,2.64,Yes,No,No,Yes,Business,Semester 4
+Student 3306,STU3306,23,4,74,7,39,2.51,Yes,No,No,No,Computer Science,Semester 3
+Student 3007,STU3007,22,4,75,0,55,2.03,No,No,Yes,Yes,Computer Science,Semester 2
+Student 9002,STU9002,23,4,84,3,23,2.72,Yes,Yes,Yes,Yes,Engineering,Semester 2
+Student 7771,STU7771,23,4,55,7,36,3.69,Yes,No,No,Yes,Business,Semester 1
+Student 7439,STU7439,17,4,89,0,76,2.81,Yes,No,No,No,Computer Science,Semester 2
+Student 7943,STU7943,17,4,80,6,68,2.43,No,No,No,No,Computer Science,Semester 1
+Student 9239,STU9239,19,4,86,7,72,3.32,Yes,No,No,No,Software Engineering,Semester 1
+Student 1057,STU1057,20,4,63,7,29,2.95,Yes,No,No,Yes,Computer Science,Semester 2
+Student 3155,STU3155,18,4,94,0,48,2.83,Yes,Yes,No,No,Software Engineering,Semester 2
+Student 3788,STU3788,19,4,75,2,28,2.46,Yes,Yes,No,Yes,Data Science,Semester 4
+Student 9190,STU9190,24,4,70,5,40,3.0,Yes,No,Yes,Yes,Software Engineering,Semester 3
+Student 7826,STU7826,23,4,66,4,20,3.02,No,No,No,Yes,Business,Semester 3
+Student 7540,STU7540,20,4,90,3,55,3.14,Yes,No,No,No,Business,Semester 1
+Student 7232,STU7232,24,4,91,0,25,3.03,Yes,No,No,No,Software Engineering,Semester 1
+Student 765,STU0765,23,4,81,1,37,2.94,Yes,No,No,No,Data Science,Semester 4
+Student 5020,STU5020,21,4,61,1,91,3.0,No,No,No,No,Software Engineering,Semester 4
+Student 4904,STU4904,20,4,84,7,30,2.95,Yes,Yes,Yes,No,Data Science,Semester 1
+Student 8094,STU8094,19,4,78,6,88,2.34,No,No,Yes,No,Engineering,Semester 3
+Student 6844,STU6844,19,4,84,5,40,3.88,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 2166,STU2166,18,4,74,4,28,3.27,No,No,No,No,Computer Science,Semester 3
+Student 1863,STU1863,22,4,94,6,21,3.06,Yes,No,No,No,Software Engineering,Semester 3
+Student 7851,STU7851,25,4,99,5,23,2.9,Yes,No,No,No,Computer Science,Semester 1
+Student 9124,STU9124,21,4,82,0,31,2.92,No,No,No,No,Business,Semester 3
+Student 2341,STU2341,22,4,58,4,58,3.13,Yes,No,No,No,Data Science,Semester 4
+Student 5528,STU5528,21,4,66,7,79,3.63,Yes,No,No,No,Computer Science,Semester 3
+Student 6744,STU6744,17,4,57,7,53,2.69,No,No,No,Yes,Computer Science,Semester 4
+Student 4004,STU4004,22,4,91,0,78,3.12,Yes,No,No,No,Software Engineering,Semester 2
+Student 1124,STU1124,18,4,58,3,91,2.27,Yes,No,No,Yes,Data Science,Semester 3
+Student 8710,STU8710,19,4,69,7,25,3.37,Yes,No,No,Yes,Software Engineering,Semester 3
+Student 4050,STU4050,21,4,82,1,51,3.15,Yes,Yes,Yes,No,Software Engineering,Semester 3
+Student 7641,STU7641,17,4,91,6,47,2.95,Yes,Yes,No,Yes,Business,Semester 1
+Student 766,STU0766,19,4,63,5,94,2.03,Yes,No,Yes,No,Computer Science,Semester 1
+Student 2345,STU2345,17,4,68,2,60,2.74,No,No,Yes,No,Software Engineering,Semester 2
+Student 4072,STU4072,19,4,86,5,91,2.58,Yes,Yes,Yes,No,Computer Science,Semester 2
+Student 7217,STU7217,19,4,57,4,46,2.59,Yes,Yes,No,Yes,Software Engineering,Semester 3
+Student 4217,STU4217,25,4,72,3,72,2.16,Yes,Yes,No,Yes,Engineering,Semester 3
+Student 7953,STU7953,20,4,68,1,30,2.84,Yes,Yes,No,Yes,Data Science,Semester 2
+Student 5971,STU5971,23,4,79,6,41,3.82,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 3351,STU3351,19,4,93,3,24,3.32,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 4696,STU4696,20,4,80,7,53,3.02,No,Yes,Yes,Yes,Computer Science,Semester 1
+Student 3400,STU3400,20,4,60,5,81,3.25,Yes,Yes,Yes,No,Software Engineering,Semester 2
+Student 4082,STU4082,19,4,80,7,50,3.99,Yes,No,Yes,No,Engineering,Semester 4
+Student 9150,STU9150,21,4,95,6,66,2.55,Yes,No,No,No,Data Science,Semester 1
+Student 1225,STU1225,20,4,55,5,56,2.65,Yes,No,Yes,No,Engineering,Semester 4
+Student 6293,STU6293,22,4,75,2,45,2.78,No,No,No,Yes,Business,Semester 1
+Student 3123,STU3123,22,4,68,0,62,2.36,Yes,Yes,Yes,Yes,Engineering,Semester 3
+Student 511,STU0511,21,4,62,0,80,3.14,Yes,Yes,Yes,Yes,Engineering,Semester 2
+Student 5795,STU5795,20,4,79,3,57,2.86,Yes,Yes,No,Yes,Business,Semester 1
+Student 8182,STU8182,21,4,72,3,51,3.28,Yes,Yes,No,Yes,Engineering,Semester 1
+Student 9418,STU9418,21,4,69,6,88,3.37,Yes,No,No,Yes,Computer Science,Semester 2
+Student 97,STU0097,21,4,96,4,81,3.59,Yes,No,No,No,Engineering,Semester 4
+Student 6682,STU6682,21,4,74,6,44,3.33,Yes,No,No,Yes,Engineering,Semester 1
+Student 1513,STU1513,19,4,70,3,52,2.83,No,No,Yes,No,Computer Science,Semester 1
+Student 8792,STU8792,20,4,61,6,83,2.77,Yes,No,No,Yes,Engineering,Semester 3
+Student 120,STU0120,22,4,83,7,90,2.55,Yes,No,No,Yes,Business,Semester 2
+Student 7792,STU7792,19,4,85,0,35,3.02,Yes,No,No,No,Business,Semester 4
+Student 6518,STU6518,21,4,83,5,68,3.16,Yes,No,No,Yes,Engineering,Semester 3
+Student 34,STU0034,18,4,71,6,34,2.33,No,No,No,No,Data Science,Semester 3
+Student 7888,STU7888,17,4,59,3,39,3.52,Yes,No,Yes,Yes,Computer Science,Semester 1
+Student 6831,STU6831,22,4,72,1,41,3.01,No,No,No,No,Data Science,Semester 4
+Student 5422,STU5422,18,4,68,1,29,2.83,Yes,No,No,No,Software Engineering,Semester 4
+Student 1069,STU1069,20,4,85,0,91,2.54,Yes,No,No,Yes,Data Science,Semester 2
+Student 1348,STU1348,23,4,72,3,74,3.63,Yes,Yes,No,Yes,Software Engineering,Semester 3
+Student 4748,STU4748,18,4,79,6,47,3.23,Yes,No,No,Yes,Data Science,Semester 1
+Student 6006,STU6006,22,4,65,5,28,3.39,No,Yes,No,No,Computer Science,Semester 2
+Student 6040,STU6040,22,4,80,3,50,2.95,No,No,No,No,Computer Science,Semester 3
+Student 3818,STU3818,20,4,59,3,93,3.73,Yes,No,No,No,Data Science,Semester 1
+Student 8447,STU8447,22,4,70,1,76,3.37,Yes,Yes,No,No,Data Science,Semester 2
+Student 5270,STU5270,22,4,62,0,50,3.6,Yes,Yes,No,No,Business,Semester 3
+Student 6898,STU6898,18,4,67,7,94,3.52,Yes,No,No,No,Data Science,Semester 2
+Student 5310,STU5310,18,4,86,4,62,2.72,No,Yes,No,No,Business,Semester 2
+Student 32,STU0032,25,4,81,5,93,3.09,Yes,No,Yes,Yes,Engineering,Semester 1
+Student 5675,STU5675,18,4,80,1,28,3.6,No,No,No,Yes,Business,Semester 2
+Student 4387,STU4387,19,4,63,0,61,3.22,No,No,No,Yes,Software Engineering,Semester 2
+Student 30,STU0030,20,4,61,0,93,2.56,Yes,No,Yes,Yes,Software Engineering,Semester 4
+Student 4203,STU4203,18,4,62,4,69,3.04,Yes,No,No,No,Software Engineering,Semester 4
+Student 7508,STU7508,19,4,56,2,56,3.37,Yes,No,Yes,Yes,Software Engineering,Semester 1
+Student 736,STU0736,22,4,72,4,90,2.34,No,Yes,No,No,Business,Semester 3
+Student 2068,STU2068,20,4,90,4,91,2.56,Yes,No,No,Yes,Engineering,Semester 4
+Student 107,STU0107,25,4,78,0,36,2.36,Yes,Yes,No,Yes,Computer Science,Semester 2
+Student 9645,STU9645,20,4,88,2,67,3.21,Yes,No,Yes,No,Business,Semester 1
+Student 8895,STU8895,18,4,96,7,21,3.7,Yes,Yes,No,No,Business,Semester 1
+Student 8021,STU8021,17,4,92,2,61,2.09,Yes,No,No,Yes,Business,Semester 1
+Student 2233,STU2233,17,4,65,3,82,3.09,No,Yes,Yes,No,Software Engineering,Semester 4
+Student 994,STU0994,19,4,64,4,30,2.71,Yes,No,Yes,No,Software Engineering,Semester 3
+Student 9413,STU9413,22,4,83,4,75,3.77,Yes,No,Yes,No,Computer Science,Semester 4
+Student 7059,STU7059,25,4,94,2,92,3.1,No,No,No,No,Software Engineering,Semester 2
+Student 6790,STU6790,22,4,60,2,64,3.38,Yes,No,No,No,Data Science,Semester 1
+Student 361,STU0361,22,4,64,5,64,3.63,Yes,No,No,No,Business,Semester 1
+Student 305,STU0305,21,4,84,6,48,3.08,Yes,Yes,No,No,Software Engineering,Semester 2
+Student 2628,STU2628,22,4,82,2,53,2.19,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 8966,STU8966,17,4,83,0,88,2.95,Yes,Yes,No,No,Business,Semester 4
+Student 4514,STU4514,18,4,79,0,39,3.09,Yes,Yes,Yes,Yes,Business,Semester 4
+Student 5911,STU5911,22,4,90,0,91,2.47,Yes,No,No,Yes,Engineering,Semester 4
+Student 8314,STU8314,19,4,81,6,89,2.15,Yes,Yes,No,Yes,Computer Science,Semester 1
+Student 3101,STU3101,19,4,88,5,37,2.38,Yes,Yes,No,Yes,Software Engineering,Semester 3
+Student 5704,STU5704,19,4,88,4,91,3.6,Yes,Yes,No,Yes,Computer Science,Semester 2
+Student 3899,STU3899,21,4,86,5,79,2.47,Yes,No,No,No,Engineering,Semester 3
+Student 5441,STU5441,19,4,98,5,74,4.0,Yes,No,No,No,Business,Semester 2
+Student 7931,STU7931,22,4,58,2,71,3.64,Yes,No,No,Yes,Business,Semester 2
+Student 622,STU0622,22,4,88,6,44,3.41,Yes,Yes,No,Yes,Engineering,Semester 4
+Student 7236,STU7236,23,4,70,0,85,2.3,Yes,No,No,Yes,Business,Semester 1
+Student 2499,STU2499,22,4,65,3,47,3.63,No,No,No,No,Data Science,Semester 3
+Student 714,STU0714,21,4,69,2,39,2.77,Yes,No,No,Yes,Data Science,Semester 1
+Student 8404,STU8404,20,4,92,5,89,2.18,Yes,No,No,No,Engineering,Semester 4
+Student 2856,STU2856,19,4,84,6,56,3.12,Yes,Yes,No,No,Engineering,Semester 3
+Student 4270,STU4270,23,4,81,2,35,3.2,No,Yes,Yes,Yes,Business,Semester 4
+Student 2909,STU2909,20,4,70,5,54,2.64,Yes,No,No,No,Business,Semester 2
+Student 8081,STU8081,19,4,55,6,74,2.73,Yes,Yes,Yes,No,Business,Semester 1
+Student 4517,STU4517,20,4,79,2,84,2.92,Yes,No,No,No,Computer Science,Semester 3
+Student 1262,STU1262,21,4,82,0,33,2.91,Yes,Yes,No,No,Software Engineering,Semester 4
+Student 3161,STU3161,19,4,97,1,43,3.34,Yes,No,No,Yes,Computer Science,Semester 3
+Student 971,STU0971,21,4,68,3,57,2.88,Yes,No,No,No,Engineering,Semester 4
+Student 3913,STU3913,23,4,88,3,28,3.74,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 5199,STU5199,19,4,58,7,78,3.14,Yes,Yes,No,No,Business,Semester 3
+Student 8847,STU8847,20,4,68,6,70,2.25,No,No,No,Yes,Data Science,Semester 4
+Student 260,STU0260,22,4,70,1,70,3.52,Yes,Yes,No,No,Engineering,Semester 4
+Student 3791,STU3791,22,4,69,3,38,2.62,Yes,Yes,Yes,Yes,Engineering,Semester 1
+Student 9203,STU9203,19,4,88,6,81,3.51,Yes,No,Yes,Yes,Business,Semester 2
+Student 488,STU0488,18,4,67,7,29,3.15,Yes,No,No,No,Business,Semester 1
+Student 7908,STU7908,20,4,71,0,57,2.63,Yes,No,No,Yes,Computer Science,Semester 4
+Student 519,STU0519,21,4,82,6,22,2.81,No,No,No,Yes,Software Engineering,Semester 4
+Student 8343,STU8343,26,4,64,7,67,3.21,Yes,No,No,No,Software Engineering,Semester 3
+Student 312,STU0312,23,4,71,2,60,3.12,Yes,Yes,Yes,No,Business,Semester 2
+Student 3232,STU3232,17,4,62,1,36,3.43,Yes,No,Yes,No,Computer Science,Semester 3
+Student 7933,STU7933,20,4,56,2,92,3.19,Yes,No,No,No,Software Engineering,Semester 1
+Student 7458,STU7458,22,4,55,5,88,3.0,Yes,No,No,Yes,Business,Semester 1
+Student 9784,STU9784,21,4,59,3,34,3.05,No,Yes,No,Yes,Engineering,Semester 3
+Student 5184,STU5184,21,4,89,4,75,2.92,No,No,No,No,Engineering,Semester 2
+Student 8077,STU8077,20,4,76,3,34,3.24,Yes,No,Yes,Yes,Engineering,Semester 2
+Student 6502,STU6502,18,4,97,3,24,3.19,Yes,No,No,Yes,Business,Semester 3
+Student 6791,STU6791,20,4,70,1,63,3.12,Yes,No,No,Yes,Data Science,Semester 1
+Student 7773,STU7773,20,4,63,7,22,4.0,Yes,Yes,No,No,Business,Semester 1
+Student 2738,STU2738,21,4,90,2,66,3.17,Yes,No,Yes,Yes,Business,Semester 4
+Student 7842,STU7842,20,4,63,1,49,3.55,Yes,Yes,No,No,Software Engineering,Semester 1
+Student 6262,STU6262,22,4,68,0,31,2.71,No,No,No,No,Data Science,Semester 2
+Student 8206,STU8206,20,4,64,2,34,3.0,Yes,Yes,No,Yes,Engineering,Semester 2
+Student 1248,STU1248,19,4,76,0,57,2.04,Yes,No,Yes,Yes,Software Engineering,Semester 2
+Student 9336,STU9336,20,4,70,7,47,3.04,Yes,No,No,No,Software Engineering,Semester 1
+Student 4195,STU4195,17,4,95,0,68,2.72,Yes,Yes,No,Yes,Software Engineering,Semester 1
+Student 8001,STU8001,20,4,57,7,66,2.68,Yes,No,No,Yes,Computer Science,Semester 4
+Student 7378,STU7378,22,4,82,6,94,3.1,Yes,No,No,No,Computer Science,Semester 2
+Student 3435,STU3435,26,4,84,6,31,2.82,Yes,No,No,No,Engineering,Semester 4
+Student 5382,STU5382,19,4,83,1,73,2.31,Yes,Yes,No,No,Data Science,Semester 4
+Student 959,STU0959,22,4,55,6,51,2.91,Yes,No,No,No,Engineering,Semester 3
+Student 417,STU0417,24,4,82,3,20,4.0,Yes,No,No,No,Engineering,Semester 1
+Student 5742,STU5742,18,4,76,5,35,3.19,Yes,No,No,No,Computer Science,Semester 1
+Student 6728,STU6728,20,4,86,7,30,3.13,Yes,Yes,No,No,Business,Semester 1
+Student 4382,STU4382,21,4,65,4,74,2.49,Yes,No,No,Yes,Engineering,Semester 2
+Student 5197,STU5197,23,4,80,5,55,2.44,Yes,No,Yes,No,Computer Science,Semester 4
+Student 1113,STU1113,22,4,85,3,49,2.58,Yes,Yes,No,No,Computer Science,Semester 4
+Student 2689,STU2689,22,4,74,3,87,3.13,Yes,No,Yes,Yes,Business,Semester 3
+Student 6473,STU6473,21,4,74,2,75,2.45,Yes,Yes,No,No,Business,Semester 3
+Student 8820,STU8820,21,4,87,1,79,3.64,Yes,Yes,No,No,Software Engineering,Semester 1
+Student 7808,STU7808,24,4,59,7,36,2.48,No,No,Yes,No,Engineering,Semester 4
+Student 3411,STU3411,19,4,95,2,52,3.36,Yes,Yes,Yes,No,Software Engineering,Semester 4
+Student 81,STU0081,20,4,57,4,49,3.12,No,No,No,No,Engineering,Semester 4
+Student 4614,STU4614,19,4,98,1,32,3.68,Yes,No,No,No,Business,Semester 4
+Student 1374,STU1374,17,4,88,5,31,2.51,Yes,No,Yes,Yes,Data Science,Semester 4
+Student 1510,STU1510,24,4,85,5,51,4.0,Yes,Yes,No,Yes,Software Engineering,Semester 4
+Student 6443,STU6443,18,4,96,5,53,3.09,Yes,Yes,No,No,Software Engineering,Semester 4
+Student 3071,STU3071,18,4,61,3,31,3.54,Yes,No,No,Yes,Computer Science,Semester 3
+Student 3016,STU3016,23,4,84,0,23,3.18,Yes,No,Yes,No,Software Engineering,Semester 2
+Student 4823,STU4823,19,4,72,6,45,2.52,Yes,Yes,No,No,Software Engineering,Semester 3
+Student 7822,STU7822,22,4,70,3,83,2.65,Yes,Yes,No,No,Engineering,Semester 2
+Student 93,STU0093,19,4,67,3,49,3.01,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 9421,STU9421,21,4,87,1,53,2.65,No,No,No,Yes,Software Engineering,Semester 1
+Student 6600,STU6600,24,4,61,3,52,3.07,Yes,No,No,No,Business,Semester 2
+Student 4443,STU4443,22,4,84,4,50,3.4,Yes,Yes,Yes,No,Data Science,Semester 1
+Student 7602,STU7602,19,4,65,7,75,3.58,Yes,No,Yes,No,Data Science,Semester 4
+Student 3835,STU3835,18,4,60,7,81,3.75,Yes,No,Yes,No,Business,Semester 1
+Student 9702,STU9702,22,4,75,6,50,2.98,Yes,No,No,Yes,Computer Science,Semester 2
+Student 4322,STU4322,20,4,86,3,43,2.81,No,Yes,No,Yes,Software Engineering,Semester 3
+Student 3394,STU3394,20,4,59,0,88,2.22,Yes,No,No,Yes,Engineering,Semester 1
+Student 4752,STU4752,20,4,96,1,70,2.0,Yes,Yes,No,No,Software Engineering,Semester 3
+Student 7229,STU7229,21,4,83,5,84,2.96,No,No,No,No,Software Engineering,Semester 2
+Student 9191,STU9191,18,4,89,4,28,3.56,No,No,No,No,Computer Science,Semester 3
+Student 2361,STU2361,18,4,66,5,27,3.05,Yes,No,No,No,Engineering,Semester 2
+Student 1148,STU1148,17,4,91,1,55,3.19,Yes,Yes,No,No,Engineering,Semester 1
+Student 5666,STU5666,17,4,98,7,88,2.54,Yes,No,No,No,Computer Science,Semester 2
+Student 8075,STU8075,17,4,76,0,75,2.8,Yes,Yes,No,Yes,Data Science,Semester 2
+Student 4943,STU4943,21,4,65,2,65,3.53,Yes,Yes,No,No,Data Science,Semester 2
+Student 3663,STU3663,21,4,77,7,29,3.2,Yes,No,No,No,Engineering,Semester 1
+Student 1563,STU1563,17,4,99,4,93,2.79,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 4113,STU4113,24,4,64,7,30,3.3,Yes,Yes,No,No,Business,Semester 4
+Student 9050,STU9050,23,4,96,0,27,3.05,Yes,Yes,Yes,No,Engineering,Semester 4
+Student 9276,STU9276,17,4,78,5,87,3.49,Yes,No,No,No,Engineering,Semester 4
+Student 8538,STU8538,24,4,70,2,37,3.22,No,No,No,No,Engineering,Semester 1
+Student 795,STU0795,18,4,66,7,22,2.85,Yes,Yes,No,No,Business,Semester 4
+Student 5854,STU5854,18,4,86,5,34,2.9,No,No,No,No,Computer Science,Semester 2
+Student 7619,STU7619,18,4,78,0,79,2.38,No,No,Yes,No,Software Engineering,Semester 2
+Student 1594,STU1594,23,4,58,7,91,2.27,Yes,Yes,No,No,Business,Semester 1
+Student 7418,STU7418,19,4,96,2,74,2.8,Yes,No,No,No,Business,Semester 3
+Student 5267,STU5267,23,4,87,2,89,3.61,Yes,Yes,No,No,Data Science,Semester 2
+Student 7147,STU7147,22,4,72,7,51,3.19,Yes,No,No,Yes,Computer Science,Semester 1
+Student 89,STU0089,19,4,71,1,25,2.87,No,No,No,No,Business,Semester 3
+Student 8695,STU8695,20,4,75,6,35,3.3,Yes,No,No,Yes,Business,Semester 4
+Student 9732,STU9732,23,4,55,3,85,3.5,Yes,No,No,No,Business,Semester 4
+Student 9446,STU9446,17,4,98,7,35,2.73,Yes,No,No,No,Business,Semester 1
+Student 6754,STU6754,21,4,79,3,33,2.73,Yes,No,Yes,No,Business,Semester 3
+Student 3502,STU3502,19,4,85,0,81,4.0,Yes,No,No,No,Business,Semester 3
+Student 2234,STU2234,23,4,97,2,37,2.6,No,Yes,No,Yes,Software Engineering,Semester 2
+Student 2803,STU2803,21,4,74,3,27,2.75,No,No,No,Yes,Computer Science,Semester 3
+Student 4424,STU4424,23,4,80,0,24,2.84,Yes,Yes,No,No,Business,Semester 2
+Student 5663,STU5663,21,4,73,0,60,2.55,Yes,No,No,Yes,Engineering,Semester 4
+Student 7170,STU7170,21,4,84,4,78,2.13,Yes,Yes,No,Yes,Data Science,Semester 4
+Student 8337,STU8337,18,4,79,1,28,3.04,No,No,No,No,Data Science,Semester 3
+Student 2148,STU2148,19,4,90,1,61,2.72,Yes,Yes,No,Yes,Data Science,Semester 4
+Student 7969,STU7969,20,4,72,7,37,3.2,Yes,No,No,No,Computer Science,Semester 2
+Student 6551,STU6551,21,4,58,5,65,2.62,Yes,Yes,No,No,Data Science,Semester 2
+Student 7643,STU7643,20,4,81,6,67,3.57,Yes,Yes,No,No,Data Science,Semester 3
+Student 6164,STU6164,17,4,87,2,47,2.98,Yes,No,No,No,Software Engineering,Semester 3
+Student 1495,STU1495,24,4,60,3,56,2.62,Yes,No,No,Yes,Engineering,Semester 1
+Student 7696,STU7696,24,4,61,7,93,2.69,Yes,No,Yes,Yes,Engineering,Semester 1
+Student 7094,STU7094,23,4,55,2,39,2.89,Yes,Yes,No,No,Computer Science,Semester 3
+Student 1409,STU1409,20,4,92,3,57,3.62,Yes,No,No,No,Computer Science,Semester 4
+Student 6691,STU6691,22,4,89,3,60,2.74,Yes,No,No,Yes,Data Science,Semester 4
+Student 3401,STU3401,22,4,77,3,81,2.28,Yes,No,No,Yes,Engineering,Semester 1
+Student 109,STU0109,21,4,70,5,39,3.78,Yes,Yes,No,No,Engineering,Semester 3
+Student 5636,STU5636,22,4,88,3,42,2.19,Yes,Yes,No,No,Software Engineering,Semester 2
+Student 8482,STU8482,20,4,88,3,69,4.0,Yes,No,No,Yes,Computer Science,Semester 4
+Student 6604,STU6604,21,4,85,4,24,2.17,Yes,No,No,Yes,Business,Semester 1
+Student 1091,STU1091,20,4,97,4,79,2.82,No,No,No,Yes,Software Engineering,Semester 3
+Student 5560,STU5560,22,4,85,3,92,2.8,Yes,No,No,No,Business,Semester 1
+Student 9412,STU9412,19,4,65,5,62,3.39,Yes,Yes,No,No,Business,Semester 4
+Student 8143,STU8143,17,4,62,0,55,3.31,Yes,No,No,No,Software Engineering,Semester 2
+Student 8664,STU8664,24,4,78,0,22,3.88,Yes,No,No,No,Business,Semester 1
+Student 6596,STU6596,23,4,77,7,80,2.32,Yes,Yes,Yes,Yes,Data Science,Semester 4
+Student 624,STU0624,24,4,86,1,73,2.22,Yes,No,No,Yes,Computer Science,Semester 4
+Student 6871,STU6871,21,4,69,3,55,3.47,Yes,No,No,No,Business,Semester 1
+Student 4814,STU4814,19,4,82,0,64,4.0,Yes,Yes,No,No,Business,Semester 2
+Student 6553,STU6553,21,4,74,1,48,3.55,Yes,Yes,Yes,No,Software Engineering,Semester 3
+Student 7530,STU7530,17,4,68,7,45,3.33,Yes,No,No,Yes,Data Science,Semester 3
+Student 5796,STU5796,20,4,80,6,27,3.53,Yes,Yes,No,No,Computer Science,Semester 2
+Student 7437,STU7437,19,4,91,0,92,2.39,Yes,No,No,No,Computer Science,Semester 1
+Student 4218,STU4218,19,4,56,7,41,2.9,Yes,Yes,Yes,Yes,Business,Semester 3
+Student 5941,STU5941,18,4,88,1,88,3.01,Yes,No,No,No,Engineering,Semester 4
+Student 8501,STU8501,26,4,88,2,63,2.95,Yes,No,No,No,Data Science,Semester 2
+Student 6429,STU6429,24,4,88,7,60,3.24,Yes,No,Yes,Yes,Software Engineering,Semester 2
+Student 6827,STU6827,17,4,63,7,55,2.99,Yes,No,Yes,No,Software Engineering,Semester 4
+Student 4131,STU4131,20,4,98,0,49,2.8,Yes,Yes,No,No,Business,Semester 3
+Student 7802,STU7802,19,4,57,3,68,2.48,Yes,No,No,Yes,Data Science,Semester 1
+Student 7754,STU7754,19,4,84,6,36,2.94,Yes,No,No,No,Computer Science,Semester 2
+Student 4722,STU4722,22,4,73,3,49,2.42,Yes,Yes,Yes,Yes,Business,Semester 1
+Student 1651,STU1651,22,4,85,4,92,2.96,Yes,No,Yes,No,Business,Semester 4
+Student 4141,STU4141,22,4,70,2,23,3.15,Yes,Yes,No,Yes,Engineering,Semester 2
+Student 1618,STU1618,19,4,97,2,54,2.7,Yes,Yes,Yes,Yes,Business,Semester 4
+Student 2030,STU2030,19,4,78,0,36,3.34,Yes,Yes,No,No,Computer Science,Semester 2
+Student 8518,STU8518,23,4,69,1,26,3.46,No,No,No,Yes,Data Science,Semester 1
+Student 4576,STU4576,20,4,76,6,81,2.77,Yes,Yes,No,No,Data Science,Semester 1
+Student 3993,STU3993,17,4,86,5,77,2.83,Yes,Yes,Yes,No,Computer Science,Semester 3
+Student 7377,STU7377,22,4,65,6,63,3.33,Yes,No,Yes,Yes,Data Science,Semester 1
+Student 6150,STU6150,21,4,83,6,77,2.55,No,No,No,Yes,Business,Semester 2
+Student 4909,STU4909,21,4,96,4,72,2.5,Yes,Yes,No,No,Data Science,Semester 1
+Student 5027,STU5027,18,4,78,7,91,2.84,Yes,Yes,No,Yes,Computer Science,Semester 1
+Student 8261,STU8261,19,4,73,2,28,2.99,Yes,No,No,Yes,Engineering,Semester 4
+Student 4732,STU4732,20,4,59,7,25,2.75,Yes,Yes,Yes,Yes,Business,Semester 1
+Student 7549,STU7549,22,4,95,2,38,3.26,Yes,No,No,No,Computer Science,Semester 1
+Student 8135,STU8135,17,4,92,5,39,2.39,Yes,No,No,No,Business,Semester 4
+Student 1607,STU1607,21,4,55,3,83,3.2,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 4774,STU4774,21,4,84,5,46,2.76,Yes,No,Yes,Yes,Business,Semester 4
+Student 8110,STU8110,21,4,66,3,26,3.72,Yes,Yes,Yes,Yes,Engineering,Semester 2
+Student 6952,STU6952,23,4,58,7,43,3.41,Yes,Yes,No,No,Engineering,Semester 4
+Student 6005,STU6005,20,4,69,1,27,3.06,Yes,No,No,No,Engineering,Semester 1
+Student 7729,STU7729,21,4,71,0,86,2.98,No,No,Yes,No,Data Science,Semester 2
+Student 3542,STU3542,24,4,66,1,30,2.77,Yes,No,No,Yes,Business,Semester 1
+Student 389,STU0389,23,4,55,0,85,2.0,Yes,No,No,Yes,Software Engineering,Semester 1
+Student 1795,STU1795,21,4,67,4,20,3.05,Yes,No,No,Yes,Computer Science,Semester 2
+Student 8732,STU8732,20,4,84,7,26,3.51,Yes,No,Yes,No,Software Engineering,Semester 4
+Student 4920,STU4920,23,4,64,5,43,2.58,Yes,No,No,No,Engineering,Semester 1
+Student 5538,STU5538,20,4,90,2,31,2.63,No,No,No,Yes,Engineering,Semester 2
+Student 3873,STU3873,18,4,60,6,82,3.05,Yes,No,No,No,Computer Science,Semester 3
+Student 8869,STU8869,21,4,63,1,91,2.43,Yes,Yes,No,No,Data Science,Semester 3
+Student 2255,STU2255,18,4,56,6,32,2.67,No,No,Yes,Yes,Computer Science,Semester 1
+Student 3413,STU3413,25,4,60,0,89,2.8,Yes,Yes,No,Yes,Data Science,Semester 2
+Student 5460,STU5460,20,4,65,5,43,3.06,No,No,No,Yes,Software Engineering,Semester 1
+Student 4956,STU4956,17,4,80,4,57,3.93,Yes,No,No,No,Business,Semester 4
+Student 7397,STU7397,24,4,82,7,90,2.98,Yes,No,Yes,No,Data Science,Semester 3
+Student 5415,STU5415,19,4,67,1,29,3.17,Yes,No,No,Yes,Business,Semester 2
+Student 7400,STU7400,24,4,92,6,49,2.97,Yes,No,No,No,Computer Science,Semester 1
+Student 7415,STU7415,26,4,66,2,46,3.13,Yes,Yes,No,No,Computer Science,Semester 2
+Student 9101,STU9101,20,4,73,4,49,3.07,Yes,No,No,Yes,Computer Science,Semester 2
+Student 4852,STU4852,26,4,72,3,21,3.44,Yes,No,No,No,Computer Science,Semester 4
+Student 2026,STU2026,21,4,73,2,27,3.76,Yes,Yes,Yes,No,Software Engineering,Semester 2
+Student 2616,STU2616,22,4,82,6,36,2.93,Yes,No,Yes,No,Computer Science,Semester 2
+Student 7389,STU7389,22,4,66,3,67,2.84,Yes,No,No,Yes,Business,Semester 3
+Student 2927,STU2927,20,4,86,4,83,4.0,Yes,No,Yes,No,Engineering,Semester 4
+Student 1122,STU1122,23,4,67,4,80,3.77,No,Yes,Yes,No,Business,Semester 3
+Student 2911,STU2911,19,4,77,3,32,3.16,Yes,No,No,No,Software Engineering,Semester 3
+Student 8147,STU8147,22,4,90,7,40,3.57,Yes,No,No,No,Engineering,Semester 4
+Student 7384,STU7384,19,4,84,0,21,3.73,Yes,No,Yes,No,Computer Science,Semester 4
+Student 3483,STU3483,20,4,76,5,42,2.9,Yes,No,No,Yes,Engineering,Semester 2
+Student 796,STU0796,23,4,92,4,35,3.44,No,Yes,No,No,Engineering,Semester 1
+Student 1576,STU1576,20,4,99,1,32,3.08,Yes,Yes,No,No,Computer Science,Semester 4
+Student 6177,STU6177,20,4,96,5,23,3.09,Yes,No,No,Yes,Engineering,Semester 1
+Student 6267,STU6267,21,4,57,1,21,3.37,No,No,Yes,Yes,Data Science,Semester 4
+Student 2459,STU2459,22,4,63,4,84,3.8,Yes,No,No,No,Software Engineering,Semester 1
+Student 3313,STU3313,25,4,69,7,45,3.25,Yes,Yes,Yes,No,Computer Science,Semester 1
+Student 1254,STU1254,21,4,84,5,49,3.43,Yes,No,No,No,Computer Science,Semester 3
+Student 6835,STU6835,21,4,80,3,57,3.42,No,No,No,No,Computer Science,Semester 2
+Student 8795,STU8795,18,4,84,3,39,3.61,Yes,Yes,No,No,Data Science,Semester 2
+Student 3838,STU3838,21,4,59,2,44,3.28,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 4399,STU4399,23,4,85,3,71,3.12,Yes,No,Yes,Yes,Software Engineering,Semester 2
+Student 3596,STU3596,23,4,76,0,29,2.86,Yes,No,No,No,Computer Science,Semester 3
+Student 6622,STU6622,21,4,95,0,60,3.31,Yes,No,Yes,No,Computer Science,Semester 1
+Student 8383,STU8383,21,4,69,1,80,2.85,Yes,No,No,Yes,Data Science,Semester 1
+Student 2125,STU2125,21,4,99,4,21,3.06,No,Yes,No,No,Engineering,Semester 3
+Student 3239,STU3239,21,4,89,1,26,2.56,Yes,No,No,No,Business,Semester 4
+Student 5404,STU5404,21,4,73,4,79,3.97,Yes,Yes,No,Yes,Data Science,Semester 2
+Student 5999,STU5999,22,4,88,1,80,2.53,Yes,No,No,Yes,Software Engineering,Semester 1
+Student 5939,STU5939,23,4,72,4,46,3.27,Yes,Yes,No,No,Engineering,Semester 4
+Student 2046,STU2046,23,4,68,4,20,2.67,Yes,Yes,Yes,No,Software Engineering,Semester 3
+Student 1579,STU1579,19,4,76,1,46,2.4,Yes,No,No,No,Business,Semester 3
+Student 15,STU0015,17,4,78,7,79,3.24,Yes,No,No,Yes,Software Engineering,Semester 1
+Student 2674,STU2674,19,4,67,2,72,3.7,Yes,Yes,No,Yes,Business,Semester 2
+Student 7017,STU7017,20,4,62,0,55,2.68,Yes,Yes,No,No,Business,Semester 4
+Student 8721,STU8721,20,4,96,3,43,3.29,Yes,No,Yes,No,Engineering,Semester 2
+Student 8850,STU8850,22,4,56,6,54,3.83,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 4813,STU4813,22,4,96,6,52,4.0,Yes,No,No,Yes,Computer Science,Semester 1
+Student 1085,STU1085,21,4,81,0,36,2.9,No,No,No,Yes,Engineering,Semester 2
+Student 4984,STU4984,20,4,88,3,88,3.01,Yes,No,No,Yes,Computer Science,Semester 2
+Student 7156,STU7156,17,4,83,4,54,3.08,Yes,Yes,No,No,Engineering,Semester 3
+Student 2885,STU2885,17,4,80,5,66,3.36,Yes,Yes,No,No,Computer Science,Semester 2
+Student 334,STU0334,19,4,77,1,78,2.95,Yes,No,No,No,Engineering,Semester 1
+Student 7205,STU7205,17,4,90,6,80,3.32,No,Yes,Yes,Yes,Business,Semester 2
+Student 4368,STU4368,21,4,63,1,41,3.0,Yes,No,No,Yes,Business,Semester 2
+Student 3080,STU3080,20,4,75,3,46,2.69,No,No,No,No,Data Science,Semester 3
+Student 7204,STU7204,19,4,96,1,91,3.23,Yes,No,No,Yes,Data Science,Semester 3
+Student 9910,STU9910,24,4,90,1,34,2.77,Yes,No,Yes,Yes,Engineering,Semester 1
+Student 8865,STU8865,22,4,57,7,55,2.58,Yes,No,No,No,Data Science,Semester 4
+Student 264,STU0264,18,4,61,7,76,3.03,Yes,No,No,No,Engineering,Semester 2
+Student 4338,STU4338,22,4,77,1,60,2.66,No,No,No,No,Engineering,Semester 4
+Student 8896,STU8896,25,4,86,7,64,2.87,Yes,No,No,No,Engineering,Semester 2
+Student 8448,STU8448,25,4,77,0,62,3.47,No,No,No,No,Computer Science,Semester 1
+Student 5904,STU5904,23,4,70,1,31,2.76,Yes,Yes,Yes,Yes,Engineering,Semester 1
+Student 1499,STU1499,23,4,59,2,87,2.49,Yes,Yes,Yes,No,Engineering,Semester 3
+Student 4191,STU4191,21,4,67,7,86,3.29,Yes,No,No,No,Engineering,Semester 2
+Student 7486,STU7486,19,4,64,3,23,3.52,Yes,Yes,No,No,Engineering,Semester 4
+Student 9644,STU9644,21,4,56,0,84,2.83,Yes,No,No,Yes,Engineering,Semester 1
+Student 8311,STU8311,19,4,70,0,24,3.64,Yes,No,Yes,Yes,Business,Semester 4
+Student 7591,STU7591,19,4,55,6,21,3.29,Yes,Yes,No,No,Business,Semester 4
+Student 501,STU0501,23,4,60,4,65,3.68,Yes,Yes,No,No,Data Science,Semester 4
+Student 9156,STU9156,20,4,73,4,94,2.6,Yes,Yes,No,No,Software Engineering,Semester 4
+Student 9415,STU9415,18,4,87,6,28,2.22,Yes,No,No,Yes,Software Engineering,Semester 2
+Student 3096,STU3096,23,4,82,1,27,3.26,Yes,No,Yes,No,Data Science,Semester 3
+Student 4632,STU4632,19,4,59,0,77,3.02,Yes,No,No,No,Engineering,Semester 2
+Student 368,STU0368,21,4,66,5,82,3.13,No,No,No,No,Engineering,Semester 3
+Student 4059,STU4059,23,4,84,6,80,3.22,No,No,No,No,Software Engineering,Semester 2
+Student 8175,STU8175,20,4,71,0,34,3.72,Yes,No,Yes,No,Software Engineering,Semester 1
+Student 4631,STU4631,17,4,73,7,92,2.73,Yes,No,No,Yes,Computer Science,Semester 4
+Student 6071,STU6071,22,4,94,1,61,3.79,No,Yes,No,No,Data Science,Semester 2
+Student 2665,STU2665,22,4,96,6,69,2.79,Yes,No,No,No,Software Engineering,Semester 1
+Student 1027,STU1027,21,4,79,3,70,3.24,No,Yes,No,Yes,Data Science,Semester 1
+Student 5909,STU5909,24,4,89,0,44,3.2,Yes,Yes,No,No,Engineering,Semester 4
+Student 5051,STU5051,22,4,63,4,41,2.67,Yes,No,No,No,Software Engineering,Semester 3
+Student 6329,STU6329,24,4,86,1,41,3.22,Yes,No,Yes,No,Engineering,Semester 2
+Student 9734,STU9734,18,4,93,0,93,2.57,Yes,No,Yes,No,Data Science,Semester 1
+Student 1692,STU1692,20,4,92,7,88,2.14,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 674,STU0674,20,4,69,5,88,3.45,Yes,Yes,Yes,Yes,Data Science,Semester 4
+Student 5573,STU5573,20,4,99,5,85,3.48,Yes,No,Yes,Yes,Data Science,Semester 4
+Student 5767,STU5767,22,4,91,4,83,2.37,Yes,No,Yes,No,Engineering,Semester 2
+Student 5157,STU5157,21,4,80,2,41,2.89,Yes,Yes,No,No,Data Science,Semester 3
+Student 734,STU0734,17,4,85,7,32,2.51,Yes,No,No,No,Computer Science,Semester 2
+Student 3527,STU3527,20,4,84,0,46,3.29,No,No,No,No,Data Science,Semester 3
+Student 569,STU0569,17,4,56,6,66,3.51,No,No,No,No,Business,Semester 2
+Student 9188,STU9188,21,4,61,5,40,2.61,Yes,No,No,No,Data Science,Semester 4
+Student 2923,STU2923,20,4,84,1,50,2.02,Yes,No,Yes,No,Engineering,Semester 3
+Student 7912,STU7912,22,4,87,4,57,3.23,Yes,Yes,No,Yes,Business,Semester 3
+Student 1559,STU1559,24,4,93,7,58,3.27,Yes,Yes,No,Yes,Business,Semester 2
+Student 102,STU0102,20,4,92,0,55,2.61,Yes,No,Yes,Yes,Software Engineering,Semester 1
+Student 3008,STU3008,17,4,74,4,84,2.78,Yes,No,No,No,Data Science,Semester 4
+Student 7202,STU7202,21,4,73,1,30,2.65,Yes,No,Yes,Yes,Computer Science,Semester 4
+Student 304,STU0304,22,4,63,7,88,3.01,Yes,No,Yes,Yes,Engineering,Semester 1
+Student 77,STU0077,21,4,76,0,53,3.38,Yes,Yes,Yes,No,Data Science,Semester 4
+Student 6755,STU6755,17,4,86,6,24,3.19,Yes,No,No,Yes,Data Science,Semester 4
+Student 8630,STU8630,19,4,84,6,39,3.25,Yes,No,Yes,No,Computer Science,Semester 1
+Student 1209,STU1209,17,4,60,7,82,2.43,Yes,Yes,Yes,Yes,Computer Science,Semester 1
+Student 7743,STU7743,19,4,71,5,64,2.75,Yes,No,No,No,Engineering,Semester 2
+Student 8215,STU8215,19,4,91,1,61,3.53,Yes,No,Yes,Yes,Data Science,Semester 2
+Student 8945,STU8945,18,4,69,3,32,2.46,Yes,No,No,No,Computer Science,Semester 3
+Student 8414,STU8414,21,4,61,0,28,2.63,Yes,No,No,No,Software Engineering,Semester 4
+Student 1776,STU1776,18,4,68,0,24,3.29,Yes,Yes,No,No,Engineering,Semester 2
+Student 3474,STU3474,18,4,74,6,57,2.18,Yes,Yes,No,Yes,Engineering,Semester 4
+Student 484,STU0484,21,4,84,6,68,2.55,Yes,Yes,No,No,Data Science,Semester 3
+Student 2190,STU2190,22,4,72,7,47,3.36,Yes,No,No,No,Data Science,Semester 1
+Student 347,STU0347,17,4,76,5,62,2.31,Yes,No,No,Yes,Business,Semester 3
+Student 5482,STU5482,22,4,79,7,89,2.66,Yes,Yes,Yes,Yes,Engineering,Semester 3
+Student 8362,STU8362,21,4,78,4,60,3.27,Yes,No,No,Yes,Software Engineering,Semester 4
+Student 1473,STU1473,20,4,85,0,63,2.5,No,No,No,No,Business,Semester 1
+Student 5101,STU5101,23,4,72,3,48,3.39,Yes,No,Yes,No,Computer Science,Semester 1
+Student 6766,STU6766,21,4,88,4,87,3.12,No,Yes,Yes,Yes,Data Science,Semester 3
+Student 8707,STU8707,21,4,72,4,44,2.88,Yes,Yes,Yes,No,Business,Semester 2
+Student 4930,STU4930,20,4,68,2,87,2.15,No,No,Yes,No,Business,Semester 4
+Student 6330,STU6330,21,4,58,0,33,3.01,Yes,No,Yes,No,Business,Semester 1
+Student 2610,STU2610,23,4,61,2,78,2.29,Yes,No,Yes,No,Data Science,Semester 4
+Student 4,STU0004,24,4,61,5,81,2.23,Yes,No,No,Yes,Engineering,Semester 1
+Student 2214,STU2214,20,4,55,3,36,3.18,No,No,No,No,Business,Semester 1
+Student 4828,STU4828,22,4,94,0,38,3.12,Yes,No,Yes,No,Computer Science,Semester 4
+Student 857,STU0857,19,4,78,2,48,2.1,Yes,No,No,No,Business,Semester 4
+Student 6978,STU6978,23,4,86,2,85,2.88,Yes,No,No,Yes,Software Engineering,Semester 1
+Student 5886,STU5886,24,4,64,7,64,3.21,Yes,Yes,No,No,Software Engineering,Semester 2
+Student 625,STU0625,24,4,63,6,90,3.12,Yes,No,No,No,Data Science,Semester 1
+Student 291,STU0291,20,4,93,4,47,3.09,Yes,No,No,Yes,Computer Science,Semester 3
+Student 2019,STU2019,22,4,57,2,78,2.88,Yes,Yes,No,No,Computer Science,Semester 3
+Student 669,STU0669,17,4,98,2,73,3.48,Yes,No,No,Yes,Computer Science,Semester 3
+Student 8922,STU8922,21,4,89,5,27,3.08,Yes,Yes,No,Yes,Engineering,Semester 3
+Student 8265,STU8265,17,4,59,0,29,3.51,Yes,No,No,No,Engineering,Semester 1
+Student 9697,STU9697,21,4,61,7,40,3.02,Yes,No,No,Yes,Business,Semester 1
+Student 1632,STU1632,19,4,66,6,54,2.49,Yes,No,No,No,Business,Semester 4
+Student 5171,STU5171,21,4,77,6,23,3.08,Yes,Yes,No,Yes,Data Science,Semester 1
+Student 7206,STU7206,21,4,79,0,72,2.4,Yes,No,No,No,Data Science,Semester 4
+Student 2523,STU2523,21,4,71,4,44,3.19,Yes,No,Yes,No,Software Engineering,Semester 2
+Student 2216,STU2216,21,4,68,6,39,3.86,Yes,No,No,No,Computer Science,Semester 2
+Student 6969,STU6969,20,4,89,0,90,3.03,Yes,No,Yes,No,Software Engineering,Semester 3

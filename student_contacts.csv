@@ -1,0 +1,1220 @@
+student_id,student_name,student_email,department,programme,phone_number,status,created_at
+367364,Student 400,367364@student.aura-student-risk.com,Business,Business,+60121000000,active,2026-06-11 19:14:24
+398902,Student 399,398902@student.aura-student-risk.com,Engineering,Engineering,+60121000001,active,2026-06-11 19:14:24
+314263,Student 398,314263@student.aura-student-risk.com,Engineering,Engineering,+60121000002,active,2026-06-11 19:14:24
+334278,Student 397,334278@student.aura-student-risk.com,CS,Computer Science,+60121000003,active,2026-06-11 19:14:24
+342320,Student 396,342320@student.aura-student-risk.com,CS,Computer Science,+60121000004,active,2026-06-11 19:14:24
+361119,Student 395,361119@student.aura-student-risk.com,CS,Computer Science,+60121000005,active,2026-06-11 19:14:24
+334977,Student 394,334977@student.aura-student-risk.com,Business,Business,+60121000006,active,2026-06-11 19:14:24
+393533,Student 393,393533@student.aura-student-risk.com,Engineering,Engineering,+60121000007,active,2026-06-11 19:14:24
+379155,Student 392,379155@student.aura-student-risk.com,Engineering,Engineering,+60121000008,active,2026-06-11 19:14:24
+374571,Student 391,374571@student.aura-student-risk.com,Engineering,Engineering,+60121000009,active,2026-06-11 19:14:24
+313276,Student 390,313276@student.aura-student-risk.com,CS,Computer Science,+60121000010,active,2026-06-11 19:14:24
+362192,Student 389,362192@student.aura-student-risk.com,Engineering,Engineering,+60121000011,active,2026-06-11 19:14:24
+394872,Student 388,394872@student.aura-student-risk.com,CS,Computer Science,+60121000012,active,2026-06-11 19:14:24
+362200,Student 387,362200@student.aura-student-risk.com,CS,Computer Science,+60121000013,active,2026-06-11 19:14:24
+390390,Student 386,390390@student.aura-student-risk.com,Business,Business,+60121000014,active,2026-06-11 19:14:24
+345865,Student 385,345865@student.aura-student-risk.com,CS,Computer Science,+60121000015,active,2026-06-11 19:14:24
+359591,Student 384,359591@student.aura-student-risk.com,Business,Business,+60121000016,active,2026-06-11 19:14:24
+381139,Student 383,381139@student.aura-student-risk.com,CS,Computer Science,+60121000017,active,2026-06-11 19:14:24
+344520,Student 382,344520@student.aura-student-risk.com,Business,Business,+60121000018,active,2026-06-11 19:14:24
+322412,Student 381,322412@student.aura-student-risk.com,CS,Computer Science,+60121000019,active,2026-06-11 19:14:24
+315657,Student 380,315657@student.aura-student-risk.com,CS,Computer Science,+60121000020,active,2026-06-11 19:14:24
+390007,Student 379,390007@student.aura-student-risk.com,CS,Computer Science,+60121000021,active,2026-06-11 19:14:24
+359427,Student 378,359427@student.aura-student-risk.com,Engineering,Engineering,+60121000022,active,2026-06-11 19:14:24
+324517,Student 377,324517@student.aura-student-risk.com,CS,Computer Science,+60121000023,active,2026-06-11 19:14:24
+353379,Student 376,353379@student.aura-student-risk.com,CS,Computer Science,+60121000024,active,2026-06-11 19:14:24
+362635,Student 375,362635@student.aura-student-risk.com,CS,Computer Science,+60121000025,active,2026-06-11 19:14:24
+352915,Student 374,352915@student.aura-student-risk.com,Engineering,Engineering,+60121000026,active,2026-06-11 19:14:24
+314252,Student 373,314252@student.aura-student-risk.com,Business,Business,+60121000027,active,2026-06-11 19:14:24
+331638,Student 372,331638@student.aura-student-risk.com,CS,Computer Science,+60121000028,active,2026-06-11 19:14:24
+342049,Student 371,342049@student.aura-student-risk.com,Business,Business,+60121000029,active,2026-06-11 19:14:24
+315210,Student 370,315210@student.aura-student-risk.com,CS,Computer Science,+60121000030,active,2026-06-11 19:14:24
+359325,Student 369,359325@student.aura-student-risk.com,Engineering,Engineering,+60121000031,active,2026-06-11 19:14:24
+313996,Student 368,313996@student.aura-student-risk.com,CS,Computer Science,+60121000032,active,2026-06-11 19:14:24
+358866,Student 367,358866@student.aura-student-risk.com,Engineering,Engineering,+60121000033,active,2026-06-11 19:14:24
+376434,Student 366,376434@student.aura-student-risk.com,CS,Computer Science,+60121000034,active,2026-06-11 19:14:24
+381438,Student 365,381438@student.aura-student-risk.com,CS,Computer Science,+60121000035,active,2026-06-11 19:14:24
+334625,Student 364,334625@student.aura-student-risk.com,CS,Computer Science,+60121000036,active,2026-06-11 19:14:24
+312307,Student 363,312307@student.aura-student-risk.com,Engineering,Engineering,+60121000037,active,2026-06-11 19:14:24
+387311,Student 362,387311@student.aura-student-risk.com,CS,Computer Science,+60121000038,active,2026-06-11 19:14:24
+363731,Student 361,363731@student.aura-student-risk.com,Business,Business,+60121000039,active,2026-06-11 19:14:24
+325165,Student 360,325165@student.aura-student-risk.com,CS,Computer Science,+60121000040,active,2026-06-11 19:14:24
+313987,Student 359,313987@student.aura-student-risk.com,CS,Computer Science,+60121000041,active,2026-06-11 19:14:24
+395420,Student 358,395420@student.aura-student-risk.com,Engineering,Engineering,+60121000042,active,2026-06-11 19:14:24
+358469,Student 357,358469@student.aura-student-risk.com,Business,Business,+60121000043,active,2026-06-11 19:14:24
+381249,Student 356,381249@student.aura-student-risk.com,Business,Business,+60121000044,active,2026-06-11 19:14:24
+353636,Student 355,353636@student.aura-student-risk.com,Business,Business,+60121000045,active,2026-06-11 19:14:24
+373486,Student 354,373486@student.aura-student-risk.com,CS,Computer Science,+60121000046,active,2026-06-11 19:14:24
+354176,Student 353,354176@student.aura-student-risk.com,Engineering,Engineering,+60121000047,active,2026-06-11 19:14:24
+320818,Student 352,320818@student.aura-student-risk.com,Business,Business,+60121000048,active,2026-06-11 19:14:24
+370438,Student 351,370438@student.aura-student-risk.com,CS,Computer Science,+60121000049,active,2026-06-11 19:14:24
+329041,Student 350,329041@student.aura-student-risk.com,CS,Computer Science,+60121000050,active,2026-06-11 19:14:24
+384016,Student 349,384016@student.aura-student-risk.com,Engineering,Engineering,+60121000051,active,2026-06-11 19:14:24
+382885,Student 348,382885@student.aura-student-risk.com,Business,Business,+60121000052,active,2026-06-11 19:14:24
+325817,Student 347,325817@student.aura-student-risk.com,CS,Computer Science,+60121000053,active,2026-06-11 19:14:24
+329510,Student 346,329510@student.aura-student-risk.com,CS,Computer Science,+60121000054,active,2026-06-11 19:14:24
+390915,Student 345,390915@student.aura-student-risk.com,CS,Computer Science,+60121000055,active,2026-06-11 19:14:24
+321790,Student 344,321790@student.aura-student-risk.com,CS,Computer Science,+60121000056,active,2026-06-11 19:14:24
+320914,Student 343,320914@student.aura-student-risk.com,CS,Computer Science,+60121000057,active,2026-06-11 19:14:24
+332928,Student 342,332928@student.aura-student-risk.com,CS,Computer Science,+60121000058,active,2026-06-11 19:14:24
+329923,Student 341,329923@student.aura-student-risk.com,Business,Business,+60121000059,active,2026-06-11 19:14:24
+349316,Student 340,349316@student.aura-student-risk.com,CS,Computer Science,+60121000060,active,2026-06-11 19:14:24
+393850,Student 339,393850@student.aura-student-risk.com,Engineering,Engineering,+60121000061,active,2026-06-11 19:14:24
+346823,Student 338,346823@student.aura-student-risk.com,CS,Computer Science,+60121000062,active,2026-06-11 19:14:24
+332477,Student 337,332477@student.aura-student-risk.com,CS,Computer Science,+60121000063,active,2026-06-11 19:14:24
+361198,Student 336,361198@student.aura-student-risk.com,CS,Computer Science,+60121000064,active,2026-06-11 19:14:24
+342719,Student 335,342719@student.aura-student-risk.com,CS,Computer Science,+60121000065,active,2026-06-11 19:14:24
+376436,Student 334,376436@student.aura-student-risk.com,CS,Computer Science,+60121000066,active,2026-06-11 19:14:24
+329417,Student 333,329417@student.aura-student-risk.com,Engineering,Engineering,+60121000067,active,2026-06-11 19:14:24
+343189,Student 332,343189@student.aura-student-risk.com,CS,Computer Science,+60121000068,active,2026-06-11 19:14:24
+337651,Student 331,337651@student.aura-student-risk.com,CS,Computer Science,+60121000069,active,2026-06-11 19:14:24
+398555,Student 330,398555@student.aura-student-risk.com,Business,Business,+60121000070,active,2026-06-11 19:14:24
+392059,Student 329,392059@student.aura-student-risk.com,CS,Computer Science,+60121000071,active,2026-06-11 19:14:24
+377362,Student 328,377362@student.aura-student-risk.com,CS,Computer Science,+60121000072,active,2026-06-11 19:14:24
+334319,Student 327,334319@student.aura-student-risk.com,Business,Business,+60121000073,active,2026-06-11 19:14:24
+376499,Student 326,376499@student.aura-student-risk.com,CS,Computer Science,+60121000074,active,2026-06-11 19:14:24
+341913,Student 325,341913@student.aura-student-risk.com,CS,Computer Science,+60121000075,active,2026-06-11 19:14:24
+389507,Student 324,389507@student.aura-student-risk.com,Business,Business,+60121000076,active,2026-06-11 19:14:24
+352375,Student 323,352375@student.aura-student-risk.com,CS,Computer Science,+60121000077,active,2026-06-11 19:14:24
+339469,Student 322,339469@student.aura-student-risk.com,CS,Computer Science,+60121000078,active,2026-06-11 19:14:24
+377256,Student 321,377256@student.aura-student-risk.com,Business,Business,+60121000079,active,2026-06-11 19:14:24
+360195,Student 320,360195@student.aura-student-risk.com,CS,Computer Science,+60121000080,active,2026-06-11 19:14:24
+353854,Student 319,353854@student.aura-student-risk.com,CS,Computer Science,+60121000081,active,2026-06-11 19:14:24
+354861,Student 318,354861@student.aura-student-risk.com,CS,Computer Science,+60121000082,active,2026-06-11 19:14:24
+317197,Student 317,317197@student.aura-student-risk.com,Business,Business,+60121000083,active,2026-06-11 19:14:24
+391671,Student 316,391671@student.aura-student-risk.com,Business,Business,+60121000084,active,2026-06-11 19:14:24
+315694,Student 315,315694@student.aura-student-risk.com,CS,Computer Science,+60121000085,active,2026-06-11 19:14:24
+311810,Student 314,311810@student.aura-student-risk.com,CS,Computer Science,+60121000086,active,2026-06-11 19:14:24
+375095,Student 313,375095@student.aura-student-risk.com,Engineering,Engineering,+60121000087,active,2026-06-11 19:14:24
+369358,Student 312,369358@student.aura-student-risk.com,Engineering,Engineering,+60121000088,active,2026-06-11 19:14:24
+317436,Student 311,317436@student.aura-student-risk.com,CS,Computer Science,+60121000089,active,2026-06-11 19:14:24
+362318,Student 310,362318@student.aura-student-risk.com,CS,Computer Science,+60121000090,active,2026-06-11 19:14:24
+371790,Student 309,371790@student.aura-student-risk.com,Engineering,Engineering,+60121000091,active,2026-06-11 19:14:24
+378701,Student 308,378701@student.aura-student-risk.com,Business,Business,+60121000092,active,2026-06-11 19:14:24
+398890,Student 307,398890@student.aura-student-risk.com,CS,Computer Science,+60121000093,active,2026-06-11 19:14:24
+346115,Student 306,346115@student.aura-student-risk.com,CS,Computer Science,+60121000094,active,2026-06-11 19:14:24
+323811,Student 305,323811@student.aura-student-risk.com,Business,Business,+60121000095,active,2026-06-11 19:14:24
+331550,Student 304,331550@student.aura-student-risk.com,CS,Computer Science,+60121000096,active,2026-06-11 19:14:24
+387079,Student 303,387079@student.aura-student-risk.com,Engineering,Engineering,+60121000097,active,2026-06-11 19:14:24
+327159,Student 302,327159@student.aura-student-risk.com,Engineering,Engineering,+60121000098,active,2026-06-11 19:14:24
+393834,Student 301,393834@student.aura-student-risk.com,CS,Computer Science,+60121000099,active,2026-06-11 19:14:24
+324769,Student 300,324769@student.aura-student-risk.com,Engineering,Engineering,+60121000100,active,2026-06-11 19:14:24
+331372,Student 299,331372@student.aura-student-risk.com,CS,Computer Science,+60121000101,active,2026-06-11 19:14:24
+372675,Student 298,372675@student.aura-student-risk.com,CS,Computer Science,+60121000102,active,2026-06-11 19:14:24
+311287,Student 297,311287@student.aura-student-risk.com,CS,Computer Science,+60121000103,active,2026-06-11 19:14:24
+388483,Student 296,388483@student.aura-student-risk.com,CS,Computer Science,+60121000104,active,2026-06-11 19:14:24
+388665,Student 295,388665@student.aura-student-risk.com,Business,Business,+60121000105,active,2026-06-11 19:14:24
+391769,Student 294,391769@student.aura-student-risk.com,Business,Business,+60121000106,active,2026-06-11 19:14:24
+391286,Student 293,391286@student.aura-student-risk.com,CS,Computer Science,+60121000107,active,2026-06-11 19:14:24
+315348,Student 292,315348@student.aura-student-risk.com,Business,Business,+60121000108,active,2026-06-11 19:14:24
+376544,Student 291,376544@student.aura-student-risk.com,Business,Business,+60121000109,active,2026-06-11 19:14:24
+392989,Student 290,392989@student.aura-student-risk.com,CS,Computer Science,+60121000110,active,2026-06-11 19:14:24
+323493,Student 289,323493@student.aura-student-risk.com,CS,Computer Science,+60121000111,active,2026-06-11 19:14:24
+399126,Student 288,399126@student.aura-student-risk.com,CS,Computer Science,+60121000112,active,2026-06-11 19:14:24
+339845,Student 287,339845@student.aura-student-risk.com,Engineering,Engineering,+60121000113,active,2026-06-11 19:14:24
+366094,Student 286,366094@student.aura-student-risk.com,Business,Business,+60121000114,active,2026-06-11 19:14:24
+369751,Student 285,369751@student.aura-student-risk.com,Business,Business,+60121000115,active,2026-06-11 19:14:24
+335565,Student 284,335565@student.aura-student-risk.com,CS,Computer Science,+60121000116,active,2026-06-11 19:14:24
+343911,Student 283,343911@student.aura-student-risk.com,Engineering,Engineering,+60121000117,active,2026-06-11 19:14:24
+371104,Student 282,371104@student.aura-student-risk.com,CS,Computer Science,+60121000118,active,2026-06-11 19:14:24
+314853,Student 281,314853@student.aura-student-risk.com,Business,Business,+60121000119,active,2026-06-11 19:14:24
+338760,Student 280,338760@student.aura-student-risk.com,CS,Computer Science,+60121000120,active,2026-06-11 19:14:24
+314405,Student 279,314405@student.aura-student-risk.com,CS,Computer Science,+60121000121,active,2026-06-11 19:14:24
+314228,Student 278,314228@student.aura-student-risk.com,Engineering,Engineering,+60121000122,active,2026-06-11 19:14:24
+325431,Student 277,325431@student.aura-student-risk.com,Engineering,Engineering,+60121000123,active,2026-06-11 19:14:24
+376571,Student 276,376571@student.aura-student-risk.com,Business,Business,+60121000124,active,2026-06-11 19:14:24
+333618,Student 275,333618@student.aura-student-risk.com,Engineering,Engineering,+60121000125,active,2026-06-11 19:14:24
+317062,Student 274,317062@student.aura-student-risk.com,Engineering,Engineering,+60121000126,active,2026-06-11 19:14:24
+336440,Student 273,336440@student.aura-student-risk.com,CS,Computer Science,+60121000127,active,2026-06-11 19:14:24
+382179,Student 272,382179@student.aura-student-risk.com,Business,Business,+60121000128,active,2026-06-11 19:14:24
+378690,Student 271,378690@student.aura-student-risk.com,Engineering,Engineering,+60121000129,active,2026-06-11 19:14:24
+391929,Student 270,391929@student.aura-student-risk.com,Business,Business,+60121000130,active,2026-06-11 19:14:24
+315787,Student 269,315787@student.aura-student-risk.com,CS,Computer Science,+60121000131,active,2026-06-11 19:14:24
+310685,Student 268,310685@student.aura-student-risk.com,Engineering,Engineering,+60121000132,active,2026-06-11 19:14:24
+381545,Student 267,381545@student.aura-student-risk.com,CS,Computer Science,+60121000133,active,2026-06-11 19:14:24
+317599,Student 266,317599@student.aura-student-risk.com,Business,Business,+60121000134,active,2026-06-11 19:14:24
+314763,Student 265,314763@student.aura-student-risk.com,Engineering,Engineering,+60121000135,active,2026-06-11 19:14:24
+384145,Student 264,384145@student.aura-student-risk.com,CS,Computer Science,+60121000136,active,2026-06-11 19:14:24
+321284,Student 263,321284@student.aura-student-risk.com,CS,Computer Science,+60121000137,active,2026-06-11 19:14:24
+323746,Student 262,323746@student.aura-student-risk.com,CS,Computer Science,+60121000138,active,2026-06-11 19:14:24
+361182,Student 261,361182@student.aura-student-risk.com,CS,Computer Science,+60121000139,active,2026-06-11 19:14:24
+322944,Student 260,322944@student.aura-student-risk.com,Engineering,Engineering,+60121000140,active,2026-06-11 19:14:24
+399778,Student 259,399778@student.aura-student-risk.com,Engineering,Engineering,+60121000141,active,2026-06-11 19:14:24
+386226,Student 258,386226@student.aura-student-risk.com,CS,Computer Science,+60121000142,active,2026-06-11 19:14:24
+317900,Student 257,317900@student.aura-student-risk.com,Business,Business,+60121000143,active,2026-06-11 19:14:24
+379830,Student 256,379830@student.aura-student-risk.com,Engineering,Engineering,+60121000144,active,2026-06-11 19:14:24
+345439,Student 255,345439@student.aura-student-risk.com,CS,Computer Science,+60121000145,active,2026-06-11 19:14:24
+349488,Student 254,349488@student.aura-student-risk.com,Business,Business,+60121000146,active,2026-06-11 19:14:24
+358764,Student 253,358764@student.aura-student-risk.com,Engineering,Engineering,+60121000147,active,2026-06-11 19:14:24
+376776,Student 252,376776@student.aura-student-risk.com,Engineering,Engineering,+60121000148,active,2026-06-11 19:14:24
+355547,Student 251,355547@student.aura-student-risk.com,Engineering,Engineering,+60121000149,active,2026-06-11 19:14:24
+352016,Student 250,352016@student.aura-student-risk.com,Engineering,Engineering,+60121000150,active,2026-06-11 19:14:24
+340051,Student 249,340051@student.aura-student-risk.com,CS,Computer Science,+60121000151,active,2026-06-11 19:14:24
+346073,Student 248,346073@student.aura-student-risk.com,CS,Computer Science,+60121000152,active,2026-06-11 19:14:24
+378057,Student 247,378057@student.aura-student-risk.com,Engineering,Engineering,+60121000153,active,2026-06-11 19:14:24
+358380,Student 246,358380@student.aura-student-risk.com,Engineering,Engineering,+60121000154,active,2026-06-11 19:14:24
+324490,Student 245,324490@student.aura-student-risk.com,CS,Computer Science,+60121000155,active,2026-06-11 19:14:24
+381973,Student 244,381973@student.aura-student-risk.com,Business,Business,+60121000156,active,2026-06-11 19:14:24
+322982,Student 243,322982@student.aura-student-risk.com,CS,Computer Science,+60121000157,active,2026-06-11 19:14:24
+323668,Student 242,323668@student.aura-student-risk.com,CS,Computer Science,+60121000158,active,2026-06-11 19:14:24
+381349,Student 241,381349@student.aura-student-risk.com,Business,Business,+60121000159,active,2026-06-11 19:14:24
+375390,Student 240,375390@student.aura-student-risk.com,CS,Computer Science,+60121000160,active,2026-06-11 19:14:24
+370447,Student 239,370447@student.aura-student-risk.com,Engineering,Engineering,+60121000161,active,2026-06-11 19:14:24
+322057,Student 238,322057@student.aura-student-risk.com,Engineering,Engineering,+60121000162,active,2026-06-11 19:14:24
+356891,Student 237,356891@student.aura-student-risk.com,CS,Computer Science,+60121000163,active,2026-06-11 19:14:24
+398246,Student 236,398246@student.aura-student-risk.com,Engineering,Engineering,+60121000164,active,2026-06-11 19:14:24
+351756,Student 235,351756@student.aura-student-risk.com,Business,Business,+60121000165,active,2026-06-11 19:14:24
+317331,Student 234,317331@student.aura-student-risk.com,Business,Business,+60121000166,active,2026-06-11 19:14:24
+371665,Student 233,371665@student.aura-student-risk.com,Engineering,Engineering,+60121000167,active,2026-06-11 19:14:24
+392921,Student 232,392921@student.aura-student-risk.com,Engineering,Engineering,+60121000168,active,2026-06-11 19:14:24
+376012,Student 231,376012@student.aura-student-risk.com,CS,Computer Science,+60121000169,active,2026-06-11 19:14:24
+376585,Student 230,376585@student.aura-student-risk.com,Business,Business,+60121000170,active,2026-06-11 19:14:24
+363992,Student 229,363992@student.aura-student-risk.com,Business,Business,+60121000171,active,2026-06-11 19:14:24
+367421,Student 228,367421@student.aura-student-risk.com,CS,Computer Science,+60121000172,active,2026-06-11 19:14:24
+317260,Student 227,317260@student.aura-student-risk.com,CS,Computer Science,+60121000173,active,2026-06-11 19:14:24
+366484,Student 226,366484@student.aura-student-risk.com,Engineering,Engineering,+60121000174,active,2026-06-11 19:14:24
+394882,Student 225,394882@student.aura-student-risk.com,CS,Computer Science,+60121000175,active,2026-06-11 19:14:24
+384978,Student 224,384978@student.aura-student-risk.com,CS,Computer Science,+60121000176,active,2026-06-11 19:14:24
+321913,Student 223,321913@student.aura-student-risk.com,CS,Computer Science,+60121000177,active,2026-06-11 19:14:24
+380655,Student 222,380655@student.aura-student-risk.com,Business,Business,+60121000178,active,2026-06-11 19:14:24
+378904,Student 221,378904@student.aura-student-risk.com,CS,Computer Science,+60121000179,active,2026-06-11 19:14:24
+355452,Student 220,355452@student.aura-student-risk.com,CS,Computer Science,+60121000180,active,2026-06-11 19:14:24
+316656,Student 219,316656@student.aura-student-risk.com,CS,Computer Science,+60121000181,active,2026-06-11 19:14:24
+337356,Student 218,337356@student.aura-student-risk.com,Engineering,Engineering,+60121000182,active,2026-06-11 19:14:24
+330827,Student 217,330827@student.aura-student-risk.com,Business,Business,+60121000183,active,2026-06-11 19:14:24
+388300,Student 216,388300@student.aura-student-risk.com,CS,Computer Science,+60121000184,active,2026-06-11 19:14:24
+345297,Student 215,345297@student.aura-student-risk.com,CS,Computer Science,+60121000185,active,2026-06-11 19:14:24
+382519,Student 214,382519@student.aura-student-risk.com,CS,Computer Science,+60121000186,active,2026-06-11 19:14:24
+358651,Student 213,358651@student.aura-student-risk.com,CS,Computer Science,+60121000187,active,2026-06-11 19:14:24
+334013,Student 212,334013@student.aura-student-risk.com,Engineering,Engineering,+60121000188,active,2026-06-11 19:14:24
+374813,Student 211,374813@student.aura-student-risk.com,CS,Computer Science,+60121000189,active,2026-06-11 19:14:24
+377431,Student 210,377431@student.aura-student-risk.com,CS,Computer Science,+60121000190,active,2026-06-11 19:14:24
+391694,Student 209,391694@student.aura-student-risk.com,CS,Computer Science,+60121000191,active,2026-06-11 19:14:24
+340730,Student 208,340730@student.aura-student-risk.com,CS,Computer Science,+60121000192,active,2026-06-11 19:14:24
+340263,Student 207,340263@student.aura-student-risk.com,CS,Computer Science,+60121000193,active,2026-06-11 19:14:24
+375724,Student 206,375724@student.aura-student-risk.com,CS,Computer Science,+60121000194,active,2026-06-11 19:14:24
+397076,Student 205,397076@student.aura-student-risk.com,Business,Business,+60121000195,active,2026-06-11 19:14:24
+310071,Student 204,310071@student.aura-student-risk.com,Business,Business,+60121000196,active,2026-06-11 19:14:24
+355579,Student 203,355579@student.aura-student-risk.com,CS,Computer Science,+60121000197,active,2026-06-11 19:14:24
+342038,Student 202,342038@student.aura-student-risk.com,CS,Computer Science,+60121000198,active,2026-06-11 19:14:24
+386709,Student 201,386709@student.aura-student-risk.com,Business,Business,+60121000199,active,2026-06-11 19:14:24
+351383,Student 200,351383@student.aura-student-risk.com,CS,Computer Science,+60121000200,active,2026-06-11 19:14:24
+387207,Student 199,387207@student.aura-student-risk.com,Engineering,Engineering,+60121000201,active,2026-06-11 19:14:24
+390318,Student 198,390318@student.aura-student-risk.com,CS,Computer Science,+60121000202,active,2026-06-11 19:14:24
+324855,Student 197,324855@student.aura-student-risk.com,CS,Computer Science,+60121000203,active,2026-06-11 19:14:24
+386368,Student 196,386368@student.aura-student-risk.com,CS,Computer Science,+60121000204,active,2026-06-11 19:14:24
+377861,Student 195,377861@student.aura-student-risk.com,Business,Business,+60121000205,active,2026-06-11 19:14:24
+358422,Student 194,358422@student.aura-student-risk.com,Business,Business,+60121000206,active,2026-06-11 19:14:24
+371780,Student 193,371780@student.aura-student-risk.com,Business,Business,+60121000207,active,2026-06-11 19:14:24
+312942,Student 192,312942@student.aura-student-risk.com,Engineering,Engineering,+60121000208,active,2026-06-11 19:14:24
+331068,Student 191,331068@student.aura-student-risk.com,Engineering,Engineering,+60121000209,active,2026-06-11 19:14:24
+343360,Student 190,343360@student.aura-student-risk.com,CS,Computer Science,+60121000210,active,2026-06-11 19:14:24
+319965,Student 189,319965@student.aura-student-risk.com,CS,Computer Science,+60121000211,active,2026-06-11 19:14:24
+389826,Student 188,389826@student.aura-student-risk.com,Business,Business,+60121000212,active,2026-06-11 19:14:24
+333425,Student 187,333425@student.aura-student-risk.com,Engineering,Engineering,+60121000213,active,2026-06-11 19:14:24
+343791,Student 186,343791@student.aura-student-risk.com,Business,Business,+60121000214,active,2026-06-11 19:14:24
+378425,Student 185,378425@student.aura-student-risk.com,Business,Business,+60121000215,active,2026-06-11 19:14:24
+385584,Student 184,385584@student.aura-student-risk.com,Engineering,Engineering,+60121000216,active,2026-06-11 19:14:24
+377277,Student 183,377277@student.aura-student-risk.com,CS,Computer Science,+60121000217,active,2026-06-11 19:14:24
+390455,Student 182,390455@student.aura-student-risk.com,CS,Computer Science,+60121000218,active,2026-06-11 19:14:24
+399208,Student 181,399208@student.aura-student-risk.com,CS,Computer Science,+60121000219,active,2026-06-11 19:14:24
+315297,Student 180,315297@student.aura-student-risk.com,Engineering,Engineering,+60121000220,active,2026-06-11 19:14:24
+356281,Student 179,356281@student.aura-student-risk.com,Business,Business,+60121000221,active,2026-06-11 19:14:24
+388311,Student 178,388311@student.aura-student-risk.com,Business,Business,+60121000222,active,2026-06-11 19:14:24
+331983,Student 177,331983@student.aura-student-risk.com,CS,Computer Science,+60121000223,active,2026-06-11 19:14:24
+398580,Student 176,398580@student.aura-student-risk.com,CS,Computer Science,+60121000224,active,2026-06-11 19:14:24
+367536,Student 175,367536@student.aura-student-risk.com,Business,Business,+60121000225,active,2026-06-11 19:14:24
+375860,Student 174,375860@student.aura-student-risk.com,CS,Computer Science,+60121000226,active,2026-06-11 19:14:24
+337723,Student 173,337723@student.aura-student-risk.com,CS,Computer Science,+60121000227,active,2026-06-11 19:14:24
+342728,Student 172,342728@student.aura-student-risk.com,CS,Computer Science,+60121000228,active,2026-06-11 19:14:24
+376995,Student 171,376995@student.aura-student-risk.com,CS,Computer Science,+60121000229,active,2026-06-11 19:14:24
+359369,Student 170,359369@student.aura-student-risk.com,CS,Computer Science,+60121000230,active,2026-06-11 19:14:24
+373813,Student 169,373813@student.aura-student-risk.com,Business,Business,+60121000231,active,2026-06-11 19:14:24
+357483,Student 168,357483@student.aura-student-risk.com,Business,Business,+60121000232,active,2026-06-11 19:14:24
+357962,Student 167,357962@student.aura-student-risk.com,Business,Business,+60121000233,active,2026-06-11 19:14:24
+325712,Student 166,325712@student.aura-student-risk.com,CS,Computer Science,+60121000234,active,2026-06-11 19:14:24
+377922,Student 165,377922@student.aura-student-risk.com,Engineering,Engineering,+60121000235,active,2026-06-11 19:14:24
+358606,Student 164,358606@student.aura-student-risk.com,Business,Business,+60121000236,active,2026-06-11 19:14:24
+362288,Student 163,362288@student.aura-student-risk.com,CS,Computer Science,+60121000237,active,2026-06-11 19:14:24
+383284,Student 162,383284@student.aura-student-risk.com,CS,Computer Science,+60121000238,active,2026-06-11 19:14:24
+339661,Student 161,339661@student.aura-student-risk.com,CS,Computer Science,+60121000239,active,2026-06-11 19:14:24
+351373,Student 160,351373@student.aura-student-risk.com,CS,Computer Science,+60121000240,active,2026-06-11 19:14:24
+343792,Student 159,343792@student.aura-student-risk.com,Business,Business,+60121000241,active,2026-06-11 19:14:24
+383815,Student 158,383815@student.aura-student-risk.com,Engineering,Engineering,+60121000242,active,2026-06-11 19:14:24
+321552,Student 157,321552@student.aura-student-risk.com,Business,Business,+60121000243,active,2026-06-11 19:14:24
+340907,Student 156,340907@student.aura-student-risk.com,CS,Computer Science,+60121000244,active,2026-06-11 19:14:24
+321239,Student 155,321239@student.aura-student-risk.com,Business,Business,+60121000245,active,2026-06-11 19:14:24
+364344,Student 154,364344@student.aura-student-risk.com,CS,Computer Science,+60121000246,active,2026-06-11 19:14:24
+311549,Student 153,311549@student.aura-student-risk.com,CS,Computer Science,+60121000247,active,2026-06-11 19:14:24
+369591,Student 152,369591@student.aura-student-risk.com,CS,Computer Science,+60121000248,active,2026-06-11 19:14:24
+391685,Student 151,391685@student.aura-student-risk.com,CS,Computer Science,+60121000249,active,2026-06-11 19:14:24
+374532,Student 150,374532@student.aura-student-risk.com,CS,Computer Science,+60121000250,active,2026-06-11 19:14:24
+317097,Student 149,317097@student.aura-student-risk.com,CS,Computer Science,+60121000251,active,2026-06-11 19:14:24
+373133,Student 148,373133@student.aura-student-risk.com,CS,Computer Science,+60121000252,active,2026-06-11 19:14:24
+340475,Student 147,340475@student.aura-student-risk.com,CS,Computer Science,+60121000253,active,2026-06-11 19:14:24
+330636,Student 146,330636@student.aura-student-risk.com,CS,Computer Science,+60121000254,active,2026-06-11 19:14:24
+372694,Student 145,372694@student.aura-student-risk.com,CS,Computer Science,+60121000255,active,2026-06-11 19:14:24
+369606,Student 144,369606@student.aura-student-risk.com,CS,Computer Science,+60121000256,active,2026-06-11 19:14:24
+395854,Student 143,395854@student.aura-student-risk.com,Engineering,Engineering,+60121000257,active,2026-06-11 19:14:24
+347128,Student 142,347128@student.aura-student-risk.com,Business,Business,+60121000258,active,2026-06-11 19:14:24
+340122,Student 141,340122@student.aura-student-risk.com,Business,Business,+60121000259,active,2026-06-11 19:14:24
+362506,Student 140,362506@student.aura-student-risk.com,Engineering,Engineering,+60121000260,active,2026-06-11 19:14:24
+398503,Student 139,398503@student.aura-student-risk.com,CS,Computer Science,+60121000261,active,2026-06-11 19:14:24
+315230,Student 138,315230@student.aura-student-risk.com,Engineering,Engineering,+60121000262,active,2026-06-11 19:14:24
+340042,Student 137,340042@student.aura-student-risk.com,Engineering,Engineering,+60121000263,active,2026-06-11 19:14:24
+365769,Student 136,365769@student.aura-student-risk.com,CS,Computer Science,+60121000264,active,2026-06-11 19:14:24
+373214,Student 135,373214@student.aura-student-risk.com,Engineering,Engineering,+60121000265,active,2026-06-11 19:14:24
+360157,Student 134,360157@student.aura-student-risk.com,Business,Business,+60121000266,active,2026-06-11 19:14:24
+357477,Student 133,357477@student.aura-student-risk.com,Engineering,Engineering,+60121000267,active,2026-06-11 19:14:24
+358546,Student 132,358546@student.aura-student-risk.com,Engineering,Engineering,+60121000268,active,2026-06-11 19:14:24
+383281,Student 131,383281@student.aura-student-risk.com,Business,Business,+60121000269,active,2026-06-11 19:14:24
+338752,Student 130,338752@student.aura-student-risk.com,Engineering,Engineering,+60121000270,active,2026-06-11 19:14:24
+371822,Student 129,371822@student.aura-student-risk.com,CS,Computer Science,+60121000271,active,2026-06-11 19:14:24
+330446,Student 128,330446@student.aura-student-risk.com,Engineering,Engineering,+60121000272,active,2026-06-11 19:14:24
+343263,Student 127,343263@student.aura-student-risk.com,CS,Computer Science,+60121000273,active,2026-06-11 19:14:24
+346167,Student 126,346167@student.aura-student-risk.com,CS,Computer Science,+60121000274,active,2026-06-11 19:14:24
+354359,Student 125,354359@student.aura-student-risk.com,CS,Computer Science,+60121000275,active,2026-06-11 19:14:24
+344787,Student 124,344787@student.aura-student-risk.com,CS,Computer Science,+60121000276,active,2026-06-11 19:14:24
+377681,Student 123,377681@student.aura-student-risk.com,CS,Computer Science,+60121000277,active,2026-06-11 19:14:24
+390576,Student 122,390576@student.aura-student-risk.com,Engineering,Engineering,+60121000278,active,2026-06-11 19:14:24
+373916,Student 121,373916@student.aura-student-risk.com,CS,Computer Science,+60121000279,active,2026-06-11 19:14:24
+387436,Student 120,387436@student.aura-student-risk.com,CS,Computer Science,+60121000280,active,2026-06-11 19:14:24
+386916,Student 119,386916@student.aura-student-risk.com,CS,Computer Science,+60121000281,active,2026-06-11 19:14:24
+333957,Student 118,333957@student.aura-student-risk.com,CS,Computer Science,+60121000282,active,2026-06-11 19:14:24
+385354,Student 117,385354@student.aura-student-risk.com,Business,Business,+60121000283,active,2026-06-11 19:14:24
+378126,Student 116,378126@student.aura-student-risk.com,CS,Computer Science,+60121000284,active,2026-06-11 19:14:24
+396736,Student 115,396736@student.aura-student-risk.com,CS,Computer Science,+60121000285,active,2026-06-11 19:14:24
+369077,Student 114,369077@student.aura-student-risk.com,CS,Computer Science,+60121000286,active,2026-06-11 19:14:24
+375404,Student 113,375404@student.aura-student-risk.com,CS,Computer Science,+60121000287,active,2026-06-11 19:14:24
+359326,Student 112,359326@student.aura-student-risk.com,CS,Computer Science,+60121000288,active,2026-06-11 19:14:24
+375776,Student 111,375776@student.aura-student-risk.com,CS,Computer Science,+60121000289,active,2026-06-11 19:14:24
+382036,Student 110,382036@student.aura-student-risk.com,CS,Computer Science,+60121000290,active,2026-06-11 19:14:24
+357151,Student 109,357151@student.aura-student-risk.com,Business,Business,+60121000291,active,2026-06-11 19:14:24
+388579,Student 108,388579@student.aura-student-risk.com,CS,Computer Science,+60121000292,active,2026-06-11 19:14:24
+389098,Student 107,389098@student.aura-student-risk.com,CS,Computer Science,+60121000293,active,2026-06-11 19:14:24
+398724,Student 106,398724@student.aura-student-risk.com,CS,Computer Science,+60121000294,active,2026-06-11 19:14:24
+379655,Student 105,379655@student.aura-student-risk.com,CS,Computer Science,+60121000295,active,2026-06-11 19:14:24
+391352,Student 104,391352@student.aura-student-risk.com,Engineering,Engineering,+60121000296,active,2026-06-11 19:14:24
+315610,Student 103,315610@student.aura-student-risk.com,CS,Computer Science,+60121000297,active,2026-06-11 19:14:24
+334530,Student 102,334530@student.aura-student-risk.com,CS,Computer Science,+60121000298,active,2026-06-11 19:14:24
+324230,Student 101,324230@student.aura-student-risk.com,CS,Computer Science,+60121000299,active,2026-06-11 19:14:24
+344249,Student 100,344249@student.aura-student-risk.com,CS,Computer Science,+60121000300,active,2026-06-11 19:14:24
+390200,Student 99,390200@student.aura-student-risk.com,Business,Business,+60121000301,active,2026-06-11 19:14:24
+343850,Student 98,343850@student.aura-student-risk.com,Business,Business,+60121000302,active,2026-06-11 19:14:24
+372786,Student 97,372786@student.aura-student-risk.com,CS,Computer Science,+60121000303,active,2026-06-11 19:14:24
+377717,Student 96,377717@student.aura-student-risk.com,CS,Computer Science,+60121000304,active,2026-06-11 19:14:24
+344513,Student 95,344513@student.aura-student-risk.com,CS,Computer Science,+60121000305,active,2026-06-11 19:14:24
+394837,Student 94,394837@student.aura-student-risk.com,CS,Computer Science,+60121000306,active,2026-06-11 19:14:24
+330287,Student 93,330287@student.aura-student-risk.com,CS,Computer Science,+60121000307,active,2026-06-11 19:14:24
+368034,Student 92,368034@student.aura-student-risk.com,CS,Computer Science,+60121000308,active,2026-06-11 19:14:24
+377880,Student 91,377880@student.aura-student-risk.com,CS,Computer Science,+60121000309,active,2026-06-11 19:14:24
+390634,Student 90,390634@student.aura-student-risk.com,Business,Business,+60121000310,active,2026-06-11 19:14:24
+372463,Student 89,372463@student.aura-student-risk.com,Engineering,Engineering,+60121000311,active,2026-06-11 19:14:24
+358799,Student 88,358799@student.aura-student-risk.com,CS,Computer Science,+60121000312,active,2026-06-11 19:14:24
+361605,Student 87,361605@student.aura-student-risk.com,CS,Computer Science,+60121000313,active,2026-06-11 19:14:24
+374330,Student 86,374330@student.aura-student-risk.com,Business,Business,+60121000314,active,2026-06-11 19:14:24
+344517,Student 85,344517@student.aura-student-risk.com,Business,Business,+60121000315,active,2026-06-11 19:14:24
+340116,Student 84,340116@student.aura-student-risk.com,CS,Computer Science,+60121000316,active,2026-06-11 19:14:24
+329603,Student 83,329603@student.aura-student-risk.com,CS,Computer Science,+60121000317,active,2026-06-11 19:14:24
+398345,Student 82,398345@student.aura-student-risk.com,CS,Computer Science,+60121000318,active,2026-06-11 19:14:24
+318239,Student 81,318239@student.aura-student-risk.com,CS,Computer Science,+60121000319,active,2026-06-11 19:14:24
+338109,Student 80,338109@student.aura-student-risk.com,Business,Business,+60121000320,active,2026-06-11 19:14:24
+352655,Student 79,352655@student.aura-student-risk.com,CS,Computer Science,+60121000321,active,2026-06-11 19:14:24
+388753,Student 78,388753@student.aura-student-risk.com,Business,Business,+60121000322,active,2026-06-11 19:14:24
+357880,Student 77,357880@student.aura-student-risk.com,CS,Computer Science,+60121000323,active,2026-06-11 19:14:24
+340145,Student 76,340145@student.aura-student-risk.com,CS,Computer Science,+60121000324,active,2026-06-11 19:14:24
+336698,Student 75,336698@student.aura-student-risk.com,CS,Computer Science,+60121000325,active,2026-06-11 19:14:24
+385008,Student 74,385008@student.aura-student-risk.com,CS,Computer Science,+60121000326,active,2026-06-11 19:14:24
+389195,Student 73,389195@student.aura-student-risk.com,Business,Business,+60121000327,active,2026-06-11 19:14:24
+336522,Student 72,336522@student.aura-student-risk.com,CS,Computer Science,+60121000328,active,2026-06-11 19:14:24
+327658,Student 71,327658@student.aura-student-risk.com,CS,Computer Science,+60121000329,active,2026-06-11 19:14:24
+395403,Student 70,395403@student.aura-student-risk.com,CS,Computer Science,+60121000330,active,2026-06-11 19:14:24
+379444,Student 69,379444@student.aura-student-risk.com,CS,Computer Science,+60121000331,active,2026-06-11 19:14:24
+331206,Student 68,331206@student.aura-student-risk.com,Business,Business,+60121000332,active,2026-06-11 19:14:24
+322214,Student 67,322214@student.aura-student-risk.com,CS,Computer Science,+60121000333,active,2026-06-11 19:14:24
+380972,Student 66,380972@student.aura-student-risk.com,Business,Business,+60121000334,active,2026-06-11 19:14:24
+398940,Student 65,398940@student.aura-student-risk.com,Engineering,Engineering,+60121000335,active,2026-06-11 19:14:24
+370142,Student 64,370142@student.aura-student-risk.com,Engineering,Engineering,+60121000336,active,2026-06-11 19:14:24
+390473,Student 63,390473@student.aura-student-risk.com,CS,Computer Science,+60121000337,active,2026-06-11 19:14:24
+355544,Student 62,355544@student.aura-student-risk.com,CS,Computer Science,+60121000338,active,2026-06-11 19:14:24
+310716,Student 61,310716@student.aura-student-risk.com,Engineering,Engineering,+60121000339,active,2026-06-11 19:14:24
+317328,Student 60,317328@student.aura-student-risk.com,CS,Computer Science,+60121000340,active,2026-06-11 19:14:24
+385168,Student 59,385168@student.aura-student-risk.com,Engineering,Engineering,+60121000341,active,2026-06-11 19:14:24
+315655,Student 58,315655@student.aura-student-risk.com,CS,Computer Science,+60121000342,active,2026-06-11 19:14:24
+335525,Student 57,335525@student.aura-student-risk.com,CS,Computer Science,+60121000343,active,2026-06-11 19:14:24
+329116,Student 56,329116@student.aura-student-risk.com,CS,Computer Science,+60121000344,active,2026-06-11 19:14:24
+360374,Student 55,360374@student.aura-student-risk.com,CS,Computer Science,+60121000345,active,2026-06-11 19:14:24
+382365,Student 54,382365@student.aura-student-risk.com,CS,Computer Science,+60121000346,active,2026-06-11 19:14:24
+369925,Student 53,369925@student.aura-student-risk.com,CS,Computer Science,+60121000347,active,2026-06-11 19:14:24
+356338,Student 52,356338@student.aura-student-risk.com,CS,Computer Science,+60121000348,active,2026-06-11 19:14:24
+351405,Student 51,351405@student.aura-student-risk.com,CS,Computer Science,+60121000349,active,2026-06-11 19:14:24
+369437,Student 50,369437@student.aura-student-risk.com,CS,Computer Science,+60121000350,active,2026-06-11 19:14:24
+384895,Student 49,384895@student.aura-student-risk.com,Engineering,Engineering,+60121000351,active,2026-06-11 19:14:24
+363363,Student 48,363363@student.aura-student-risk.com,Engineering,Engineering,+60121000352,active,2026-06-11 19:14:24
+344223,Student 47,344223@student.aura-student-risk.com,Business,Business,+60121000353,active,2026-06-11 19:14:24
+323529,Student 46,323529@student.aura-student-risk.com,CS,Computer Science,+60121000354,active,2026-06-11 19:14:24
+359732,Student 45,359732@student.aura-student-risk.com,CS,Computer Science,+60121000355,active,2026-06-11 19:14:24
+373172,Student 44,373172@student.aura-student-risk.com,CS,Computer Science,+60121000356,active,2026-06-11 19:14:24
+334498,Student 43,334498@student.aura-student-risk.com,CS,Computer Science,+60121000357,active,2026-06-11 19:14:24
+360523,Student 42,360523@student.aura-student-risk.com,CS,Computer Science,+60121000358,active,2026-06-11 19:14:24
+393345,Student 41,393345@student.aura-student-risk.com,CS,Computer Science,+60121000359,active,2026-06-11 19:14:24
+359155,Student 40,359155@student.aura-student-risk.com,CS,Computer Science,+60121000360,active,2026-06-11 19:14:24
+367658,Student 39,367658@student.aura-student-risk.com,CS,Computer Science,+60121000361,active,2026-06-11 19:14:24
+362183,Student 38,362183@student.aura-student-risk.com,Business,Business,+60121000362,active,2026-06-11 19:14:24
+341082,Student 37,341082@student.aura-student-risk.com,CS,Computer Science,+60121000363,active,2026-06-11 19:14:24
+383220,Student 36,383220@student.aura-student-risk.com,CS,Computer Science,+60121000364,active,2026-06-11 19:14:24
+388558,Student 35,388558@student.aura-student-risk.com,CS,Computer Science,+60121000365,active,2026-06-11 19:14:24
+340783,Student 34,340783@student.aura-student-risk.com,CS,Computer Science,+60121000366,active,2026-06-11 19:14:24
+380504,Student 33,380504@student.aura-student-risk.com,Engineering,Engineering,+60121000367,active,2026-06-11 19:14:24
+385757,Student 32,385757@student.aura-student-risk.com,CS,Computer Science,+60121000368,active,2026-06-11 19:14:24
+318993,Student 31,318993@student.aura-student-risk.com,Business,Business,+60121000369,active,2026-06-11 19:14:24
+337594,Student 30,337594@student.aura-student-risk.com,Engineering,Engineering,+60121000370,active,2026-06-11 19:14:24
+341886,Student 29,341886@student.aura-student-risk.com,Engineering,Engineering,+60121000371,active,2026-06-11 19:14:24
+354560,Student 28,354560@student.aura-student-risk.com,CS,Computer Science,+60121000372,active,2026-06-11 19:14:24
+375951,Student 27,375951@student.aura-student-risk.com,CS,Computer Science,+60121000373,active,2026-06-11 19:14:24
+340079,Student 26,340079@student.aura-student-risk.com,CS,Computer Science,+60121000374,active,2026-06-11 19:14:24
+362150,Student 25,362150@student.aura-student-risk.com,Engineering,Engineering,+60121000375,active,2026-06-11 19:14:24
+384012,Student 24,384012@student.aura-student-risk.com,CS,Computer Science,+60121000376,active,2026-06-11 19:14:24
+359923,Student 23,359923@student.aura-student-risk.com,Business,Business,+60121000377,active,2026-06-11 19:14:24
+396413,Student 22,396413@student.aura-student-risk.com,CS,Computer Science,+60121000378,active,2026-06-11 19:14:24
+333255,Student 21,333255@student.aura-student-risk.com,CS,Computer Science,+60121000379,active,2026-06-11 19:14:24
+368877,Student 20,368877@student.aura-student-risk.com,Business,Business,+60121000380,active,2026-06-11 19:14:24
+377720,Student 19,377720@student.aura-student-risk.com,CS,Computer Science,+60121000381,active,2026-06-11 19:14:24
+336438,Student 18,336438@student.aura-student-risk.com,Engineering,Engineering,+60121000382,active,2026-06-11 19:14:24
+344483,Student 17,344483@student.aura-student-risk.com,CS,Computer Science,+60121000383,active,2026-06-11 19:14:24
+385713,Student 16,385713@student.aura-student-risk.com,CS,Computer Science,+60121000384,active,2026-06-11 19:14:24
+360868,Student 15,360868@student.aura-student-risk.com,CS,Computer Science,+60121000385,active,2026-06-11 19:14:24
+375374,Student 14,375374@student.aura-student-risk.com,Business,Business,+60121000386,active,2026-06-11 19:14:24
+356255,Student 13,356255@student.aura-student-risk.com,CS,Computer Science,+60121000387,active,2026-06-11 19:14:24
+363143,Student 12,363143@student.aura-student-risk.com,CS,Computer Science,+60121000388,active,2026-06-11 19:14:24
+385197,Student 11,385197@student.aura-student-risk.com,CS,Computer Science,+60121000389,active,2026-06-11 19:14:24
+356285,Student 10,356285@student.aura-student-risk.com,CS,Computer Science,+60121000390,active,2026-06-11 19:14:24
+321939,Student 9,321939@student.aura-student-risk.com,Engineering,Engineering,+60121000391,active,2026-06-11 19:14:24
+359969,Student 8,359969@student.aura-student-risk.com,CS,Computer Science,+60121000392,active,2026-06-11 19:14:24
+323090,Student 7,323090@student.aura-student-risk.com,Engineering,Engineering,+60121000393,active,2026-06-11 19:14:24
+385483,Student 6,385483@student.aura-student-risk.com,CS,Computer Science,+60121000394,active,2026-06-11 19:14:24
+332973,Student 5,332973@student.aura-student-risk.com,CS,Computer Science,+60121000395,active,2026-06-11 19:14:24
+396427,Student 4,396427@student.aura-student-risk.com,CS,Computer Science,+60121000396,active,2026-06-11 19:14:24
+347655,Student 3,347655@student.aura-student-risk.com,CS,Computer Science,+60121000397,active,2026-06-11 19:14:24
+377441,Student 2,377441@student.aura-student-risk.com,Engineering,Engineering,+60121000398,active,2026-06-11 19:14:24
+396652,Student 1,396652@student.aura-student-risk.com,Business,Business,+60121000399,active,2026-06-11 19:14:24
+0370995,Zhang Shijia,zsjhappy2024@126.com,CS,Computer Science,+60121000400,active,2026-06-11 19:14:24
+0349366,Daniel,0349366@student.aura-student-risk.com,Engineering,Engineering,+60121000401,active,2026-06-11 19:14:24
+STU4522,Student 4522,stu4522@student.aura-student-risk.com,CS,Computer Science,+60121000402,active,2026-06-11 19:14:24
+STU4743,Student 4743,stu4743@student.aura-student-risk.com,CS,Computer Science,+60121000403,active,2026-06-11 19:14:24
+STU1732,Student 1732,stu1732@student.aura-student-risk.com,CS,Computer Science,+60121000404,active,2026-06-11 19:14:24
+STU4685,Student 4685,stu4685@student.aura-student-risk.com,Engineering,Engineering,+60121000405,active,2026-06-11 19:14:24
+STU6253,Student 6253,stu6253@student.aura-student-risk.com,Business,Business,+60121000406,active,2026-06-11 19:14:24
+151251,test,151251@student.aura-student-risk.com,Business,Business,+60121000407,active,2026-06-11 19:14:24
+125412,test,125412@student.aura-student-risk.com,Business,Business,+60121000408,active,2026-06-11 19:14:24
+12412,test,12412@student.aura-student-risk.com,Business,Business,+60121000409,active,2026-06-11 19:14:24
+STU6969,Student 6969,stu6969@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000410,active,2026-06-11 19:14:24
+STU2216,Student 2216,stu2216@student.aura-student-risk.com,Computer Science,Computer Science,+60121000411,active,2026-06-11 19:14:24
+STU2523,Student 2523,stu2523@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000412,active,2026-06-11 19:14:24
+STU7206,Student 7206,stu7206@student.aura-student-risk.com,Data Science,Data Science,+60121000413,active,2026-06-11 19:14:24
+STU5171,Student 5171,stu5171@student.aura-student-risk.com,Data Science,Data Science,+60121000414,active,2026-06-11 19:14:24
+STU1632,Student 1632,stu1632@student.aura-student-risk.com,Business,Business,+60121000415,active,2026-06-11 19:14:24
+STU9697,Student 9697,stu9697@student.aura-student-risk.com,Business,Business,+60121000416,active,2026-06-11 19:14:24
+STU8265,Student 8265,stu8265@student.aura-student-risk.com,Engineering,Engineering,+60121000417,active,2026-06-11 19:14:24
+STU8922,Student 8922,stu8922@student.aura-student-risk.com,Engineering,Engineering,+60121000418,active,2026-06-11 19:14:24
+STU0669,Student 669,stu0669@student.aura-student-risk.com,Computer Science,Computer Science,+60121000419,active,2026-06-11 19:14:24
+STU2019,Student 2019,stu2019@student.aura-student-risk.com,Computer Science,Computer Science,+60121000420,active,2026-06-11 19:14:24
+STU0291,Student 291,stu0291@student.aura-student-risk.com,Computer Science,Computer Science,+60121000421,active,2026-06-11 19:14:24
+STU0625,Student 625,stu0625@student.aura-student-risk.com,Data Science,Data Science,+60121000422,active,2026-06-11 19:14:24
+STU5886,Student 5886,stu5886@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000423,active,2026-06-11 19:14:24
+STU6978,Student 6978,stu6978@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000424,active,2026-06-11 19:14:24
+STU0857,Student 857,stu0857@student.aura-student-risk.com,Business,Business,+60121000425,active,2026-06-11 19:14:24
+STU4828,Student 4828,stu4828@student.aura-student-risk.com,Computer Science,Computer Science,+60121000426,active,2026-06-11 19:14:24
+STU2214,Student 2214,stu2214@student.aura-student-risk.com,Business,Business,+60121000427,active,2026-06-11 19:14:24
+STU0004,Student 4,stu0004@student.aura-student-risk.com,Engineering,Engineering,+60121000428,active,2026-06-11 19:14:24
+STU2610,Student 2610,stu2610@student.aura-student-risk.com,Data Science,Data Science,+60121000429,active,2026-06-11 19:14:24
+STU6330,Student 6330,stu6330@student.aura-student-risk.com,Business,Business,+60121000430,active,2026-06-11 19:14:24
+STU4930,Student 4930,stu4930@student.aura-student-risk.com,Business,Business,+60121000431,active,2026-06-11 19:14:24
+STU8707,Student 8707,stu8707@student.aura-student-risk.com,Business,Business,+60121000432,active,2026-06-11 19:14:24
+STU6766,Student 6766,stu6766@student.aura-student-risk.com,Data Science,Data Science,+60121000433,active,2026-06-11 19:14:24
+STU5101,Student 5101,stu5101@student.aura-student-risk.com,Computer Science,Computer Science,+60121000434,active,2026-06-11 19:14:24
+STU1473,Student 1473,stu1473@student.aura-student-risk.com,Business,Business,+60121000435,active,2026-06-11 19:14:24
+STU8362,Student 8362,stu8362@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000436,active,2026-06-11 19:14:24
+STU5482,Student 5482,stu5482@student.aura-student-risk.com,Engineering,Engineering,+60121000437,active,2026-06-11 19:14:24
+STU0347,Student 347,stu0347@student.aura-student-risk.com,Business,Business,+60121000438,active,2026-06-11 19:14:24
+STU2190,Student 2190,stu2190@student.aura-student-risk.com,Data Science,Data Science,+60121000439,active,2026-06-11 19:14:24
+STU0484,Student 484,stu0484@student.aura-student-risk.com,Data Science,Data Science,+60121000440,active,2026-06-11 19:14:24
+STU3474,Student 3474,stu3474@student.aura-student-risk.com,Engineering,Engineering,+60121000441,active,2026-06-11 19:14:24
+STU1776,Student 1776,stu1776@student.aura-student-risk.com,Engineering,Engineering,+60121000442,active,2026-06-11 19:14:24
+STU8414,Student 8414,stu8414@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000443,active,2026-06-11 19:14:24
+STU8945,Student 8945,stu8945@student.aura-student-risk.com,Computer Science,Computer Science,+60121000444,active,2026-06-11 19:14:24
+STU8215,Student 8215,stu8215@student.aura-student-risk.com,Data Science,Data Science,+60121000445,active,2026-06-11 19:14:24
+STU7743,Student 7743,stu7743@student.aura-student-risk.com,Engineering,Engineering,+60121000446,active,2026-06-11 19:14:24
+STU1209,Student 1209,stu1209@student.aura-student-risk.com,Computer Science,Computer Science,+60121000447,active,2026-06-11 19:14:24
+STU8630,Student 8630,stu8630@student.aura-student-risk.com,Computer Science,Computer Science,+60121000448,active,2026-06-11 19:14:24
+STU6755,Student 6755,stu6755@student.aura-student-risk.com,Data Science,Data Science,+60121000449,active,2026-06-11 19:14:24
+STU0077,Student 77,stu0077@student.aura-student-risk.com,Data Science,Data Science,+60121000450,active,2026-06-11 19:14:24
+STU0304,Student 304,stu0304@student.aura-student-risk.com,Engineering,Engineering,+60121000451,active,2026-06-11 19:14:24
+STU7202,Student 7202,stu7202@student.aura-student-risk.com,Computer Science,Computer Science,+60121000452,active,2026-06-11 19:14:24
+STU3008,Student 3008,stu3008@student.aura-student-risk.com,Data Science,Data Science,+60121000453,active,2026-06-11 19:14:24
+STU0102,Student 102,stu0102@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000454,active,2026-06-11 19:14:24
+STU1559,Student 1559,stu1559@student.aura-student-risk.com,Business,Business,+60121000455,active,2026-06-11 19:14:24
+STU7912,Student 7912,stu7912@student.aura-student-risk.com,Business,Business,+60121000456,active,2026-06-11 19:14:24
+STU2923,Student 2923,stu2923@student.aura-student-risk.com,Engineering,Engineering,+60121000457,active,2026-06-11 19:14:24
+STU9188,Student 9188,stu9188@student.aura-student-risk.com,Data Science,Data Science,+60121000458,active,2026-06-11 19:14:24
+STU0569,Student 569,stu0569@student.aura-student-risk.com,Business,Business,+60121000459,active,2026-06-11 19:14:24
+STU3527,Student 3527,stu3527@student.aura-student-risk.com,Data Science,Data Science,+60121000460,active,2026-06-11 19:14:24
+STU0734,Student 734,stu0734@student.aura-student-risk.com,Computer Science,Computer Science,+60121000461,active,2026-06-11 19:14:24
+STU5157,Student 5157,stu5157@student.aura-student-risk.com,Data Science,Data Science,+60121000462,active,2026-06-11 19:14:24
+STU5767,Student 5767,stu5767@student.aura-student-risk.com,Engineering,Engineering,+60121000463,active,2026-06-11 19:14:24
+STU5573,Student 5573,stu5573@student.aura-student-risk.com,Data Science,Data Science,+60121000464,active,2026-06-11 19:14:24
+STU0674,Student 674,stu0674@student.aura-student-risk.com,Data Science,Data Science,+60121000465,active,2026-06-11 19:14:24
+STU1692,Student 1692,stu1692@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000466,active,2026-06-11 19:14:24
+STU9734,Student 9734,stu9734@student.aura-student-risk.com,Data Science,Data Science,+60121000467,active,2026-06-11 19:14:24
+STU6329,Student 6329,stu6329@student.aura-student-risk.com,Engineering,Engineering,+60121000468,active,2026-06-11 19:14:24
+STU5051,Student 5051,stu5051@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000469,active,2026-06-11 19:14:24
+STU5909,Student 5909,stu5909@student.aura-student-risk.com,Engineering,Engineering,+60121000470,active,2026-06-11 19:14:24
+STU1027,Student 1027,stu1027@student.aura-student-risk.com,Data Science,Data Science,+60121000471,active,2026-06-11 19:14:24
+STU2665,Student 2665,stu2665@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000472,active,2026-06-11 19:14:24
+STU6071,Student 6071,stu6071@student.aura-student-risk.com,Data Science,Data Science,+60121000473,active,2026-06-11 19:14:24
+STU4631,Student 4631,stu4631@student.aura-student-risk.com,Computer Science,Computer Science,+60121000474,active,2026-06-11 19:14:24
+STU8175,Student 8175,stu8175@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000475,active,2026-06-11 19:14:24
+STU4059,Student 4059,stu4059@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000476,active,2026-06-11 19:14:24
+STU0368,Student 368,stu0368@student.aura-student-risk.com,Engineering,Engineering,+60121000477,active,2026-06-11 19:14:24
+STU4632,Student 4632,stu4632@student.aura-student-risk.com,Engineering,Engineering,+60121000478,active,2026-06-11 19:14:24
+STU3096,Student 3096,stu3096@student.aura-student-risk.com,Data Science,Data Science,+60121000479,active,2026-06-11 19:14:24
+STU9415,Student 9415,stu9415@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000480,active,2026-06-11 19:14:24
+STU9156,Student 9156,stu9156@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000481,active,2026-06-11 19:14:24
+STU0501,Student 501,stu0501@student.aura-student-risk.com,Data Science,Data Science,+60121000482,active,2026-06-11 19:14:24
+STU7591,Student 7591,stu7591@student.aura-student-risk.com,Business,Business,+60121000483,active,2026-06-11 19:14:24
+STU8311,Student 8311,stu8311@student.aura-student-risk.com,Business,Business,+60121000484,active,2026-06-11 19:14:24
+STU9644,Student 9644,stu9644@student.aura-student-risk.com,Engineering,Engineering,+60121000485,active,2026-06-11 19:14:24
+STU7486,Student 7486,stu7486@student.aura-student-risk.com,Engineering,Engineering,+60121000486,active,2026-06-11 19:14:24
+STU4191,Student 4191,stu4191@student.aura-student-risk.com,Engineering,Engineering,+60121000487,active,2026-06-11 19:14:24
+STU1499,Student 1499,stu1499@student.aura-student-risk.com,Engineering,Engineering,+60121000488,active,2026-06-11 19:14:24
+STU5904,Student 5904,stu5904@student.aura-student-risk.com,Engineering,Engineering,+60121000489,active,2026-06-11 19:14:24
+STU8448,Student 8448,stu8448@student.aura-student-risk.com,Computer Science,Computer Science,+60121000490,active,2026-06-11 19:14:24
+STU8896,Student 8896,stu8896@student.aura-student-risk.com,Engineering,Engineering,+60121000491,active,2026-06-11 19:14:24
+STU4338,Student 4338,stu4338@student.aura-student-risk.com,Engineering,Engineering,+60121000492,active,2026-06-11 19:14:24
+STU0264,Student 264,stu0264@student.aura-student-risk.com,Engineering,Engineering,+60121000493,active,2026-06-11 19:14:24
+STU8865,Student 8865,stu8865@student.aura-student-risk.com,Data Science,Data Science,+60121000494,active,2026-06-11 19:14:24
+STU9910,Student 9910,stu9910@student.aura-student-risk.com,Engineering,Engineering,+60121000495,active,2026-06-11 19:14:24
+STU7204,Student 7204,stu7204@student.aura-student-risk.com,Data Science,Data Science,+60121000496,active,2026-06-11 19:14:24
+STU3080,Student 3080,stu3080@student.aura-student-risk.com,Data Science,Data Science,+60121000497,active,2026-06-11 19:14:24
+STU4368,Student 4368,stu4368@student.aura-student-risk.com,Business,Business,+60121000498,active,2026-06-11 19:14:24
+STU7205,Student 7205,stu7205@student.aura-student-risk.com,Business,Business,+60121000499,active,2026-06-11 19:14:24
+STU0334,Student 334,stu0334@student.aura-student-risk.com,Engineering,Engineering,+60121000500,active,2026-06-11 19:14:24
+STU2885,Student 2885,stu2885@student.aura-student-risk.com,Computer Science,Computer Science,+60121000501,active,2026-06-11 19:14:24
+STU7156,Student 7156,stu7156@student.aura-student-risk.com,Engineering,Engineering,+60121000502,active,2026-06-11 19:14:24
+STU4984,Student 4984,stu4984@student.aura-student-risk.com,Computer Science,Computer Science,+60121000503,active,2026-06-11 19:14:24
+STU1085,Student 1085,stu1085@student.aura-student-risk.com,Engineering,Engineering,+60121000504,active,2026-06-11 19:14:24
+STU4813,Student 4813,stu4813@student.aura-student-risk.com,Computer Science,Computer Science,+60121000505,active,2026-06-11 19:14:24
+STU8850,Student 8850,stu8850@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000506,active,2026-06-11 19:14:24
+STU8721,Student 8721,stu8721@student.aura-student-risk.com,Engineering,Engineering,+60121000507,active,2026-06-11 19:14:24
+STU7017,Student 7017,stu7017@student.aura-student-risk.com,Business,Business,+60121000508,active,2026-06-11 19:14:24
+STU2674,Student 2674,stu2674@student.aura-student-risk.com,Business,Business,+60121000509,active,2026-06-11 19:14:24
+STU0015,Student 15,stu0015@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000510,active,2026-06-11 19:14:24
+STU1579,Student 1579,stu1579@student.aura-student-risk.com,Business,Business,+60121000511,active,2026-06-11 19:14:24
+STU2046,Student 2046,stu2046@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000512,active,2026-06-11 19:14:24
+STU5939,Student 5939,stu5939@student.aura-student-risk.com,Engineering,Engineering,+60121000513,active,2026-06-11 19:14:24
+STU5999,Student 5999,stu5999@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000514,active,2026-06-11 19:14:24
+STU5404,Student 5404,stu5404@student.aura-student-risk.com,Data Science,Data Science,+60121000515,active,2026-06-11 19:14:24
+STU3239,Student 3239,stu3239@student.aura-student-risk.com,Business,Business,+60121000516,active,2026-06-11 19:14:24
+STU2125,Student 2125,stu2125@student.aura-student-risk.com,Engineering,Engineering,+60121000517,active,2026-06-11 19:14:24
+STU8383,Student 8383,stu8383@student.aura-student-risk.com,Data Science,Data Science,+60121000518,active,2026-06-11 19:14:24
+STU6622,Student 6622,stu6622@student.aura-student-risk.com,Computer Science,Computer Science,+60121000519,active,2026-06-11 19:14:24
+STU3596,Student 3596,stu3596@student.aura-student-risk.com,Computer Science,Computer Science,+60121000520,active,2026-06-11 19:14:24
+STU4399,Student 4399,stu4399@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000521,active,2026-06-11 19:14:24
+STU3838,Student 3838,stu3838@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000522,active,2026-06-11 19:14:24
+STU8795,Student 8795,stu8795@student.aura-student-risk.com,Data Science,Data Science,+60121000523,active,2026-06-11 19:14:24
+STU6835,Student 6835,stu6835@student.aura-student-risk.com,Computer Science,Computer Science,+60121000524,active,2026-06-11 19:14:24
+STU1254,Student 1254,stu1254@student.aura-student-risk.com,Computer Science,Computer Science,+60121000525,active,2026-06-11 19:14:24
+STU3313,Student 3313,stu3313@student.aura-student-risk.com,Computer Science,Computer Science,+60121000526,active,2026-06-11 19:14:24
+STU2459,Student 2459,stu2459@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000527,active,2026-06-11 19:14:24
+STU6267,Student 6267,stu6267@student.aura-student-risk.com,Data Science,Data Science,+60121000528,active,2026-06-11 19:14:24
+STU6177,Student 6177,stu6177@student.aura-student-risk.com,Engineering,Engineering,+60121000529,active,2026-06-11 19:14:24
+STU1576,Student 1576,stu1576@student.aura-student-risk.com,Computer Science,Computer Science,+60121000530,active,2026-06-11 19:14:24
+STU0796,Student 796,stu0796@student.aura-student-risk.com,Engineering,Engineering,+60121000531,active,2026-06-11 19:14:24
+STU3483,Student 3483,stu3483@student.aura-student-risk.com,Engineering,Engineering,+60121000532,active,2026-06-11 19:14:24
+STU7384,Student 7384,stu7384@student.aura-student-risk.com,Computer Science,Computer Science,+60121000533,active,2026-06-11 19:14:24
+STU8147,Student 8147,stu8147@student.aura-student-risk.com,Engineering,Engineering,+60121000534,active,2026-06-11 19:14:24
+STU2911,Student 2911,stu2911@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000535,active,2026-06-11 19:14:24
+STU1122,Student 1122,stu1122@student.aura-student-risk.com,Business,Business,+60121000536,active,2026-06-11 19:14:24
+STU2927,Student 2927,stu2927@student.aura-student-risk.com,Engineering,Engineering,+60121000537,active,2026-06-11 19:14:24
+STU7389,Student 7389,stu7389@student.aura-student-risk.com,Business,Business,+60121000538,active,2026-06-11 19:14:24
+STU2616,Student 2616,stu2616@student.aura-student-risk.com,Computer Science,Computer Science,+60121000539,active,2026-06-11 19:14:24
+STU2026,Student 2026,stu2026@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000540,active,2026-06-11 19:14:24
+STU4852,Student 4852,stu4852@student.aura-student-risk.com,Computer Science,Computer Science,+60121000541,active,2026-06-11 19:14:24
+STU9101,Student 9101,stu9101@student.aura-student-risk.com,Computer Science,Computer Science,+60121000542,active,2026-06-11 19:14:24
+STU7415,Student 7415,stu7415@student.aura-student-risk.com,Computer Science,Computer Science,+60121000543,active,2026-06-11 19:14:24
+STU7400,Student 7400,stu7400@student.aura-student-risk.com,Computer Science,Computer Science,+60121000544,active,2026-06-11 19:14:24
+STU5415,Student 5415,stu5415@student.aura-student-risk.com,Business,Business,+60121000545,active,2026-06-11 19:14:24
+STU7397,Student 7397,stu7397@student.aura-student-risk.com,Data Science,Data Science,+60121000546,active,2026-06-11 19:14:24
+STU4956,Student 4956,stu4956@student.aura-student-risk.com,Business,Business,+60121000547,active,2026-06-11 19:14:24
+STU5460,Student 5460,stu5460@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000548,active,2026-06-11 19:14:24
+STU3413,Student 3413,stu3413@student.aura-student-risk.com,Data Science,Data Science,+60121000549,active,2026-06-11 19:14:24
+STU2255,Student 2255,stu2255@student.aura-student-risk.com,Computer Science,Computer Science,+60121000550,active,2026-06-11 19:14:24
+STU8869,Student 8869,stu8869@student.aura-student-risk.com,Data Science,Data Science,+60121000551,active,2026-06-11 19:14:24
+STU3873,Student 3873,stu3873@student.aura-student-risk.com,Computer Science,Computer Science,+60121000552,active,2026-06-11 19:14:24
+STU5538,Student 5538,stu5538@student.aura-student-risk.com,Engineering,Engineering,+60121000553,active,2026-06-11 19:14:24
+STU4920,Student 4920,stu4920@student.aura-student-risk.com,Engineering,Engineering,+60121000554,active,2026-06-11 19:14:24
+STU8732,Student 8732,stu8732@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000555,active,2026-06-11 19:14:24
+STU1795,Student 1795,stu1795@student.aura-student-risk.com,Computer Science,Computer Science,+60121000556,active,2026-06-11 19:14:24
+STU0389,Student 389,stu0389@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000557,active,2026-06-11 19:14:24
+STU3542,Student 3542,stu3542@student.aura-student-risk.com,Business,Business,+60121000558,active,2026-06-11 19:14:24
+STU7729,Student 7729,stu7729@student.aura-student-risk.com,Data Science,Data Science,+60121000559,active,2026-06-11 19:14:24
+STU6005,Student 6005,stu6005@student.aura-student-risk.com,Engineering,Engineering,+60121000560,active,2026-06-11 19:14:24
+STU6952,Student 6952,stu6952@student.aura-student-risk.com,Engineering,Engineering,+60121000561,active,2026-06-11 19:14:24
+STU8110,Student 8110,stu8110@student.aura-student-risk.com,Engineering,Engineering,+60121000562,active,2026-06-11 19:14:24
+STU4774,Student 4774,stu4774@student.aura-student-risk.com,Business,Business,+60121000563,active,2026-06-11 19:14:24
+STU1607,Student 1607,stu1607@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000564,active,2026-06-11 19:14:24
+STU8135,Student 8135,stu8135@student.aura-student-risk.com,Business,Business,+60121000565,active,2026-06-11 19:14:24
+STU7549,Student 7549,stu7549@student.aura-student-risk.com,Computer Science,Computer Science,+60121000566,active,2026-06-11 19:14:24
+STU4732,Student 4732,stu4732@student.aura-student-risk.com,Business,Business,+60121000567,active,2026-06-11 19:14:24
+STU8261,Student 8261,stu8261@student.aura-student-risk.com,Engineering,Engineering,+60121000568,active,2026-06-11 19:14:24
+STU5027,Student 5027,stu5027@student.aura-student-risk.com,Computer Science,Computer Science,+60121000569,active,2026-06-11 19:14:24
+STU4909,Student 4909,stu4909@student.aura-student-risk.com,Data Science,Data Science,+60121000570,active,2026-06-11 19:14:24
+STU6150,Student 6150,stu6150@student.aura-student-risk.com,Business,Business,+60121000571,active,2026-06-11 19:14:24
+STU7377,Student 7377,stu7377@student.aura-student-risk.com,Data Science,Data Science,+60121000572,active,2026-06-11 19:14:24
+STU3993,Student 3993,stu3993@student.aura-student-risk.com,Computer Science,Computer Science,+60121000573,active,2026-06-11 19:14:24
+STU4576,Student 4576,stu4576@student.aura-student-risk.com,Data Science,Data Science,+60121000574,active,2026-06-11 19:14:24
+STU8518,Student 8518,stu8518@student.aura-student-risk.com,Data Science,Data Science,+60121000575,active,2026-06-11 19:14:24
+STU2030,Student 2030,stu2030@student.aura-student-risk.com,Computer Science,Computer Science,+60121000576,active,2026-06-11 19:14:24
+STU1618,Student 1618,stu1618@student.aura-student-risk.com,Business,Business,+60121000577,active,2026-06-11 19:14:24
+STU4141,Student 4141,stu4141@student.aura-student-risk.com,Engineering,Engineering,+60121000578,active,2026-06-11 19:14:24
+STU1651,Student 1651,stu1651@student.aura-student-risk.com,Business,Business,+60121000579,active,2026-06-11 19:14:24
+STU4722,Student 4722,stu4722@student.aura-student-risk.com,Business,Business,+60121000580,active,2026-06-11 19:14:24
+STU7754,Student 7754,stu7754@student.aura-student-risk.com,Computer Science,Computer Science,+60121000581,active,2026-06-11 19:14:24
+STU7802,Student 7802,stu7802@student.aura-student-risk.com,Data Science,Data Science,+60121000582,active,2026-06-11 19:14:24
+STU4131,Student 4131,stu4131@student.aura-student-risk.com,Business,Business,+60121000583,active,2026-06-11 19:14:24
+STU6827,Student 6827,stu6827@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000584,active,2026-06-11 19:14:24
+STU6429,Student 6429,stu6429@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000585,active,2026-06-11 19:14:24
+STU8501,Student 8501,stu8501@student.aura-student-risk.com,Data Science,Data Science,+60121000586,active,2026-06-11 19:14:24
+STU5941,Student 5941,stu5941@student.aura-student-risk.com,Engineering,Engineering,+60121000587,active,2026-06-11 19:14:24
+STU4218,Student 4218,stu4218@student.aura-student-risk.com,Business,Business,+60121000588,active,2026-06-11 19:14:24
+STU7437,Student 7437,stu7437@student.aura-student-risk.com,Computer Science,Computer Science,+60121000589,active,2026-06-11 19:14:24
+STU5796,Student 5796,stu5796@student.aura-student-risk.com,Computer Science,Computer Science,+60121000590,active,2026-06-11 19:14:24
+STU7530,Student 7530,stu7530@student.aura-student-risk.com,Data Science,Data Science,+60121000591,active,2026-06-11 19:14:24
+STU6553,Student 6553,stu6553@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000592,active,2026-06-11 19:14:24
+STU4814,Student 4814,stu4814@student.aura-student-risk.com,Business,Business,+60121000593,active,2026-06-11 19:14:24
+STU6871,Student 6871,stu6871@student.aura-student-risk.com,Business,Business,+60121000594,active,2026-06-11 19:14:24
+STU0624,Student 624,stu0624@student.aura-student-risk.com,Computer Science,Computer Science,+60121000595,active,2026-06-11 19:14:24
+STU6596,Student 6596,stu6596@student.aura-student-risk.com,Data Science,Data Science,+60121000596,active,2026-06-11 19:14:24
+STU8664,Student 8664,stu8664@student.aura-student-risk.com,Business,Business,+60121000597,active,2026-06-11 19:14:24
+STU8143,Student 8143,stu8143@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000598,active,2026-06-11 19:14:24
+STU9412,Student 9412,stu9412@student.aura-student-risk.com,Business,Business,+60121000599,active,2026-06-11 19:14:24
+STU5560,Student 5560,stu5560@student.aura-student-risk.com,Business,Business,+60121000600,active,2026-06-11 19:14:24
+STU1091,Student 1091,stu1091@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000601,active,2026-06-11 19:14:24
+STU6604,Student 6604,stu6604@student.aura-student-risk.com,Business,Business,+60121000602,active,2026-06-11 19:14:24
+STU8482,Student 8482,stu8482@student.aura-student-risk.com,Computer Science,Computer Science,+60121000603,active,2026-06-11 19:14:24
+STU5636,Student 5636,stu5636@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000604,active,2026-06-11 19:14:24
+STU0109,Student 109,stu0109@student.aura-student-risk.com,Engineering,Engineering,+60121000605,active,2026-06-11 19:14:24
+STU3401,Student 3401,stu3401@student.aura-student-risk.com,Engineering,Engineering,+60121000606,active,2026-06-11 19:14:24
+STU6691,Student 6691,stu6691@student.aura-student-risk.com,Data Science,Data Science,+60121000607,active,2026-06-11 19:14:24
+STU1409,Student 1409,stu1409@student.aura-student-risk.com,Computer Science,Computer Science,+60121000608,active,2026-06-11 19:14:24
+STU7094,Student 7094,stu7094@student.aura-student-risk.com,Computer Science,Computer Science,+60121000609,active,2026-06-11 19:14:24
+STU7696,Student 7696,stu7696@student.aura-student-risk.com,Engineering,Engineering,+60121000610,active,2026-06-11 19:14:24
+STU1495,Student 1495,stu1495@student.aura-student-risk.com,Engineering,Engineering,+60121000611,active,2026-06-11 19:14:24
+STU6164,Student 6164,stu6164@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000612,active,2026-06-11 19:14:24
+STU7643,Student 7643,stu7643@student.aura-student-risk.com,Data Science,Data Science,+60121000613,active,2026-06-11 19:14:24
+STU6551,Student 6551,stu6551@student.aura-student-risk.com,Data Science,Data Science,+60121000614,active,2026-06-11 19:14:24
+STU7969,Student 7969,stu7969@student.aura-student-risk.com,Computer Science,Computer Science,+60121000615,active,2026-06-11 19:14:24
+STU2148,Student 2148,stu2148@student.aura-student-risk.com,Data Science,Data Science,+60121000616,active,2026-06-11 19:14:24
+STU8337,Student 8337,stu8337@student.aura-student-risk.com,Data Science,Data Science,+60121000617,active,2026-06-11 19:14:24
+STU7170,Student 7170,stu7170@student.aura-student-risk.com,Data Science,Data Science,+60121000618,active,2026-06-11 19:14:24
+STU5663,Student 5663,stu5663@student.aura-student-risk.com,Engineering,Engineering,+60121000619,active,2026-06-11 19:14:24
+STU4424,Student 4424,stu4424@student.aura-student-risk.com,Business,Business,+60121000620,active,2026-06-11 19:14:24
+STU2803,Student 2803,stu2803@student.aura-student-risk.com,Computer Science,Computer Science,+60121000621,active,2026-06-11 19:14:24
+STU2234,Student 2234,stu2234@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000622,active,2026-06-11 19:14:24
+STU3502,Student 3502,stu3502@student.aura-student-risk.com,Business,Business,+60121000623,active,2026-06-11 19:14:24
+STU6754,Student 6754,stu6754@student.aura-student-risk.com,Business,Business,+60121000624,active,2026-06-11 19:14:24
+STU9446,Student 9446,stu9446@student.aura-student-risk.com,Business,Business,+60121000625,active,2026-06-11 19:14:24
+STU9732,Student 9732,stu9732@student.aura-student-risk.com,Business,Business,+60121000626,active,2026-06-11 19:14:24
+STU8695,Student 8695,stu8695@student.aura-student-risk.com,Business,Business,+60121000627,active,2026-06-11 19:14:24
+STU0089,Student 89,stu0089@student.aura-student-risk.com,Business,Business,+60121000628,active,2026-06-11 19:14:24
+STU7147,Student 7147,stu7147@student.aura-student-risk.com,Computer Science,Computer Science,+60121000629,active,2026-06-11 19:14:24
+STU5267,Student 5267,stu5267@student.aura-student-risk.com,Data Science,Data Science,+60121000630,active,2026-06-11 19:14:24
+STU7418,Student 7418,stu7418@student.aura-student-risk.com,Business,Business,+60121000631,active,2026-06-11 19:14:24
+STU1594,Student 1594,stu1594@student.aura-student-risk.com,Business,Business,+60121000632,active,2026-06-11 19:14:24
+STU7619,Student 7619,stu7619@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000633,active,2026-06-11 19:14:24
+STU5854,Student 5854,stu5854@student.aura-student-risk.com,Computer Science,Computer Science,+60121000634,active,2026-06-11 19:14:24
+STU0795,Student 795,stu0795@student.aura-student-risk.com,Business,Business,+60121000635,active,2026-06-11 19:14:24
+STU8538,Student 8538,stu8538@student.aura-student-risk.com,Engineering,Engineering,+60121000636,active,2026-06-11 19:14:24
+STU9276,Student 9276,stu9276@student.aura-student-risk.com,Engineering,Engineering,+60121000637,active,2026-06-11 19:14:24
+STU9050,Student 9050,stu9050@student.aura-student-risk.com,Engineering,Engineering,+60121000638,active,2026-06-11 19:14:24
+STU4113,Student 4113,stu4113@student.aura-student-risk.com,Business,Business,+60121000639,active,2026-06-11 19:14:24
+STU1563,Student 1563,stu1563@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000640,active,2026-06-11 19:14:24
+STU3663,Student 3663,stu3663@student.aura-student-risk.com,Engineering,Engineering,+60121000641,active,2026-06-11 19:14:24
+STU4943,Student 4943,stu4943@student.aura-student-risk.com,Data Science,Data Science,+60121000642,active,2026-06-11 19:14:24
+STU8075,Student 8075,stu8075@student.aura-student-risk.com,Data Science,Data Science,+60121000643,active,2026-06-11 19:14:24
+STU5666,Student 5666,stu5666@student.aura-student-risk.com,Computer Science,Computer Science,+60121000644,active,2026-06-11 19:14:24
+STU1148,Student 1148,stu1148@student.aura-student-risk.com,Engineering,Engineering,+60121000645,active,2026-06-11 19:14:24
+STU2361,Student 2361,stu2361@student.aura-student-risk.com,Engineering,Engineering,+60121000646,active,2026-06-11 19:14:24
+STU9191,Student 9191,stu9191@student.aura-student-risk.com,Computer Science,Computer Science,+60121000647,active,2026-06-11 19:14:24
+STU7229,Student 7229,stu7229@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000648,active,2026-06-11 19:14:24
+STU4752,Student 4752,stu4752@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000649,active,2026-06-11 19:14:24
+STU3394,Student 3394,stu3394@student.aura-student-risk.com,Engineering,Engineering,+60121000650,active,2026-06-11 19:14:24
+STU4322,Student 4322,stu4322@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000651,active,2026-06-11 19:14:24
+STU9702,Student 9702,stu9702@student.aura-student-risk.com,Computer Science,Computer Science,+60121000652,active,2026-06-11 19:14:24
+STU3835,Student 3835,stu3835@student.aura-student-risk.com,Business,Business,+60121000653,active,2026-06-11 19:14:24
+STU7602,Student 7602,stu7602@student.aura-student-risk.com,Data Science,Data Science,+60121000654,active,2026-06-11 19:14:24
+STU4443,Student 4443,stu4443@student.aura-student-risk.com,Data Science,Data Science,+60121000655,active,2026-06-11 19:14:24
+STU6600,Student 6600,stu6600@student.aura-student-risk.com,Business,Business,+60121000656,active,2026-06-11 19:14:24
+STU9421,Student 9421,stu9421@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000657,active,2026-06-11 19:14:24
+STU0093,Student 93,stu0093@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000658,active,2026-06-11 19:14:24
+STU7822,Student 7822,stu7822@student.aura-student-risk.com,Engineering,Engineering,+60121000659,active,2026-06-11 19:14:24
+STU4823,Student 4823,stu4823@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000660,active,2026-06-11 19:14:24
+STU3016,Student 3016,stu3016@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000661,active,2026-06-11 19:14:24
+STU3071,Student 3071,stu3071@student.aura-student-risk.com,Computer Science,Computer Science,+60121000662,active,2026-06-11 19:14:24
+STU6443,Student 6443,stu6443@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000663,active,2026-06-11 19:14:24
+STU1510,Student 1510,stu1510@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000664,active,2026-06-11 19:14:24
+STU1374,Student 1374,stu1374@student.aura-student-risk.com,Data Science,Data Science,+60121000665,active,2026-06-11 19:14:24
+STU4614,Student 4614,stu4614@student.aura-student-risk.com,Business,Business,+60121000666,active,2026-06-11 19:14:24
+STU0081,Student 81,stu0081@student.aura-student-risk.com,Engineering,Engineering,+60121000667,active,2026-06-11 19:14:24
+STU3411,Student 3411,stu3411@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000668,active,2026-06-11 19:14:24
+STU7808,Student 7808,stu7808@student.aura-student-risk.com,Engineering,Engineering,+60121000669,active,2026-06-11 19:14:24
+STU8820,Student 8820,stu8820@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000670,active,2026-06-11 19:14:24
+STU6473,Student 6473,stu6473@student.aura-student-risk.com,Business,Business,+60121000671,active,2026-06-11 19:14:24
+STU2689,Student 2689,stu2689@student.aura-student-risk.com,Business,Business,+60121000672,active,2026-06-11 19:14:24
+STU1113,Student 1113,stu1113@student.aura-student-risk.com,Computer Science,Computer Science,+60121000673,active,2026-06-11 19:14:24
+STU5197,Student 5197,stu5197@student.aura-student-risk.com,Computer Science,Computer Science,+60121000674,active,2026-06-11 19:14:24
+STU4382,Student 4382,stu4382@student.aura-student-risk.com,Engineering,Engineering,+60121000675,active,2026-06-11 19:14:24
+STU6728,Student 6728,stu6728@student.aura-student-risk.com,Business,Business,+60121000676,active,2026-06-11 19:14:24
+STU5742,Student 5742,stu5742@student.aura-student-risk.com,Computer Science,Computer Science,+60121000677,active,2026-06-11 19:14:24
+STU0417,Student 417,stu0417@student.aura-student-risk.com,Engineering,Engineering,+60121000678,active,2026-06-11 19:14:24
+STU0959,Student 959,stu0959@student.aura-student-risk.com,Engineering,Engineering,+60121000679,active,2026-06-11 19:14:24
+STU5382,Student 5382,stu5382@student.aura-student-risk.com,Data Science,Data Science,+60121000680,active,2026-06-11 19:14:24
+STU3435,Student 3435,stu3435@student.aura-student-risk.com,Engineering,Engineering,+60121000681,active,2026-06-11 19:14:24
+STU7378,Student 7378,stu7378@student.aura-student-risk.com,Computer Science,Computer Science,+60121000682,active,2026-06-11 19:14:24
+STU8001,Student 8001,stu8001@student.aura-student-risk.com,Computer Science,Computer Science,+60121000683,active,2026-06-11 19:14:24
+STU4195,Student 4195,stu4195@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000684,active,2026-06-11 19:14:24
+STU9336,Student 9336,stu9336@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000685,active,2026-06-11 19:14:24
+STU1248,Student 1248,stu1248@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000686,active,2026-06-11 19:14:24
+STU8206,Student 8206,stu8206@student.aura-student-risk.com,Engineering,Engineering,+60121000687,active,2026-06-11 19:14:24
+STU6262,Student 6262,stu6262@student.aura-student-risk.com,Data Science,Data Science,+60121000688,active,2026-06-11 19:14:24
+STU7842,Student 7842,stu7842@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000689,active,2026-06-11 19:14:24
+STU2738,Student 2738,stu2738@student.aura-student-risk.com,Business,Business,+60121000690,active,2026-06-11 19:14:24
+STU7773,Student 7773,stu7773@student.aura-student-risk.com,Business,Business,+60121000691,active,2026-06-11 19:14:24
+STU6791,Student 6791,stu6791@student.aura-student-risk.com,Data Science,Data Science,+60121000692,active,2026-06-11 19:14:24
+STU6502,Student 6502,stu6502@student.aura-student-risk.com,Business,Business,+60121000693,active,2026-06-11 19:14:24
+STU8077,Student 8077,stu8077@student.aura-student-risk.com,Engineering,Engineering,+60121000694,active,2026-06-11 19:14:24
+STU5184,Student 5184,stu5184@student.aura-student-risk.com,Engineering,Engineering,+60121000695,active,2026-06-11 19:14:24
+STU9784,Student 9784,stu9784@student.aura-student-risk.com,Engineering,Engineering,+60121000696,active,2026-06-11 19:14:24
+STU7458,Student 7458,stu7458@student.aura-student-risk.com,Business,Business,+60121000697,active,2026-06-11 19:14:24
+STU7933,Student 7933,stu7933@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000698,active,2026-06-11 19:14:24
+STU3232,Student 3232,stu3232@student.aura-student-risk.com,Computer Science,Computer Science,+60121000699,active,2026-06-11 19:14:24
+STU0312,Student 312,stu0312@student.aura-student-risk.com,Business,Business,+60121000700,active,2026-06-11 19:14:24
+STU8343,Student 8343,stu8343@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000701,active,2026-06-11 19:14:24
+STU0519,Student 519,stu0519@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000702,active,2026-06-11 19:14:24
+STU7908,Student 7908,stu7908@student.aura-student-risk.com,Computer Science,Computer Science,+60121000703,active,2026-06-11 19:14:24
+STU0488,Student 488,stu0488@student.aura-student-risk.com,Business,Business,+60121000704,active,2026-06-11 19:14:24
+STU9203,Student 9203,stu9203@student.aura-student-risk.com,Business,Business,+60121000705,active,2026-06-11 19:14:24
+STU3791,Student 3791,stu3791@student.aura-student-risk.com,Engineering,Engineering,+60121000706,active,2026-06-11 19:14:24
+STU0260,Student 260,stu0260@student.aura-student-risk.com,Engineering,Engineering,+60121000707,active,2026-06-11 19:14:24
+STU8847,Student 8847,stu8847@student.aura-student-risk.com,Data Science,Data Science,+60121000708,active,2026-06-11 19:14:24
+STU5199,Student 5199,stu5199@student.aura-student-risk.com,Business,Business,+60121000709,active,2026-06-11 19:14:24
+STU3913,Student 3913,stu3913@student.aura-student-risk.com,Data Science,Data Science,+60121000710,active,2026-06-11 19:14:24
+STU0971,Student 971,stu0971@student.aura-student-risk.com,Engineering,Engineering,+60121000711,active,2026-06-11 19:14:24
+STU3161,Student 3161,stu3161@student.aura-student-risk.com,Computer Science,Computer Science,+60121000712,active,2026-06-11 19:14:24
+STU1262,Student 1262,stu1262@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000713,active,2026-06-11 19:14:24
+STU4517,Student 4517,stu4517@student.aura-student-risk.com,Computer Science,Computer Science,+60121000714,active,2026-06-11 19:14:24
+STU8081,Student 8081,stu8081@student.aura-student-risk.com,Business,Business,+60121000715,active,2026-06-11 19:14:24
+STU2909,Student 2909,stu2909@student.aura-student-risk.com,Business,Business,+60121000716,active,2026-06-11 19:14:24
+STU4270,Student 4270,stu4270@student.aura-student-risk.com,Business,Business,+60121000717,active,2026-06-11 19:14:24
+STU2856,Student 2856,stu2856@student.aura-student-risk.com,Engineering,Engineering,+60121000718,active,2026-06-11 19:14:24
+STU8404,Student 8404,stu8404@student.aura-student-risk.com,Engineering,Engineering,+60121000719,active,2026-06-11 19:14:24
+STU0714,Student 714,stu0714@student.aura-student-risk.com,Data Science,Data Science,+60121000720,active,2026-06-11 19:14:24
+STU2499,Student 2499,stu2499@student.aura-student-risk.com,Data Science,Data Science,+60121000721,active,2026-06-11 19:14:24
+STU7236,Student 7236,stu7236@student.aura-student-risk.com,Business,Business,+60121000722,active,2026-06-11 19:14:24
+STU0622,Student 622,stu0622@student.aura-student-risk.com,Engineering,Engineering,+60121000723,active,2026-06-11 19:14:24
+STU7931,Student 7931,stu7931@student.aura-student-risk.com,Business,Business,+60121000724,active,2026-06-11 19:14:24
+STU5441,Student 5441,stu5441@student.aura-student-risk.com,Business,Business,+60121000725,active,2026-06-11 19:14:24
+STU3899,Student 3899,stu3899@student.aura-student-risk.com,Engineering,Engineering,+60121000726,active,2026-06-11 19:14:24
+STU5704,Student 5704,stu5704@student.aura-student-risk.com,Computer Science,Computer Science,+60121000727,active,2026-06-11 19:14:24
+STU3101,Student 3101,stu3101@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000728,active,2026-06-11 19:14:24
+STU8314,Student 8314,stu8314@student.aura-student-risk.com,Computer Science,Computer Science,+60121000729,active,2026-06-11 19:14:24
+STU5911,Student 5911,stu5911@student.aura-student-risk.com,Engineering,Engineering,+60121000730,active,2026-06-11 19:14:24
+STU4514,Student 4514,stu4514@student.aura-student-risk.com,Business,Business,+60121000731,active,2026-06-11 19:14:24
+STU8966,Student 8966,stu8966@student.aura-student-risk.com,Business,Business,+60121000732,active,2026-06-11 19:14:24
+STU2628,Student 2628,stu2628@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000733,active,2026-06-11 19:14:24
+STU0305,Student 305,stu0305@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000734,active,2026-06-11 19:14:24
+STU0361,Student 361,stu0361@student.aura-student-risk.com,Business,Business,+60121000735,active,2026-06-11 19:14:24
+STU6790,Student 6790,stu6790@student.aura-student-risk.com,Data Science,Data Science,+60121000736,active,2026-06-11 19:14:24
+STU7059,Student 7059,stu7059@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000737,active,2026-06-11 19:14:24
+STU9413,Student 9413,stu9413@student.aura-student-risk.com,Computer Science,Computer Science,+60121000738,active,2026-06-11 19:14:24
+STU0994,Student 994,stu0994@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000739,active,2026-06-11 19:14:24
+STU2233,Student 2233,stu2233@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000740,active,2026-06-11 19:14:24
+STU8021,Student 8021,stu8021@student.aura-student-risk.com,Business,Business,+60121000741,active,2026-06-11 19:14:24
+STU8895,Student 8895,stu8895@student.aura-student-risk.com,Business,Business,+60121000742,active,2026-06-11 19:14:24
+STU9645,Student 9645,stu9645@student.aura-student-risk.com,Business,Business,+60121000743,active,2026-06-11 19:14:24
+STU0107,Student 107,stu0107@student.aura-student-risk.com,Computer Science,Computer Science,+60121000744,active,2026-06-11 19:14:24
+STU2068,Student 2068,stu2068@student.aura-student-risk.com,Engineering,Engineering,+60121000745,active,2026-06-11 19:14:24
+STU0736,Student 736,stu0736@student.aura-student-risk.com,Business,Business,+60121000746,active,2026-06-11 19:14:24
+STU7508,Student 7508,stu7508@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000747,active,2026-06-11 19:14:24
+STU4203,Student 4203,stu4203@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000748,active,2026-06-11 19:14:24
+STU0030,Student 30,stu0030@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000749,active,2026-06-11 19:14:24
+STU4387,Student 4387,stu4387@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000750,active,2026-06-11 19:14:24
+STU5675,Student 5675,stu5675@student.aura-student-risk.com,Business,Business,+60121000751,active,2026-06-11 19:14:24
+STU0032,Student 32,stu0032@student.aura-student-risk.com,Engineering,Engineering,+60121000752,active,2026-06-11 19:14:24
+STU5310,Student 5310,stu5310@student.aura-student-risk.com,Business,Business,+60121000753,active,2026-06-11 19:14:24
+STU6898,Student 6898,stu6898@student.aura-student-risk.com,Data Science,Data Science,+60121000754,active,2026-06-11 19:14:24
+STU5270,Student 5270,stu5270@student.aura-student-risk.com,Business,Business,+60121000755,active,2026-06-11 19:14:24
+STU8447,Student 8447,stu8447@student.aura-student-risk.com,Data Science,Data Science,+60121000756,active,2026-06-11 19:14:24
+STU3818,Student 3818,stu3818@student.aura-student-risk.com,Data Science,Data Science,+60121000757,active,2026-06-11 19:14:24
+STU6040,Student 6040,stu6040@student.aura-student-risk.com,Computer Science,Computer Science,+60121000758,active,2026-06-11 19:14:24
+STU6006,Student 6006,stu6006@student.aura-student-risk.com,Computer Science,Computer Science,+60121000759,active,2026-06-11 19:14:24
+STU4748,Student 4748,stu4748@student.aura-student-risk.com,Data Science,Data Science,+60121000760,active,2026-06-11 19:14:24
+STU1348,Student 1348,stu1348@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000761,active,2026-06-11 19:14:24
+STU1069,Student 1069,stu1069@student.aura-student-risk.com,Data Science,Data Science,+60121000762,active,2026-06-11 19:14:24
+STU5422,Student 5422,stu5422@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000763,active,2026-06-11 19:14:24
+STU6831,Student 6831,stu6831@student.aura-student-risk.com,Data Science,Data Science,+60121000764,active,2026-06-11 19:14:24
+STU7888,Student 7888,stu7888@student.aura-student-risk.com,Computer Science,Computer Science,+60121000765,active,2026-06-11 19:14:24
+STU0034,Student 34,stu0034@student.aura-student-risk.com,Data Science,Data Science,+60121000766,active,2026-06-11 19:14:24
+STU6518,Student 6518,stu6518@student.aura-student-risk.com,Engineering,Engineering,+60121000767,active,2026-06-11 19:14:24
+STU7792,Student 7792,stu7792@student.aura-student-risk.com,Business,Business,+60121000768,active,2026-06-11 19:14:24
+STU0120,Student 120,stu0120@student.aura-student-risk.com,Business,Business,+60121000769,active,2026-06-11 19:14:24
+STU8792,Student 8792,stu8792@student.aura-student-risk.com,Engineering,Engineering,+60121000770,active,2026-06-11 19:14:24
+STU1513,Student 1513,stu1513@student.aura-student-risk.com,Computer Science,Computer Science,+60121000771,active,2026-06-11 19:14:24
+STU6682,Student 6682,stu6682@student.aura-student-risk.com,Engineering,Engineering,+60121000772,active,2026-06-11 19:14:24
+STU0097,Student 97,stu0097@student.aura-student-risk.com,Engineering,Engineering,+60121000773,active,2026-06-11 19:14:24
+STU9418,Student 9418,stu9418@student.aura-student-risk.com,Computer Science,Computer Science,+60121000774,active,2026-06-11 19:14:24
+STU8182,Student 8182,stu8182@student.aura-student-risk.com,Engineering,Engineering,+60121000775,active,2026-06-11 19:14:24
+STU5795,Student 5795,stu5795@student.aura-student-risk.com,Business,Business,+60121000776,active,2026-06-11 19:14:24
+STU0511,Student 511,stu0511@student.aura-student-risk.com,Engineering,Engineering,+60121000777,active,2026-06-11 19:14:24
+STU3123,Student 3123,stu3123@student.aura-student-risk.com,Engineering,Engineering,+60121000778,active,2026-06-11 19:14:24
+STU6293,Student 6293,stu6293@student.aura-student-risk.com,Business,Business,+60121000779,active,2026-06-11 19:14:24
+STU1225,Student 1225,stu1225@student.aura-student-risk.com,Engineering,Engineering,+60121000780,active,2026-06-11 19:14:24
+STU9150,Student 9150,stu9150@student.aura-student-risk.com,Data Science,Data Science,+60121000781,active,2026-06-11 19:14:24
+STU4082,Student 4082,stu4082@student.aura-student-risk.com,Engineering,Engineering,+60121000782,active,2026-06-11 19:14:24
+STU3400,Student 3400,stu3400@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000783,active,2026-06-11 19:14:24
+STU4696,Student 4696,stu4696@student.aura-student-risk.com,Computer Science,Computer Science,+60121000784,active,2026-06-11 19:14:24
+STU3351,Student 3351,stu3351@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000785,active,2026-06-11 19:14:24
+STU5971,Student 5971,stu5971@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000786,active,2026-06-11 19:14:24
+STU7953,Student 7953,stu7953@student.aura-student-risk.com,Data Science,Data Science,+60121000787,active,2026-06-11 19:14:24
+STU4217,Student 4217,stu4217@student.aura-student-risk.com,Engineering,Engineering,+60121000788,active,2026-06-11 19:14:24
+STU7217,Student 7217,stu7217@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000789,active,2026-06-11 19:14:24
+STU4072,Student 4072,stu4072@student.aura-student-risk.com,Computer Science,Computer Science,+60121000790,active,2026-06-11 19:14:24
+STU2345,Student 2345,stu2345@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000791,active,2026-06-11 19:14:24
+STU0766,Student 766,stu0766@student.aura-student-risk.com,Computer Science,Computer Science,+60121000792,active,2026-06-11 19:14:24
+STU7641,Student 7641,stu7641@student.aura-student-risk.com,Business,Business,+60121000793,active,2026-06-11 19:14:24
+STU4050,Student 4050,stu4050@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000794,active,2026-06-11 19:14:24
+STU8710,Student 8710,stu8710@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000795,active,2026-06-11 19:14:24
+STU1124,Student 1124,stu1124@student.aura-student-risk.com,Data Science,Data Science,+60121000796,active,2026-06-11 19:14:24
+STU4004,Student 4004,stu4004@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000797,active,2026-06-11 19:14:24
+STU6744,Student 6744,stu6744@student.aura-student-risk.com,Computer Science,Computer Science,+60121000798,active,2026-06-11 19:14:24
+STU5528,Student 5528,stu5528@student.aura-student-risk.com,Computer Science,Computer Science,+60121000799,active,2026-06-11 19:14:24
+STU2341,Student 2341,stu2341@student.aura-student-risk.com,Data Science,Data Science,+60121000800,active,2026-06-11 19:14:24
+STU9124,Student 9124,stu9124@student.aura-student-risk.com,Business,Business,+60121000801,active,2026-06-11 19:14:24
+STU7851,Student 7851,stu7851@student.aura-student-risk.com,Computer Science,Computer Science,+60121000802,active,2026-06-11 19:14:24
+STU1863,Student 1863,stu1863@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000803,active,2026-06-11 19:14:24
+STU2166,Student 2166,stu2166@student.aura-student-risk.com,Computer Science,Computer Science,+60121000804,active,2026-06-11 19:14:24
+STU6844,Student 6844,stu6844@student.aura-student-risk.com,Data Science,Data Science,+60121000805,active,2026-06-11 19:14:24
+STU8094,Student 8094,stu8094@student.aura-student-risk.com,Engineering,Engineering,+60121000806,active,2026-06-11 19:14:24
+STU4904,Student 4904,stu4904@student.aura-student-risk.com,Data Science,Data Science,+60121000807,active,2026-06-11 19:14:24
+STU5020,Student 5020,stu5020@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000808,active,2026-06-11 19:14:24
+STU0765,Student 765,stu0765@student.aura-student-risk.com,Data Science,Data Science,+60121000809,active,2026-06-11 19:14:24
+STU7232,Student 7232,stu7232@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000810,active,2026-06-11 19:14:24
+STU7540,Student 7540,stu7540@student.aura-student-risk.com,Business,Business,+60121000811,active,2026-06-11 19:14:24
+STU7826,Student 7826,stu7826@student.aura-student-risk.com,Business,Business,+60121000812,active,2026-06-11 19:14:24
+STU9190,Student 9190,stu9190@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000813,active,2026-06-11 19:14:24
+STU3788,Student 3788,stu3788@student.aura-student-risk.com,Data Science,Data Science,+60121000814,active,2026-06-11 19:14:24
+STU3155,Student 3155,stu3155@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000815,active,2026-06-11 19:14:24
+STU1057,Student 1057,stu1057@student.aura-student-risk.com,Computer Science,Computer Science,+60121000816,active,2026-06-11 19:14:24
+STU9239,Student 9239,stu9239@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000817,active,2026-06-11 19:14:24
+STU7943,Student 7943,stu7943@student.aura-student-risk.com,Computer Science,Computer Science,+60121000818,active,2026-06-11 19:14:24
+STU7439,Student 7439,stu7439@student.aura-student-risk.com,Computer Science,Computer Science,+60121000819,active,2026-06-11 19:14:24
+STU7771,Student 7771,stu7771@student.aura-student-risk.com,Business,Business,+60121000820,active,2026-06-11 19:14:24
+STU9002,Student 9002,stu9002@student.aura-student-risk.com,Engineering,Engineering,+60121000821,active,2026-06-11 19:14:24
+STU3007,Student 3007,stu3007@student.aura-student-risk.com,Computer Science,Computer Science,+60121000822,active,2026-06-11 19:14:24
+STU3306,Student 3306,stu3306@student.aura-student-risk.com,Computer Science,Computer Science,+60121000823,active,2026-06-11 19:14:24
+STU3146,Student 3146,stu3146@student.aura-student-risk.com,Business,Business,+60121000824,active,2026-06-11 19:14:24
+STU5862,Student 5862,stu5862@student.aura-student-risk.com,Business,Business,+60121000825,active,2026-06-11 19:14:24
+STU3858,Student 3858,stu3858@student.aura-student-risk.com,Data Science,Data Science,+60121000826,active,2026-06-11 19:14:24
+STU5360,Student 5360,stu5360@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000827,active,2026-06-11 19:14:24
+STU0953,Student 953,stu0953@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000828,active,2026-06-11 19:14:24
+STU9055,Student 9055,stu9055@student.aura-student-risk.com,Data Science,Data Science,+60121000829,active,2026-06-11 19:14:24
+STU2021,Student 2021,stu2021@student.aura-student-risk.com,Business,Business,+60121000830,active,2026-06-11 19:14:24
+STU8576,Student 8576,stu8576@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000831,active,2026-06-11 19:14:24
+STU6688,Student 6688,stu6688@student.aura-student-risk.com,Business,Business,+60121000832,active,2026-06-11 19:14:24
+STU0972,Student 972,stu0972@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000833,active,2026-06-11 19:14:24
+STU8179,Student 8179,stu8179@student.aura-student-risk.com,Data Science,Data Science,+60121000834,active,2026-06-11 19:14:24
+STU2928,Student 2928,stu2928@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000835,active,2026-06-11 19:14:24
+STU2895,Student 2895,stu2895@student.aura-student-risk.com,Data Science,Data Science,+60121000836,active,2026-06-11 19:14:24
+STU3571,Student 3571,stu3571@student.aura-student-risk.com,Business,Business,+60121000837,active,2026-06-11 19:14:24
+STU0800,Student 800,stu0800@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000838,active,2026-06-11 19:14:24
+STU5324,Student 5324,stu5324@student.aura-student-risk.com,Data Science,Data Science,+60121000839,active,2026-06-11 19:14:24
+STU2877,Student 2877,stu2877@student.aura-student-risk.com,Computer Science,Computer Science,+60121000840,active,2026-06-11 19:14:24
+STU6232,Student 6232,stu6232@student.aura-student-risk.com,Computer Science,Computer Science,+60121000841,active,2026-06-11 19:14:24
+STU9754,Student 9754,stu9754@student.aura-student-risk.com,Business,Business,+60121000842,active,2026-06-11 19:14:24
+STU2754,Student 2754,stu2754@student.aura-student-risk.com,Data Science,Data Science,+60121000843,active,2026-06-11 19:14:24
+STU8188,Student 8188,stu8188@student.aura-student-risk.com,Business,Business,+60121000844,active,2026-06-11 19:14:24
+STU1316,Student 1316,stu1316@student.aura-student-risk.com,Engineering,Engineering,+60121000845,active,2026-06-11 19:14:24
+STU0108,Student 108,stu0108@student.aura-student-risk.com,Engineering,Engineering,+60121000846,active,2026-06-11 19:14:24
+STU6078,Student 6078,stu6078@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000847,active,2026-06-11 19:14:24
+STU7967,Student 7967,stu7967@student.aura-student-risk.com,Data Science,Data Science,+60121000848,active,2026-06-11 19:14:24
+STU1189,Student 1189,stu1189@student.aura-student-risk.com,Engineering,Engineering,+60121000849,active,2026-06-11 19:14:24
+STU2593,Student 2593,stu2593@student.aura-student-risk.com,Data Science,Data Science,+60121000850,active,2026-06-11 19:14:24
+STU2546,Student 2546,stu2546@student.aura-student-risk.com,Engineering,Engineering,+60121000851,active,2026-06-11 19:14:24
+STU9656,Student 9656,stu9656@student.aura-student-risk.com,Computer Science,Computer Science,+60121000852,active,2026-06-11 19:14:24
+STU3040,Student 3040,stu3040@student.aura-student-risk.com,Data Science,Data Science,+60121000853,active,2026-06-11 19:14:24
+STU7939,Student 7939,stu7939@student.aura-student-risk.com,Data Science,Data Science,+60121000854,active,2026-06-11 19:14:24
+STU3033,Student 3033,stu3033@student.aura-student-risk.com,Computer Science,Computer Science,+60121000855,active,2026-06-11 19:14:24
+STU8128,Student 8128,stu8128@student.aura-student-risk.com,Data Science,Data Science,+60121000856,active,2026-06-11 19:14:24
+STU4994,Student 4994,stu4994@student.aura-student-risk.com,Computer Science,Computer Science,+60121000857,active,2026-06-11 19:14:24
+STU8285,Student 8285,stu8285@student.aura-student-risk.com,Computer Science,Computer Science,+60121000858,active,2026-06-11 19:14:24
+STU3724,Student 3724,stu3724@student.aura-student-risk.com,Data Science,Data Science,+60121000859,active,2026-06-11 19:14:24
+STU2305,Student 2305,stu2305@student.aura-student-risk.com,Computer Science,Computer Science,+60121000860,active,2026-06-11 19:14:24
+STU1761,Student 1761,stu1761@student.aura-student-risk.com,Engineering,Engineering,+60121000861,active,2026-06-11 19:14:24
+STU3466,Student 3466,stu3466@student.aura-student-risk.com,Engineering,Engineering,+60121000862,active,2026-06-11 19:14:24
+STU4820,Student 4820,stu4820@student.aura-student-risk.com,Business,Business,+60121000863,active,2026-06-11 19:14:24
+STU0040,Student 40,stu0040@student.aura-student-risk.com,Data Science,Data Science,+60121000864,active,2026-06-11 19:14:24
+STU9318,Student 9318,stu9318@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000865,active,2026-06-11 19:14:24
+STU1514,Student 1514,stu1514@student.aura-student-risk.com,Computer Science,Computer Science,+60121000866,active,2026-06-11 19:14:24
+STU8363,Student 8363,stu8363@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000867,active,2026-06-11 19:14:24
+STU0036,Student 36,stu0036@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000868,active,2026-06-11 19:14:24
+STU5548,Student 5548,stu5548@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000869,active,2026-06-11 19:14:24
+STU6631,Student 6631,stu6631@student.aura-student-risk.com,Computer Science,Computer Science,+60121000870,active,2026-06-11 19:14:24
+STU3974,Student 3974,stu3974@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000871,active,2026-06-11 19:14:24
+STU0252,Student 252,stu0252@student.aura-student-risk.com,Business,Business,+60121000872,active,2026-06-11 19:14:24
+STU5590,Student 5590,stu5590@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000873,active,2026-06-11 19:14:24
+STU3338,Student 3338,stu3338@student.aura-student-risk.com,Computer Science,Computer Science,+60121000874,active,2026-06-11 19:14:24
+STU8329,Student 8329,stu8329@student.aura-student-risk.com,Data Science,Data Science,+60121000875,active,2026-06-11 19:14:24
+STU4950,Student 4950,stu4950@student.aura-student-risk.com,Data Science,Data Science,+60121000876,active,2026-06-11 19:14:24
+STU4626,Student 4626,stu4626@student.aura-student-risk.com,Engineering,Engineering,+60121000877,active,2026-06-11 19:14:24
+STU2679,Student 2679,stu2679@student.aura-student-risk.com,Data Science,Data Science,+60121000878,active,2026-06-11 19:14:24
+STU0322,Student 322,stu0322@student.aura-student-risk.com,Business,Business,+60121000879,active,2026-06-11 19:14:24
+STU8848,Student 8848,stu8848@student.aura-student-risk.com,Engineering,Engineering,+60121000880,active,2026-06-11 19:14:24
+STU6591,Student 6591,stu6591@student.aura-student-risk.com,Engineering,Engineering,+60121000881,active,2026-06-11 19:14:24
+STU8244,Student 8244,stu8244@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000882,active,2026-06-11 19:14:24
+STU1964,Student 1964,stu1964@student.aura-student-risk.com,Data Science,Data Science,+60121000883,active,2026-06-11 19:14:24
+STU9921,Student 9921,stu9921@student.aura-student-risk.com,Computer Science,Computer Science,+60121000884,active,2026-06-11 19:14:24
+STU4948,Student 4948,stu4948@student.aura-student-risk.com,Engineering,Engineering,+60121000885,active,2026-06-11 19:14:24
+STU9486,Student 9486,stu9486@student.aura-student-risk.com,Computer Science,Computer Science,+60121000886,active,2026-06-11 19:14:24
+STU4641,Student 4641,stu4641@student.aura-student-risk.com,Business,Business,+60121000887,active,2026-06-11 19:14:24
+STU2250,Student 2250,stu2250@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000888,active,2026-06-11 19:14:24
+STU9897,Student 9897,stu9897@student.aura-student-risk.com,Computer Science,Computer Science,+60121000889,active,2026-06-11 19:14:24
+STU8159,Student 8159,stu8159@student.aura-student-risk.com,Business,Business,+60121000890,active,2026-06-11 19:14:24
+STU7052,Student 7052,stu7052@student.aura-student-risk.com,Computer Science,Computer Science,+60121000891,active,2026-06-11 19:14:24
+STU9931,Student 9931,stu9931@student.aura-student-risk.com,Engineering,Engineering,+60121000892,active,2026-06-11 19:14:24
+STU0583,Student 583,stu0583@student.aura-student-risk.com,Computer Science,Computer Science,+60121000893,active,2026-06-11 19:14:24
+STU6034,Student 6034,stu6034@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000894,active,2026-06-11 19:14:24
+STU4000,Student 4000,stu4000@student.aura-student-risk.com,Computer Science,Computer Science,+60121000895,active,2026-06-11 19:14:24
+STU5654,Student 5654,stu5654@student.aura-student-risk.com,Business,Business,+60121000896,active,2026-06-11 19:14:24
+STU5273,Student 5273,stu5273@student.aura-student-risk.com,Data Science,Data Science,+60121000897,active,2026-06-11 19:14:24
+STU7488,Student 7488,stu7488@student.aura-student-risk.com,Computer Science,Computer Science,+60121000898,active,2026-06-11 19:14:24
+STU2751,Student 2751,stu2751@student.aura-student-risk.com,Computer Science,Computer Science,+60121000899,active,2026-06-11 19:14:24
+STU0440,Student 440,stu0440@student.aura-student-risk.com,Data Science,Data Science,+60121000900,active,2026-06-11 19:14:24
+STU6364,Student 6364,stu6364@student.aura-student-risk.com,Engineering,Engineering,+60121000901,active,2026-06-11 19:14:24
+STU5203,Student 5203,stu5203@student.aura-student-risk.com,Computer Science,Computer Science,+60121000902,active,2026-06-11 19:14:24
+STU0577,Student 577,stu0577@student.aura-student-risk.com,Engineering,Engineering,+60121000903,active,2026-06-11 19:14:24
+STU6341,Student 6341,stu6341@student.aura-student-risk.com,Data Science,Data Science,+60121000904,active,2026-06-11 19:14:24
+0349937,Daniel,0349937@student.aura-student-risk.com,Business,Business,+60121000905,active,2026-06-11 19:14:24
+STU0338,Student 338,stu0338@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000906,active,2026-06-11 19:14:24
+STU0337,Student 337,stu0337@student.aura-student-risk.com,Business,Business,+60121000907,active,2026-06-11 19:14:24
+STU0336,Student 336,stu0336@student.aura-student-risk.com,Business,Business,+60121000908,active,2026-06-11 19:14:24
+STU0335,Student 335,stu0335@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000909,active,2026-06-11 19:14:24
+STU0333,Student 333,stu0333@student.aura-student-risk.com,Data Science,Data Science,+60121000910,active,2026-06-11 19:14:24
+STU0332,Student 332,stu0332@student.aura-student-risk.com,Data Science,Data Science,+60121000911,active,2026-06-11 19:14:24
+STU0331,Student 331,stu0331@student.aura-student-risk.com,Data Science,Data Science,+60121000912,active,2026-06-11 19:14:24
+STU0330,Student 330,stu0330@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000913,active,2026-06-11 19:14:24
+STU0329,Student 329,stu0329@student.aura-student-risk.com,Engineering,Engineering,+60121000914,active,2026-06-11 19:14:24
+STU0328,Student 328,stu0328@student.aura-student-risk.com,Computer Science,Computer Science,+60121000915,active,2026-06-11 19:14:24
+STU0327,Student 327,stu0327@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000916,active,2026-06-11 19:14:24
+STU0326,Student 326,stu0326@student.aura-student-risk.com,Business,Business,+60121000917,active,2026-06-11 19:14:24
+STU0325,Student 325,stu0325@student.aura-student-risk.com,Computer Science,Computer Science,+60121000918,active,2026-06-11 19:14:24
+STU0324,Student 324,stu0324@student.aura-student-risk.com,Computer Science,Computer Science,+60121000919,active,2026-06-11 19:14:24
+STU0323,Student 323,stu0323@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000920,active,2026-06-11 19:14:24
+STU0321,Student 321,stu0321@student.aura-student-risk.com,Data Science,Data Science,+60121000921,active,2026-06-11 19:14:24
+STU0320,Student 320,stu0320@student.aura-student-risk.com,Business,Business,+60121000922,active,2026-06-11 19:14:24
+STU0319,Student 319,stu0319@student.aura-student-risk.com,Engineering,Engineering,+60121000923,active,2026-06-11 19:14:24
+STU0318,Student 318,stu0318@student.aura-student-risk.com,Computer Science,Computer Science,+60121000924,active,2026-06-11 19:14:24
+STU0317,Student 317,stu0317@student.aura-student-risk.com,Data Science,Data Science,+60121000925,active,2026-06-11 19:14:24
+STU0316,Student 316,stu0316@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000926,active,2026-06-11 19:14:24
+STU0315,Student 315,stu0315@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000927,active,2026-06-11 19:14:24
+STU0314,Student 314,stu0314@student.aura-student-risk.com,Data Science,Data Science,+60121000928,active,2026-06-11 19:14:24
+STU0313,Student 313,stu0313@student.aura-student-risk.com,Engineering,Engineering,+60121000929,active,2026-06-11 19:14:24
+STU0311,Student 311,stu0311@student.aura-student-risk.com,Data Science,Data Science,+60121000930,active,2026-06-11 19:14:24
+STU0310,Student 310,stu0310@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000931,active,2026-06-11 19:14:24
+STU0309,Student 309,stu0309@student.aura-student-risk.com,Business,Business,+60121000932,active,2026-06-11 19:14:24
+STU0308,Student 308,stu0308@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000933,active,2026-06-11 19:14:24
+STU0307,Student 307,stu0307@student.aura-student-risk.com,Business,Business,+60121000934,active,2026-06-11 19:14:24
+STU0306,Student 306,stu0306@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000935,active,2026-06-11 19:14:24
+STU0303,Student 303,stu0303@student.aura-student-risk.com,Engineering,Engineering,+60121000936,active,2026-06-11 19:14:24
+STU0302,Student 302,stu0302@student.aura-student-risk.com,Engineering,Engineering,+60121000937,active,2026-06-11 19:14:24
+STU0301,Student 301,stu0301@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000938,active,2026-06-11 19:14:24
+STU0300,Student 300,stu0300@student.aura-student-risk.com,Engineering,Engineering,+60121000939,active,2026-06-11 19:14:24
+STU0299,Student 299,stu0299@student.aura-student-risk.com,Engineering,Engineering,+60121000940,active,2026-06-11 19:14:24
+STU0298,Student 298,stu0298@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000941,active,2026-06-11 19:14:24
+STU0297,Student 297,stu0297@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000942,active,2026-06-11 19:14:24
+STU0296,Student 296,stu0296@student.aura-student-risk.com,Engineering,Engineering,+60121000943,active,2026-06-11 19:14:24
+STU0295,Student 295,stu0295@student.aura-student-risk.com,Business,Business,+60121000944,active,2026-06-11 19:14:24
+STU0294,Student 294,stu0294@student.aura-student-risk.com,Computer Science,Computer Science,+60121000945,active,2026-06-11 19:14:24
+STU0293,Student 293,stu0293@student.aura-student-risk.com,Business,Business,+60121000946,active,2026-06-11 19:14:24
+STU0292,Student 292,stu0292@student.aura-student-risk.com,Engineering,Engineering,+60121000947,active,2026-06-11 19:14:24
+STU0290,Student 290,stu0290@student.aura-student-risk.com,Business,Business,+60121000948,active,2026-06-11 19:14:24
+STU0289,Student 289,stu0289@student.aura-student-risk.com,Data Science,Data Science,+60121000949,active,2026-06-11 19:14:24
+STU0288,Student 288,stu0288@student.aura-student-risk.com,Computer Science,Computer Science,+60121000950,active,2026-06-11 19:14:24
+STU0287,Student 287,stu0287@student.aura-student-risk.com,Business,Business,+60121000951,active,2026-06-11 19:14:24
+STU0286,Student 286,stu0286@student.aura-student-risk.com,Business,Business,+60121000952,active,2026-06-11 19:14:24
+STU0285,Student 285,stu0285@student.aura-student-risk.com,Engineering,Engineering,+60121000953,active,2026-06-11 19:14:24
+STU0284,Student 284,stu0284@student.aura-student-risk.com,Computer Science,Computer Science,+60121000954,active,2026-06-11 19:14:24
+STU0283,Student 283,stu0283@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000955,active,2026-06-11 19:14:24
+STU0282,Student 282,stu0282@student.aura-student-risk.com,Data Science,Data Science,+60121000956,active,2026-06-11 19:14:24
+STU0281,Student 281,stu0281@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000957,active,2026-06-11 19:14:24
+STU0280,Student 280,stu0280@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000958,active,2026-06-11 19:14:24
+STU0279,Student 279,stu0279@student.aura-student-risk.com,Engineering,Engineering,+60121000959,active,2026-06-11 19:14:24
+STU0278,Student 278,stu0278@student.aura-student-risk.com,Computer Science,Computer Science,+60121000960,active,2026-06-11 19:14:24
+STU0277,Student 277,stu0277@student.aura-student-risk.com,Computer Science,Computer Science,+60121000961,active,2026-06-11 19:14:24
+STU0276,Student 276,stu0276@student.aura-student-risk.com,Computer Science,Computer Science,+60121000962,active,2026-06-11 19:14:24
+STU0275,Student 275,stu0275@student.aura-student-risk.com,Computer Science,Computer Science,+60121000963,active,2026-06-11 19:14:24
+STU0274,Student 274,stu0274@student.aura-student-risk.com,Engineering,Engineering,+60121000964,active,2026-06-11 19:14:24
+STU0273,Student 273,stu0273@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000965,active,2026-06-11 19:14:24
+STU0272,Student 272,stu0272@student.aura-student-risk.com,Data Science,Data Science,+60121000966,active,2026-06-11 19:14:24
+STU0271,Student 271,stu0271@student.aura-student-risk.com,Data Science,Data Science,+60121000967,active,2026-06-11 19:14:24
+STU0270,Student 270,stu0270@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000968,active,2026-06-11 19:14:24
+STU0269,Student 269,stu0269@student.aura-student-risk.com,Business,Business,+60121000969,active,2026-06-11 19:14:24
+STU0268,Student 268,stu0268@student.aura-student-risk.com,Computer Science,Computer Science,+60121000970,active,2026-06-11 19:14:24
+STU0267,Student 267,stu0267@student.aura-student-risk.com,Engineering,Engineering,+60121000971,active,2026-06-11 19:14:24
+STU0266,Student 266,stu0266@student.aura-student-risk.com,Business,Business,+60121000972,active,2026-06-11 19:14:24
+STU0265,Student 265,stu0265@student.aura-student-risk.com,Engineering,Engineering,+60121000973,active,2026-06-11 19:14:24
+STU0263,Student 263,stu0263@student.aura-student-risk.com,Data Science,Data Science,+60121000974,active,2026-06-11 19:14:24
+STU0262,Student 262,stu0262@student.aura-student-risk.com,Engineering,Engineering,+60121000975,active,2026-06-11 19:14:24
+STU0261,Student 261,stu0261@student.aura-student-risk.com,Computer Science,Computer Science,+60121000976,active,2026-06-11 19:14:24
+STU0259,Student 259,stu0259@student.aura-student-risk.com,Engineering,Engineering,+60121000977,active,2026-06-11 19:14:24
+STU0258,Student 258,stu0258@student.aura-student-risk.com,Business,Business,+60121000978,active,2026-06-11 19:14:24
+STU0257,Student 257,stu0257@student.aura-student-risk.com,Engineering,Engineering,+60121000979,active,2026-06-11 19:14:24
+STU0256,Student 256,stu0256@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000980,active,2026-06-11 19:14:24
+STU0255,Student 255,stu0255@student.aura-student-risk.com,Engineering,Engineering,+60121000981,active,2026-06-11 19:14:24
+STU0254,Student 254,stu0254@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000982,active,2026-06-11 19:14:24
+STU0253,Student 253,stu0253@student.aura-student-risk.com,Computer Science,Computer Science,+60121000983,active,2026-06-11 19:14:24
+STU0251,Student 251,stu0251@student.aura-student-risk.com,Engineering,Engineering,+60121000984,active,2026-06-11 19:14:24
+STU0250,Student 250,stu0250@student.aura-student-risk.com,Data Science,Data Science,+60121000985,active,2026-06-11 19:14:24
+STU0249,Student 249,stu0249@student.aura-student-risk.com,Data Science,Data Science,+60121000986,active,2026-06-11 19:14:24
+STU0248,Student 248,stu0248@student.aura-student-risk.com,Business,Business,+60121000987,active,2026-06-11 19:14:24
+STU0247,Student 247,stu0247@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000988,active,2026-06-11 19:14:24
+STU0246,Student 246,stu0246@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000989,active,2026-06-11 19:14:24
+STU0245,Student 245,stu0245@student.aura-student-risk.com,Engineering,Engineering,+60121000990,active,2026-06-11 19:14:24
+STU0244,Student 244,stu0244@student.aura-student-risk.com,Business,Business,+60121000991,active,2026-06-11 19:14:24
+STU0243,Student 243,stu0243@student.aura-student-risk.com,Engineering,Engineering,+60121000992,active,2026-06-11 19:14:24
+STU0242,Student 242,stu0242@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000993,active,2026-06-11 19:14:24
+STU0241,Student 241,stu0241@student.aura-student-risk.com,Business,Business,+60121000994,active,2026-06-11 19:14:24
+STU0240,Student 240,stu0240@student.aura-student-risk.com,Data Science,Data Science,+60121000995,active,2026-06-11 19:14:24
+STU0239,Student 239,stu0239@student.aura-student-risk.com,Business,Business,+60121000996,active,2026-06-11 19:14:24
+STU0238,Student 238,stu0238@student.aura-student-risk.com,Computer Science,Computer Science,+60121000997,active,2026-06-11 19:14:24
+STU0237,Student 237,stu0237@student.aura-student-risk.com,Engineering,Engineering,+60121000998,active,2026-06-11 19:14:24
+STU0236,Student 236,stu0236@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121000999,active,2026-06-11 19:14:24
+STU0235,Student 235,stu0235@student.aura-student-risk.com,Engineering,Engineering,+60121001000,active,2026-06-11 19:14:24
+STU0234,Student 234,stu0234@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001001,active,2026-06-11 19:14:24
+STU0233,Student 233,stu0233@student.aura-student-risk.com,Business,Business,+60121001002,active,2026-06-11 19:14:24
+STU0232,Student 232,stu0232@student.aura-student-risk.com,Computer Science,Computer Science,+60121001003,active,2026-06-11 19:14:24
+STU0231,Student 231,stu0231@student.aura-student-risk.com,Computer Science,Computer Science,+60121001004,active,2026-06-11 19:14:24
+STU0230,Student 230,stu0230@student.aura-student-risk.com,Business,Business,+60121001005,active,2026-06-11 19:14:24
+STU0229,Student 229,stu0229@student.aura-student-risk.com,Data Science,Data Science,+60121001006,active,2026-06-11 19:14:24
+STU0228,Student 228,stu0228@student.aura-student-risk.com,Computer Science,Computer Science,+60121001007,active,2026-06-11 19:14:24
+STU0227,Student 227,stu0227@student.aura-student-risk.com,Business,Business,+60121001008,active,2026-06-11 19:14:24
+STU0226,Student 226,stu0226@student.aura-student-risk.com,Computer Science,Computer Science,+60121001009,active,2026-06-11 19:14:24
+STU0225,Student 225,stu0225@student.aura-student-risk.com,Data Science,Data Science,+60121001010,active,2026-06-11 19:14:24
+STU0224,Student 224,stu0224@student.aura-student-risk.com,Business,Business,+60121001011,active,2026-06-11 19:14:24
+STU0223,Student 223,stu0223@student.aura-student-risk.com,Business,Business,+60121001012,active,2026-06-11 19:14:24
+STU0222,Student 222,stu0222@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001013,active,2026-06-11 19:14:24
+STU0221,Student 221,stu0221@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001014,active,2026-06-11 19:14:24
+STU0220,Student 220,stu0220@student.aura-student-risk.com,Data Science,Data Science,+60121001015,active,2026-06-11 19:14:24
+STU0219,Student 219,stu0219@student.aura-student-risk.com,Data Science,Data Science,+60121001016,active,2026-06-11 19:14:24
+STU0218,Student 218,stu0218@student.aura-student-risk.com,Engineering,Engineering,+60121001017,active,2026-06-11 19:14:24
+STU0217,Student 217,stu0217@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001018,active,2026-06-11 19:14:24
+STU0216,Student 216,stu0216@student.aura-student-risk.com,Engineering,Engineering,+60121001019,active,2026-06-11 19:14:24
+STU0215,Student 215,stu0215@student.aura-student-risk.com,Computer Science,Computer Science,+60121001020,active,2026-06-11 19:14:24
+STU0214,Student 214,stu0214@student.aura-student-risk.com,Business,Business,+60121001021,active,2026-06-11 19:14:24
+STU0213,Student 213,stu0213@student.aura-student-risk.com,Engineering,Engineering,+60121001022,active,2026-06-11 19:14:24
+STU0212,Student 212,stu0212@student.aura-student-risk.com,Computer Science,Computer Science,+60121001023,active,2026-06-11 19:14:24
+STU0211,Student 211,stu0211@student.aura-student-risk.com,Business,Business,+60121001024,active,2026-06-11 19:14:24
+STU0210,Student 210,stu0210@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001025,active,2026-06-11 19:14:24
+STU0209,Student 209,stu0209@student.aura-student-risk.com,Data Science,Data Science,+60121001026,active,2026-06-11 19:14:24
+STU0208,Student 208,stu0208@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001027,active,2026-06-11 19:14:24
+STU0207,Student 207,stu0207@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001028,active,2026-06-11 19:14:24
+STU0206,Student 206,stu0206@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001029,active,2026-06-11 19:14:24
+STU0205,Student 205,stu0205@student.aura-student-risk.com,Computer Science,Computer Science,+60121001030,active,2026-06-11 19:14:24
+STU0204,Student 204,stu0204@student.aura-student-risk.com,Data Science,Data Science,+60121001031,active,2026-06-11 19:14:24
+STU0203,Student 203,stu0203@student.aura-student-risk.com,Business,Business,+60121001032,active,2026-06-11 19:14:24
+STU0202,Student 202,stu0202@student.aura-student-risk.com,Data Science,Data Science,+60121001033,active,2026-06-11 19:14:24
+STU0201,Student 201,stu0201@student.aura-student-risk.com,Engineering,Engineering,+60121001034,active,2026-06-11 19:14:24
+STU0200,Student 200,stu0200@student.aura-student-risk.com,Computer Science,Computer Science,+60121001035,active,2026-06-11 19:14:24
+STU0199,Student 199,stu0199@student.aura-student-risk.com,Engineering,Engineering,+60121001036,active,2026-06-11 19:14:24
+STU0198,Student 198,stu0198@student.aura-student-risk.com,Business,Business,+60121001037,active,2026-06-11 19:14:24
+STU0197,Student 197,stu0197@student.aura-student-risk.com,Data Science,Data Science,+60121001038,active,2026-06-11 19:14:24
+STU0196,Student 196,stu0196@student.aura-student-risk.com,Business,Business,+60121001039,active,2026-06-11 19:14:24
+STU0195,Student 195,stu0195@student.aura-student-risk.com,Data Science,Data Science,+60121001040,active,2026-06-11 19:14:24
+STU0194,Student 194,stu0194@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001041,active,2026-06-11 19:14:24
+STU0193,Student 193,stu0193@student.aura-student-risk.com,Data Science,Data Science,+60121001042,active,2026-06-11 19:14:24
+STU0192,Student 192,stu0192@student.aura-student-risk.com,Engineering,Engineering,+60121001043,active,2026-06-11 19:14:24
+STU0191,Student 191,stu0191@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001044,active,2026-06-11 19:14:24
+STU0190,Student 190,stu0190@student.aura-student-risk.com,Engineering,Engineering,+60121001045,active,2026-06-11 19:14:24
+STU0189,Student 189,stu0189@student.aura-student-risk.com,Business,Business,+60121001046,active,2026-06-11 19:14:24
+STU0188,Student 188,stu0188@student.aura-student-risk.com,Computer Science,Computer Science,+60121001047,active,2026-06-11 19:14:24
+STU0187,Student 187,stu0187@student.aura-student-risk.com,Business,Business,+60121001048,active,2026-06-11 19:14:24
+STU0186,Student 186,stu0186@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001049,active,2026-06-11 19:14:24
+STU0185,Student 185,stu0185@student.aura-student-risk.com,Computer Science,Computer Science,+60121001050,active,2026-06-11 19:14:24
+STU0184,Student 184,stu0184@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001051,active,2026-06-11 19:14:24
+STU0183,Student 183,stu0183@student.aura-student-risk.com,Engineering,Engineering,+60121001052,active,2026-06-11 19:14:24
+STU0182,Student 182,stu0182@student.aura-student-risk.com,Business,Business,+60121001053,active,2026-06-11 19:14:24
+STU0181,Student 181,stu0181@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001054,active,2026-06-11 19:14:24
+STU0180,Student 180,stu0180@student.aura-student-risk.com,Data Science,Data Science,+60121001055,active,2026-06-11 19:14:24
+STU0179,Student 179,stu0179@student.aura-student-risk.com,Computer Science,Computer Science,+60121001056,active,2026-06-11 19:14:24
+STU0178,Student 178,stu0178@student.aura-student-risk.com,Computer Science,Computer Science,+60121001057,active,2026-06-11 19:14:24
+STU0177,Student 177,stu0177@student.aura-student-risk.com,Computer Science,Computer Science,+60121001058,active,2026-06-11 19:14:24
+STU0176,Student 176,stu0176@student.aura-student-risk.com,Data Science,Data Science,+60121001059,active,2026-06-11 19:14:24
+STU0175,Student 175,stu0175@student.aura-student-risk.com,Data Science,Data Science,+60121001060,active,2026-06-11 19:14:24
+STU0174,Student 174,stu0174@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001061,active,2026-06-11 19:14:24
+STU0173,Student 173,stu0173@student.aura-student-risk.com,Data Science,Data Science,+60121001062,active,2026-06-11 19:14:24
+STU0172,Student 172,stu0172@student.aura-student-risk.com,Data Science,Data Science,+60121001063,active,2026-06-11 19:14:24
+STU0171,Student 171,stu0171@student.aura-student-risk.com,Business,Business,+60121001064,active,2026-06-11 19:14:24
+STU0170,Student 170,stu0170@student.aura-student-risk.com,Engineering,Engineering,+60121001065,active,2026-06-11 19:14:24
+STU0169,Student 169,stu0169@student.aura-student-risk.com,Computer Science,Computer Science,+60121001066,active,2026-06-11 19:14:24
+STU0168,Student 168,stu0168@student.aura-student-risk.com,Computer Science,Computer Science,+60121001067,active,2026-06-11 19:14:24
+STU0167,Student 167,stu0167@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001068,active,2026-06-11 19:14:24
+STU0166,Student 166,stu0166@student.aura-student-risk.com,Business,Business,+60121001069,active,2026-06-11 19:14:24
+STU0165,Student 165,stu0165@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001070,active,2026-06-11 19:14:24
+STU0164,Student 164,stu0164@student.aura-student-risk.com,Computer Science,Computer Science,+60121001071,active,2026-06-11 19:14:24
+STU0163,Student 163,stu0163@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001072,active,2026-06-11 19:14:24
+STU0162,Student 162,stu0162@student.aura-student-risk.com,Business,Business,+60121001073,active,2026-06-11 19:14:24
+STU0161,Student 161,stu0161@student.aura-student-risk.com,Computer Science,Computer Science,+60121001074,active,2026-06-11 19:14:24
+STU0160,Student 160,stu0160@student.aura-student-risk.com,Engineering,Engineering,+60121001075,active,2026-06-11 19:14:24
+STU0159,Student 159,stu0159@student.aura-student-risk.com,Business,Business,+60121001076,active,2026-06-11 19:14:24
+STU0158,Student 158,stu0158@student.aura-student-risk.com,Engineering,Engineering,+60121001077,active,2026-06-11 19:14:24
+STU0157,Student 157,stu0157@student.aura-student-risk.com,Data Science,Data Science,+60121001078,active,2026-06-11 19:14:24
+STU0156,Student 156,stu0156@student.aura-student-risk.com,Data Science,Data Science,+60121001079,active,2026-06-11 19:14:24
+STU0155,Student 155,stu0155@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001080,active,2026-06-11 19:14:24
+STU0154,Student 154,stu0154@student.aura-student-risk.com,Computer Science,Computer Science,+60121001081,active,2026-06-11 19:14:24
+STU0153,Student 153,stu0153@student.aura-student-risk.com,Engineering,Engineering,+60121001082,active,2026-06-11 19:14:24
+STU0152,Student 152,stu0152@student.aura-student-risk.com,Business,Business,+60121001083,active,2026-06-11 19:14:24
+STU0151,Student 151,stu0151@student.aura-student-risk.com,Engineering,Engineering,+60121001084,active,2026-06-11 19:14:24
+STU0150,Student 150,stu0150@student.aura-student-risk.com,Engineering,Engineering,+60121001085,active,2026-06-11 19:14:24
+STU0149,Student 149,stu0149@student.aura-student-risk.com,Computer Science,Computer Science,+60121001086,active,2026-06-11 19:14:24
+STU0148,Student 148,stu0148@student.aura-student-risk.com,Business,Business,+60121001087,active,2026-06-11 19:14:24
+STU0147,Student 147,stu0147@student.aura-student-risk.com,Data Science,Data Science,+60121001088,active,2026-06-11 19:14:24
+STU0146,Student 146,stu0146@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001089,active,2026-06-11 19:14:24
+STU0145,Student 145,stu0145@student.aura-student-risk.com,Business,Business,+60121001090,active,2026-06-11 19:14:24
+STU0144,Student 144,stu0144@student.aura-student-risk.com,Engineering,Engineering,+60121001091,active,2026-06-11 19:14:24
+STU0143,Student 143,stu0143@student.aura-student-risk.com,Business,Business,+60121001092,active,2026-06-11 19:14:24
+STU0142,Student 142,stu0142@student.aura-student-risk.com,Engineering,Engineering,+60121001093,active,2026-06-11 19:14:24
+STU0141,Student 141,stu0141@student.aura-student-risk.com,Business,Business,+60121001094,active,2026-06-11 19:14:24
+STU0140,Student 140,stu0140@student.aura-student-risk.com,Computer Science,Computer Science,+60121001095,active,2026-06-11 19:14:24
+STU0139,Student 139,stu0139@student.aura-student-risk.com,Computer Science,Computer Science,+60121001096,active,2026-06-11 19:14:24
+STU0138,Student 138,stu0138@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001097,active,2026-06-11 19:14:24
+STU0137,Student 137,stu0137@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001098,active,2026-06-11 19:14:24
+STU0136,Student 136,stu0136@student.aura-student-risk.com,Business,Business,+60121001099,active,2026-06-11 19:14:24
+STU0135,Student 135,stu0135@student.aura-student-risk.com,Business,Business,+60121001100,active,2026-06-11 19:14:24
+STU0134,Student 134,stu0134@student.aura-student-risk.com,Data Science,Data Science,+60121001101,active,2026-06-11 19:14:24
+STU0133,Student 133,stu0133@student.aura-student-risk.com,Engineering,Engineering,+60121001102,active,2026-06-11 19:14:24
+STU0132,Student 132,stu0132@student.aura-student-risk.com,Business,Business,+60121001103,active,2026-06-11 19:14:24
+STU0131,Student 131,stu0131@student.aura-student-risk.com,Business,Business,+60121001104,active,2026-06-11 19:14:24
+STU0130,Student 130,stu0130@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001105,active,2026-06-11 19:14:24
+STU0129,Student 129,stu0129@student.aura-student-risk.com,Data Science,Data Science,+60121001106,active,2026-06-11 19:14:24
+STU0128,Student 128,stu0128@student.aura-student-risk.com,Computer Science,Computer Science,+60121001107,active,2026-06-11 19:14:24
+STU0127,Student 127,stu0127@student.aura-student-risk.com,Data Science,Data Science,+60121001108,active,2026-06-11 19:14:24
+STU0126,Student 126,stu0126@student.aura-student-risk.com,Data Science,Data Science,+60121001109,active,2026-06-11 19:14:24
+STU0125,Student 125,stu0125@student.aura-student-risk.com,Data Science,Data Science,+60121001110,active,2026-06-11 19:14:24
+STU0124,Student 124,stu0124@student.aura-student-risk.com,Engineering,Engineering,+60121001111,active,2026-06-11 19:14:24
+STU0123,Student 123,stu0123@student.aura-student-risk.com,Engineering,Engineering,+60121001112,active,2026-06-11 19:14:24
+STU0122,Student 122,stu0122@student.aura-student-risk.com,Data Science,Data Science,+60121001113,active,2026-06-11 19:14:24
+STU0121,Student 121,stu0121@student.aura-student-risk.com,Data Science,Data Science,+60121001114,active,2026-06-11 19:14:24
+STU0119,Student 119,stu0119@student.aura-student-risk.com,Engineering,Engineering,+60121001115,active,2026-06-11 19:14:24
+STU0118,Student 118,stu0118@student.aura-student-risk.com,Data Science,Data Science,+60121001116,active,2026-06-11 19:14:24
+STU0117,Student 117,stu0117@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001117,active,2026-06-11 19:14:24
+STU0116,Student 116,stu0116@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001118,active,2026-06-11 19:14:24
+STU0115,Student 115,stu0115@student.aura-student-risk.com,Engineering,Engineering,+60121001119,active,2026-06-11 19:14:24
+STU0114,Student 114,stu0114@student.aura-student-risk.com,Business,Business,+60121001120,active,2026-06-11 19:14:24
+STU0113,Student 113,stu0113@student.aura-student-risk.com,Engineering,Engineering,+60121001121,active,2026-06-11 19:14:24
+STU0112,Student 112,stu0112@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001122,active,2026-06-11 19:14:24
+STU0111,Student 111,stu0111@student.aura-student-risk.com,Data Science,Data Science,+60121001123,active,2026-06-11 19:14:24
+STU0110,Student 110,stu0110@student.aura-student-risk.com,Engineering,Engineering,+60121001124,active,2026-06-11 19:14:24
+STU0106,Student 106,stu0106@student.aura-student-risk.com,Engineering,Engineering,+60121001125,active,2026-06-11 19:14:24
+STU0105,Student 105,stu0105@student.aura-student-risk.com,Computer Science,Computer Science,+60121001126,active,2026-06-11 19:14:24
+STU0104,Student 104,stu0104@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001127,active,2026-06-11 19:14:24
+STU0103,Student 103,stu0103@student.aura-student-risk.com,Data Science,Data Science,+60121001128,active,2026-06-11 19:14:24
+STU0101,Student 101,stu0101@student.aura-student-risk.com,Business,Business,+60121001129,active,2026-06-11 19:14:24
+STU0100,Student 100,stu0100@student.aura-student-risk.com,Engineering,Engineering,+60121001130,active,2026-06-11 19:14:24
+STU0099,Student 99,stu0099@student.aura-student-risk.com,Engineering,Engineering,+60121001131,active,2026-06-11 19:14:24
+STU0098,Student 98,stu0098@student.aura-student-risk.com,Computer Science,Computer Science,+60121001132,active,2026-06-11 19:14:24
+STU0096,Student 96,stu0096@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001133,active,2026-06-11 19:14:24
+STU0095,Student 95,stu0095@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001134,active,2026-06-11 19:14:24
+STU0094,Student 94,stu0094@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001135,active,2026-06-11 19:14:24
+STU0092,Student 92,stu0092@student.aura-student-risk.com,Business,Business,+60121001136,active,2026-06-11 19:14:24
+STU0091,Student 91,stu0091@student.aura-student-risk.com,Computer Science,Computer Science,+60121001137,active,2026-06-11 19:14:24
+STU0090,Student 90,stu0090@student.aura-student-risk.com,Computer Science,Computer Science,+60121001138,active,2026-06-11 19:14:24
+STU0088,Student 88,stu0088@student.aura-student-risk.com,Computer Science,Computer Science,+60121001139,active,2026-06-11 19:14:24
+STU0087,Student 87,stu0087@student.aura-student-risk.com,Data Science,Data Science,+60121001140,active,2026-06-11 19:14:24
+STU0086,Student 86,stu0086@student.aura-student-risk.com,Data Science,Data Science,+60121001141,active,2026-06-11 19:14:24
+STU0085,Student 85,stu0085@student.aura-student-risk.com,Engineering,Engineering,+60121001142,active,2026-06-11 19:14:24
+STU0084,Student 84,stu0084@student.aura-student-risk.com,Engineering,Engineering,+60121001143,active,2026-06-11 19:14:24
+STU0083,Student 83,stu0083@student.aura-student-risk.com,Data Science,Data Science,+60121001144,active,2026-06-11 19:14:24
+STU0082,Student 82,stu0082@student.aura-student-risk.com,Data Science,Data Science,+60121001145,active,2026-06-11 19:14:24
+STU0080,Student 80,stu0080@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001146,active,2026-06-11 19:14:24
+STU0079,Student 79,stu0079@student.aura-student-risk.com,Business,Business,+60121001147,active,2026-06-11 19:14:24
+STU0078,Student 78,stu0078@student.aura-student-risk.com,Business,Business,+60121001148,active,2026-06-11 19:14:24
+STU0076,Student 76,stu0076@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001149,active,2026-06-11 19:14:24
+STU0075,Student 75,stu0075@student.aura-student-risk.com,Computer Science,Computer Science,+60121001150,active,2026-06-11 19:14:24
+STU0074,Student 74,stu0074@student.aura-student-risk.com,Computer Science,Computer Science,+60121001151,active,2026-06-11 19:14:24
+STU0073,Student 73,stu0073@student.aura-student-risk.com,Computer Science,Computer Science,+60121001152,active,2026-06-11 19:14:24
+STU0072,Student 72,stu0072@student.aura-student-risk.com,Engineering,Engineering,+60121001153,active,2026-06-11 19:14:24
+STU0071,Student 71,stu0071@student.aura-student-risk.com,Data Science,Data Science,+60121001154,active,2026-06-11 19:14:24
+STU0070,Student 70,stu0070@student.aura-student-risk.com,Business,Business,+60121001155,active,2026-06-11 19:14:24
+STU0069,Student 69,stu0069@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001156,active,2026-06-11 19:14:24
+STU0068,Student 68,stu0068@student.aura-student-risk.com,Data Science,Data Science,+60121001157,active,2026-06-11 19:14:24
+STU0067,Student 67,stu0067@student.aura-student-risk.com,Data Science,Data Science,+60121001158,active,2026-06-11 19:14:24
+STU0066,Student 66,stu0066@student.aura-student-risk.com,Engineering,Engineering,+60121001159,active,2026-06-11 19:14:24
+STU0065,Student 65,stu0065@student.aura-student-risk.com,Business,Business,+60121001160,active,2026-06-11 19:14:24
+STU0064,Student 64,stu0064@student.aura-student-risk.com,Engineering,Engineering,+60121001161,active,2026-06-11 19:14:24
+STU0063,Student 63,stu0063@student.aura-student-risk.com,Business,Business,+60121001162,active,2026-06-11 19:14:24
+STU0062,Student 62,stu0062@student.aura-student-risk.com,Data Science,Data Science,+60121001163,active,2026-06-11 19:14:24
+STU0061,Student 61,stu0061@student.aura-student-risk.com,Engineering,Engineering,+60121001164,active,2026-06-11 19:14:24
+STU0060,Student 60,stu0060@student.aura-student-risk.com,Data Science,Data Science,+60121001165,active,2026-06-11 19:14:24
+STU0059,Student 59,stu0059@student.aura-student-risk.com,Computer Science,Computer Science,+60121001166,active,2026-06-11 19:14:24
+STU0058,Student 58,stu0058@student.aura-student-risk.com,Business,Business,+60121001167,active,2026-06-11 19:14:24
+STU0057,Student 57,stu0057@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001168,active,2026-06-11 19:14:24
+STU0056,Student 56,stu0056@student.aura-student-risk.com,Computer Science,Computer Science,+60121001169,active,2026-06-11 19:14:24
+STU0055,Student 55,stu0055@student.aura-student-risk.com,Computer Science,Computer Science,+60121001170,active,2026-06-11 19:14:24
+STU0054,Student 54,stu0054@student.aura-student-risk.com,Computer Science,Computer Science,+60121001171,active,2026-06-11 19:14:24
+STU0053,Student 53,stu0053@student.aura-student-risk.com,Engineering,Engineering,+60121001172,active,2026-06-11 19:14:24
+STU0052,Student 52,stu0052@student.aura-student-risk.com,Computer Science,Computer Science,+60121001173,active,2026-06-11 19:14:24
+STU0051,Student 51,stu0051@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001174,active,2026-06-11 19:14:24
+STU0050,Student 50,stu0050@student.aura-student-risk.com,Computer Science,Computer Science,+60121001175,active,2026-06-11 19:14:24
+STU0049,Student 49,stu0049@student.aura-student-risk.com,Business,Business,+60121001176,active,2026-06-11 19:14:24
+STU0048,Student 48,stu0048@student.aura-student-risk.com,Engineering,Engineering,+60121001177,active,2026-06-11 19:14:24
+STU0047,Student 47,stu0047@student.aura-student-risk.com,Computer Science,Computer Science,+60121001178,active,2026-06-11 19:14:24
+STU0046,Student 46,stu0046@student.aura-student-risk.com,Business,Business,+60121001179,active,2026-06-11 19:14:24
+STU0045,Student 45,stu0045@student.aura-student-risk.com,Engineering,Engineering,+60121001180,active,2026-06-11 19:14:24
+STU0044,Student 44,stu0044@student.aura-student-risk.com,Data Science,Data Science,+60121001181,active,2026-06-11 19:14:24
+STU0043,Student 43,stu0043@student.aura-student-risk.com,Data Science,Data Science,+60121001182,active,2026-06-11 19:14:24
+STU0042,Student 42,stu0042@student.aura-student-risk.com,Computer Science,Computer Science,+60121001183,active,2026-06-11 19:14:24
+STU0041,Student 41,stu0041@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001184,active,2026-06-11 19:14:24
+STU0039,Student 39,stu0039@student.aura-student-risk.com,Engineering,Engineering,+60121001185,active,2026-06-11 19:14:24
+STU0038,Student 38,stu0038@student.aura-student-risk.com,Business,Business,+60121001186,active,2026-06-11 19:14:24
+STU0037,Student 37,stu0037@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001187,active,2026-06-11 19:14:24
+STU0035,Student 35,stu0035@student.aura-student-risk.com,Business,Business,+60121001188,active,2026-06-11 19:14:24
+STU0033,Student 33,stu0033@student.aura-student-risk.com,Engineering,Engineering,+60121001189,active,2026-06-11 19:14:24
+STU0031,Student 31,stu0031@student.aura-student-risk.com,Engineering,Engineering,+60121001190,active,2026-06-11 19:14:24
+STU0029,Student 29,stu0029@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001191,active,2026-06-11 19:14:24
+STU0028,Student 28,stu0028@student.aura-student-risk.com,Business,Business,+60121001192,active,2026-06-11 19:14:24
+STU0027,Student 27,stu0027@student.aura-student-risk.com,Business,Business,+60121001193,active,2026-06-11 19:14:24
+STU0026,Student 26,stu0026@student.aura-student-risk.com,Business,Business,+60121001194,active,2026-06-11 19:14:24
+STU0025,Student 25,stu0025@student.aura-student-risk.com,Business,Business,+60121001195,active,2026-06-11 19:14:24
+STU0024,Student 24,stu0024@student.aura-student-risk.com,Data Science,Data Science,+60121001196,active,2026-06-11 19:14:24
+STU0023,Student 23,stu0023@student.aura-student-risk.com,Data Science,Data Science,+60121001197,active,2026-06-11 19:14:24
+STU0022,Student 22,stu0022@student.aura-student-risk.com,Business,Business,+60121001198,active,2026-06-11 19:14:24
+STU0021,Student 21,stu0021@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001199,active,2026-06-11 19:14:24
+STU0020,Student 20,stu0020@student.aura-student-risk.com,Data Science,Data Science,+60121001200,active,2026-06-11 19:14:24
+STU0019,Student 19,stu0019@student.aura-student-risk.com,Data Science,Data Science,+60121001201,active,2026-06-11 19:14:24
+STU0018,Student 18,stu0018@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001202,active,2026-06-11 19:14:24
+STU0017,Student 17,stu0017@student.aura-student-risk.com,Computer Science,Computer Science,+60121001203,active,2026-06-11 19:14:24
+STU0016,Student 16,stu0016@student.aura-student-risk.com,Business,Business,+60121001204,active,2026-06-11 19:14:24
+STU0014,Student 14,stu0014@student.aura-student-risk.com,Data Science,Data Science,+60121001205,active,2026-06-11 19:14:24
+STU0013,Student 13,stu0013@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001206,active,2026-06-11 19:14:24
+STU0012,Student 12,stu0012@student.aura-student-risk.com,Engineering,Engineering,+60121001207,active,2026-06-11 19:14:24
+STU0011,Student 11,stu0011@student.aura-student-risk.com,Engineering,Engineering,+60121001208,active,2026-06-11 19:14:24
+STU0010,Student 10,stu0010@student.aura-student-risk.com,Business,Business,+60121001209,active,2026-06-11 19:14:24
+STU0009,Student 9,stu0009@student.aura-student-risk.com,Engineering,Engineering,+60121001210,active,2026-06-11 19:14:24
+STU0008,Student 8,stu0008@student.aura-student-risk.com,Computer Science,Computer Science,+60121001211,active,2026-06-11 19:14:24
+STU0007,Student 7,stu0007@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001212,active,2026-06-11 19:14:24
+STU0006,Student 6,stu0006@student.aura-student-risk.com,Business,Business,+60121001213,active,2026-06-11 19:14:24
+STU0005,Student 5,stu0005@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001214,active,2026-06-11 19:14:24
+STU0003,Student 3,stu0003@student.aura-student-risk.com,Data Science,Data Science,+60121001215,active,2026-06-11 19:14:24
+STU0002,Student 2,stu0002@student.aura-student-risk.com,Computer Science,Computer Science,+60121001216,active,2026-06-11 19:14:24
+STU0001,Student 1,stu0001@student.aura-student-risk.com,Software Engineering,Software Engineering,+60121001217,active,2026-06-11 19:14:24
+0370959,Zhang Shijia,zsjhappy2024@126.com,CS,Computer Science,+60121070959,active,2026-06-11 19:24:47
